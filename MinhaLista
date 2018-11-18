@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/DTX-cOyU8AAT-OD.jpg" tvg-name="*****erers"  group-title="Sessao Bonus",*****erers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4?KeltecMPIPTV
 
