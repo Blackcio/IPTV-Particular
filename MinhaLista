@@ -1,980 +1,636 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quando um Estranho Chama"  group-title="FILMES ANTIGOS",Quando um Estranho Chama
+#EXTINF:5222, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quando um Estranho Chama"  group-title="FILMES ANTIGOS" - Quando um Estranho Chama
 http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estrada Maldita"  group-title="FILMES ANTIGOS",Estrada Maldita
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estrada Maldita"  group-title="FILMES ANTIGOS" - Estrada Maldita
 http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comportamento Suspeito"  group-title="FILMES ANTIGOS",Comportamento Suspeito
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comportamento Suspeito"  group-title="FILMES ANTIGOS" - Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mulher Solteira Procura"  group-title="FILMES ANTIGOS",Mulher Solteira Procura
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mulher Solteira Procura"  group-title="FILMES ANTIGOS" - Mulher Solteira Procura
 http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quarentena"  group-title="FILMES ANTIGOS",Quarentena
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quarentena"  group-title="FILMES ANTIGOS" - Quarentena
 http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Identidade"  group-title="FILMES ANTIGOS",Identidade
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Identidade"  group-title="FILMES ANTIGOS" - Identidade
 http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lenda Urbana 3 - A Vinganca de Mary"  group-title="FILMES ANTIGOS",Lenda Urbana 3 - A Vinganca de Mary
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lenda Urbana 3 - A Vinganca de Mary"  group-title="FILMES ANTIGOS",Lenda Urbana 3 - A Vinganca de Mary
 http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stigmata"  group-title="FILMES ANTIGOS",Stigmata
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stigmata"  group-title="FILMES ANTIGOS" - Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Na Companhia Do Medo"  group-title="FILMES ANTIGOS",Na Companhia Do Medo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Na Companhia Do Medo"  group-title="FILMES ANTIGOS" - Na Companhia Do Medo
 http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Codigo Da Vinci"  group-title="FILMES ANTIGOS",O Codigo Da Vinci
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Codigo Da Vinci"  group-title="FILMES ANTIGOS" - O Codigo Da Vinci
 http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Janela Secreta"  group-title="FILMES ANTIGOS",A Janela Secreta
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Janela Secreta"  group-title="FILMES ANTIGOS" - A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segundas Intencoes 3"  group-title="FILMES ANTIGOS",Segundas Intencoes 3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segundas Intencoes 3"  group-title="FILMES ANTIGOS" - Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desejo a Tres"  group-title="FILMES ANTIGOS",Desejo a Tres
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desejo a Tres"  group-title="FILMES ANTIGOS" - Desejo a Tres
 http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red Corner"  group-title="FILMES ANTIGOS",Red Corner
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red Corner"  group-title="FILMES ANTIGOS" - Red Corner
 http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rios Vermelhos"  group-title="FILMES ANTIGOS",Rios Vermelhos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rios Vermelhos"  group-title="FILMES ANTIGOS" - Rios Vermelhos
 http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Vestigios"  group-title="FILMES ANTIGOS",Sem Vestigios
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Vestigios"  group-title="FILMES ANTIGOS" - Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mergulho Radical 2: Os Recifes"  group-title="Unsorted",Mergulho Radical 2: Os Recifes
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mergulho Radical 2: Os Recifes"  group-title="Unsorted" - Mergulho Radical 2: Os Recifes
 http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hooligans: Furia nos campos"  group-title="Unsorted",Hooligans: Furia nos campos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hooligans: Furia nos campos"  group-title="Unsorted" - Hooligans: Furia nos campos
 http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S.W.A.T. - Comando Especial"  group-title="Unsorted",S.W.A.T. - Comando Especial
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S.W.A.T. - Comando Especial"  group-title="Unsorted",S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Crash: No Limite"  group-title="Unsorted",Crash: No Limite
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Crash: No Limite"  group-title="Unsorted" - Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Era da Escuridao - Mutant Chronicles"  group-title="Unsorted",A Era da Escuridao - Mutant Chronicles
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Era da Escuridao - Mutant Chronicles"  group-title="Unsorted",A Era da Escuridao - Mutant Chronicles
 http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desafio Radical"  group-title="Unsorted",Desafio Radical
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desafio Radical"  group-title="Unsorted" - Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Divisao de Homicidios"  group-title="Unsorted",Divisao de Homicidios
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Divisao de Homicidios"  group-title="Unsorted" - Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caes de Guerra"  group-title="Unsorted",Caes de Guerra
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caes de Guerra"  group-title="Unsorted" - Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Conquista Sangrenta"  group-title="Unsorted",Conquista Sangrenta
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Conquista Sangrenta"  group-title="Unsorted" - Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fantasmas de Marte"  group-title="Unsorted",Fantasmas de Marte
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fantasmas de Marte"  group-title="Unsorted" - Fantasmas de Marte
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Excesso de Bagagem"  group-title="Unsorted",Excesso de Bagagem
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Excesso de Bagagem"  group-title="Unsorted" - Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vinganca"  group-title="Unsorted",Vinganca
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vinganca"  group-title="Unsorted" - Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sou Espiao"  group-title="Unsorted",Sou Espiao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sou Espiao"  group-title="Unsorted" - Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Assalto Sobre Trilhos"  group-title="Unsorted",Assalto Sobre Trilhos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Assalto Sobre Trilhos"  group-title="Unsorted" - Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Horas de Desespero"  group-title="Unsorted",Horas de Desespero
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Horas de Desespero"  group-title="Unsorted" - Horas de Desespero
 http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Agente Indomavel"  group-title="Unsorted",Agente Indomavel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Agente Indomavel"  group-title="Unsorted" - Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Guerra ao Terror"  group-title="Unsorted",Guerra ao Terror
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Guerra ao Terror"  group-title="Unsorted" - Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Redline: Velocidade sem Limites"  group-title="Unsorted",Redline: Velocidade sem Limites
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Redline: Velocidade sem Limites"  group-title="Unsorted" - Redline: Velocidade sem Limites
 http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/RDLNEVLCDSMLMTS.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Haven"  group-title="Unsorted",Haven
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Haven"  group-title="Unsorted" - Haven
 http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Senhor das Armas"  group-title="Unsorted",O Senhor das Armas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Senhor das Armas"  group-title="Unsorted" - O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Reis de Dogtown"  group-title="Unsorted",Os Reis de Dogtown
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Reis de Dogtown"  group-title="Unsorted" - Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao 3 - A Maldicao do Calice de Judas"  group-title="Unsorted",O Guardiao 3 - A Maldicao do Calice de Judas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao 3 - A Maldicao do Calice de Judas"  group-title="Unsorted",O Guardiao 3 - A Maldicao do Calice de Judas
 http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Legionario"  group-title="Unsorted",O Legionario
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Legionario"  group-title="Unsorted" - O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red - Aposentados e Perigosos"  group-title="Unsorted",Red - Aposentados e Perigosos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red - Aposentados e Perigosos"  group-title="Unsorted",Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ruslan - Vinganca Explosiva"  group-title="Unsorted",Ruslan - Vinganca Explosiva
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ruslan - Vinganca Explosiva"  group-title="Unsorted",Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Soldado Universal 3 - Regeneracao"  group-title="Unsorted",Soldado Universal 3 - Regeneracao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Soldado Universal 3 - Regeneracao"  group-title="Unsorted",Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Risco Absoluto"  group-title="Unsorted",Risco Absoluto
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Risco Absoluto"  group-title="Unsorted" - Risco Absoluto
 http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rocky Balboa"  group-title="Unsorted",Rocky Balboa
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rocky Balboa"  group-title="Unsorted" - Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao 2 - Retorno As Minas do Rei Salomao"  group-title="Unsorted",O Guardiao 2 - Retorno As Minas do Rei Salomao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao 2 - Retorno As Minas do Rei Salomao"  group-title="Unsorted",O Guardiao 2 - Retorno As Minas do Rei Salomao
 http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Honra e Coragem - As Quatro Plumas"  group-title="Unsorted",Honra e Coragem - As Quatro Plumas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Honra e Coragem - As Quatro Plumas"  group-title="Unsorted",Honra e Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Impacto Mortal"  group-title="Unsorted",Impacto Mortal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Impacto Mortal"  group-title="Unsorted" - Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Godzilla (1998)"  group-title="Unsorted",Godzilla (1998)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Godzilla (1998)"  group-title="Unsorted" - Godzilla (1998)
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cacada sem Treguas"  group-title="Unsorted",Cacada sem Treguas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cacada sem Treguas"  group-title="Unsorted" - Cacada sem Treguas
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Karate Kid 3 - O Desafio Final Filme"  group-title="Unsorted",Karate Kid 3 - O Desafio Final Filme
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Karate Kid 3 - O Desafio Final Filme"  group-title="Unsorted",Karate Kid 3 - O Desafio Final Filme
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Grande Anjo Negro"  group-title="Unsorted",O Grande Anjo Negro
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Grande Anjo Negro"  group-title="Unsorted" - O Grande Anjo Negro
 http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao"  group-title="Unsorted",O Guardiao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Guardiao"  group-title="Unsorted" - O Guardiao
 http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Matador De Aluguel"  group-title="Unsorted",Matador De Aluguel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Matador De Aluguel"  group-title="Unsorted" - Matador De Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Colecionador de Ossos"  group-title="Unsorted",O Colecionador de Ossos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Colecionador de Ossos"  group-title="Unsorted" - O Colecionador de Ossos
 http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos da Noite 3 - A Rebeliao"  group-title="Unsorted",Anjos da Noite 3 - A Rebeliao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos da Noite 3 - A Rebeliao"  group-title="Unsorted",Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REC"  group-title="Unsorted",REC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REC"  group-title="Unsorted" - REC
 http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tentaculos"  group-title="Unsorted",Tentaculos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tentaculos"  group-title="Unsorted" - Tentaculos
 http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao Adianta Fugir"  group-title="Unsorted",Nao Adianta Fugir
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao Adianta Fugir"  group-title="Unsorted" - Nao Adianta Fugir
 http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Principal Suspeito"  group-title="Unsorted",O Principal Suspeito
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Principal Suspeito"  group-title="Unsorted" - O Principal Suspeito
 http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Torturado"  group-title="Unsorted",Torturado
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Torturado"  group-title="Unsorted" - Torturado
 http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos da Noite: A Evolucao"  group-title="Unsorted",Anjos da Noite: A Evolucao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos da Noite: A Evolucao"  group-title="Unsorted" - Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hancock"  group-title="Unsorted",Hancock
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hancock"  group-title="Unsorted" - Hancock
 http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vestida Para Matar"  group-title="Unsorted",Vestida Para Matar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vestida Para Matar"  group-title="Unsorted" - Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Feitico do Tempo"  group-title="Unsorted",Feitico do Tempo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Feitico do Tempo"  group-title="Unsorted" - Feitico do Tempo
 http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kalifornia - Uma Viagem ao Inferno"  group-title="Unsorted",Kalifornia - Uma Viagem ao Inferno
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kalifornia - Uma Viagem ao Inferno"  group-title="Unsorted",Kalifornia - Uma Viagem ao Inferno
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Evil Dead - A Morte do Demonio"  group-title="Unsorted",Evil Dead - A Morte do Demonio
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Evil Dead - A Morte do Demonio"  group-title="Unsorted",Evil Dead - A Morte do Demonio
 http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Albergue"  group-title="Unsorted",O Albergue
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Albergue"  group-title="Unsorted" - O Albergue
 http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Albergue 2"  group-title="Unsorted",O Albergue 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Albergue 2"  group-title="Unsorted" - O Albergue 2
 http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jovens Bruxas"  group-title="Unsorted",Jovens Bruxas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jovens Bruxas"  group-title="Unsorted" - Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lenda Urbana 2"  group-title="Unsorted",Lenda Urbana 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lenda Urbana 2"  group-title="Unsorted" - Lenda Urbana 2
 http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Christine - O Carro Assassino"  group-title="Unsorted",Christine - O Carro Assassino
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Christine - O Carro Assassino"  group-title="Unsorted",Christine - O Carro Assassino
 http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brinquedo Assassino"  group-title="Unsorted",Brinquedo Assassino
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brinquedo Assassino"  group-title="Unsorted" - Brinquedo Assassino
 http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Silent Hill: Revelacao"  group-title="Unsorted",Silent Hill: Revelacao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Silent Hill: Revelacao"  group-title="Unsorted" - Silent Hill: Revelacao
 http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Grito 2"  group-title="Unsorted",O Grito 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Grito 2"  group-title="Unsorted" - O Grito 2
 http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Espiao Por Acidente"  group-title="Unsorted",Espiao Por Acidente
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Espiao Por Acidente"  group-title="Unsorted" - Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Triplo X"  group-title="Unsorted",Triplo X
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Triplo X"  group-title="Unsorted" - Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Violacao de Privacidade"  group-title="Unsorted",Violacao de Privacidade
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Violacao de Privacidade"  group-title="Unsorted" - Violacao de Privacidade
 http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Resident Evil 3: A Extin��o (2007)"  group-title="Unsorted",Resident Evil 3: A Extin��o (2007)
-http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Homen Sombra"  group-title="Unsorted",O Homen Sombra
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Resident Evil 3: A Extinhttp://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Homen Sombra"  group-title="Unsorted" - O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JCVD"  group-title="Unsorted",JCVD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JCVD"  group-title="Unsorted" - JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Forasteiro 2"  group-title="Unsorted",O Forasteiro 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Forasteiro 2"  group-title="Unsorted" - O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX2 - Estado de Emergencia"  group-title="Unsorted",XXX2 - Estado de Emergencia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX2 - Estado de Emergencia"  group-title="Unsorted",XXX2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Replicante"  group-title="Unsorted",Replicante
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Replicante"  group-title="Unsorted" - Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Skyline - A Invasao"  group-title="Unsorted",Skyline - A Invasao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Skyline - A Invasao"  group-title="Unsorted",Skyline - A Invasao
 http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supernova"  group-title="Unsorted",Supernova
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supernova"  group-title="Unsorted" - Supernova
 http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starman - O Homem das Estrelas"  group-title="Unsorted",Starman - O Homem das Estrelas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starman - O Homem das Estrelas"  group-title="Unsorted",Starman - O Homem das Estrelas
 http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fuga de Absolom"  group-title="Unsorted",Fuga de Absolom
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fuga de Absolom"  group-title="Unsorted" - Fuga de Absolom
 http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dr. Fantastico"  group-title="Unsorted",Dr. Fantastico
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dr. Fantastico"  group-title="Unsorted" - Dr. Fantastico
 http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Herois"  group-title="Unsorted",Herois
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Herois"  group-title="Unsorted" - Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Equilibrio"  group-title="Unsorted",Equilibrio
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Equilibrio"  group-title="Unsorted" - Equilibrio
 http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eXistenZ"  group-title="Unsorted",eXistenZ
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eXistenZ"  group-title="Unsorted" - eXistenZ
 http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1984"  group-title="Unsorted",1984
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1984"  group-title="Unsorted" - 1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Contatos Imediatos de Terceiro Grau"  group-title="Unsorted",Contatos Imediatos de Terceiro Grau
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Contatos Imediatos de Terceiro Grau"  group-title="Unsorted" - Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tempos de Violencia"  group-title="Unsorted",Tempos de Violencia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tempos de Violencia"  group-title="Unsorted" - Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Sacada"  group-title="Unsorted",A Sacada
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Sacada"  group-title="Unsorted" - A Sacada
 https://lh3.googleusercontent.com/6WsXgQ28eeWNlyeWD01IUUuBc8ANKAuS4QpcRMDL_OA9xNHZLECPEMRRRumRsQeaZsaoSJhUg3YycQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="American Poltergeist"  group-title="Unsorted",American Poltergeist
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="American Poltergeist"  group-title="Unsorted" - American Poltergeist
 https://lh3.googleusercontent.com/j2RRpsNFHTaVPiSUgyMmyFEucWE8QvIcqH6URhWvjhEAv3qXODgmYTf4gcLfA5MHJu4otETRPBWzXg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Invasores"  group-title="Unsorted",Invasores
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Invasores"  group-title="Unsorted" - Invasores
 https://lh3.googleusercontent.com/fLUVJat106JyzM7dQPVsfx_ycE6veJvU9RU08-4YTbVWZZNX9DJ2NoqSYeAFTrQ43YEf4cwrzfS3qg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Encurralados"  group-title="Unsorted",Encurralados
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Encurralados"  group-title="Unsorted" - Encurralados
 https://lh3.googleusercontent.com/h64MNd0L4SPlv6O3PlBvKvG933s1JmdGLOjrife9hksdesbEJff7sCUBLJuOko8F1qMHUt55xbbaOg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persegui��o na Floresta"  group-title="Unsorted",Persegui��o na Floresta
-https://lh3.googleusercontent.com/0eNKgDoEptynm4-fBrOxd3-xUjbQPH4pMzMFt_-2JcDBcdhWP8c-ig17vv6HnVPVtqzeSazR58kIVg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="American Poltergeist 2016"  group-title="Unsorted",American Poltergeist 2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Perseguihttps://lh3.googleusercontent.com/0eNKgDoEptynm4-fBrOxd3-xUjbQPH4pMzMFt_-2JcDBcdhWP8c-ig17vv6HnVPVtqzeSazR58kIVg=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="American Poltergeist 2016"  group-title="Unsorted" - American Poltergeist 2016
 https://lh3.googleusercontent.com/bojn8V71IUtWdselbOO3ldZ0Erf2o2o3PaeWo62SPmAhH_DnJFzQ_0XWyrRwjqv7A-1ZLGbrFMuG9Q=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Parceiros de Jogo"  group-title="Unsorted",Parceiros de Jogo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Parceiros de Jogo"  group-title="Unsorted" - Parceiros de Jogo
 https://lh3.googleusercontent.com/z24aZIWXkXnLH1ExvvVhHI1Apg5cGXtiFeHyvhZz5Y2M0Me6XT5L31A-pdEEqWG5c5IEiijxYNU=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cherry Tree"  group-title="Unsorted",Cherry Tree
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cherry Tree"  group-title="Unsorted" - Cherry Tree
 https://lh3.googleusercontent.com/AgO1BtNMwzfmkttfL4hOwfWqKr-As8fW-eH2IyOzi8hl-lkUfhWWnoUDTpsluctSlBP5p-dTsPkWYw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Criminosos e Anjos"  group-title="Unsorted",Criminosos e Anjos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Criminosos e Anjos"  group-title="Unsorted" - Criminosos e Anjos
 https://lh3.googleusercontent.com/3u7XWxnPbRK4BlTnNLBvonsk49-ynwUrwGV39g-v4-Hfrxqv8vSQL4dbBbGRldNSL1MGwy_AfDvymQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos e Dem�nios"  group-title="Unsorted",Anjos e Dem�nios
-https://lh3.googleusercontent.com/0xai3WEvx-2U5rqPoGbsB96JxKxAPkFRoCZ3A2iyRHNaJaOU2rzEkzmV3FV6kqZGRFQb2gjY6_S9TeGHqe1vBjK27uk1BDnyg1JU2E7brdkkGnIyDykkm3uqryul78_zltO3sQXL9n9W8vCJcXF-sUsvh6P889zEBn0JMivlhCPwIAnegQ_xlSqmWScnuLvr9RyAC3DZQd72BD43AwNxt8k3X47vAXuqNu-WpX7dp5xjmoAZ4T2C_D19zQcssi6ta8cX9vjyl-TXQjvil-IRY5bJlmMTjTFgZX0UwqU1lq6CblXcXqJI3lkIsmnucJr9_VCApLrTeNmdewhpcrYVt1K-WUVSanRKIL7Q0AkkRQCV3Qo4VkILr2bzfGL4b_QIRJ79tWc50cLDWbCNev5pvDT_zqxqF-zPbqJweQaFOk5Qdz0oBDXKYl3GaGmcmNxUBh_yCHUN122wgZxoN1KpvIhaid6X7J-8jRUBbtYkwjRtgUPkvcOAztbkjjx6NvYBGzqPTpN5X_SRt6BAaDECXWyt_1uWWA15b25z-z-9l8bmSHWkUtaBPlDVD1cMvON6AdHWyd9-mdhBCSZBaS9qdFk7C7kXbijWMGmU_3Ns0U5ei3dfyySzJxGtG_wRPwp4XeaMiFpyZrq3Yn_lUiXnt_7LFXbCp5CZboMUASrX8Q=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atividade Paranormal"  group-title="Unsorted",Atividade Paranormal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anjos e Demhttps://lh3.googleusercontent.com/0xai3WEvx-2U5rqPoGbsB96JxKxAPkFRoCZ3A2iyRHNaJaOU2rzEkzmV3FV6kqZGRFQb2gjY6_S9TeGHqe1vBjK27uk1BDnyg1JU2E7brdkkGnIyDykkm3uqryul78_zltO3sQXL9n9W8vCJcXF-sUsvh6P889zEBn0JMivlhCPwIAnegQ_xlSqmWScnuLvr9RyAC3DZQd72BD43AwNxt8k3X47vAXuqNu-WpX7dp5xjmoAZ4T2C_D19zQcssi6ta8cX9vjyl-TXQjvil-IRY5bJlmMTjTFgZX0UwqU1lq6CblXcXqJI3lkIsmnucJr9_VCApLrTeNmdewhpcrYVt1K-WUVSanRKIL7Q0AkkRQCV3Qo4VkILr2bzfGL4b_QIRJ79tWc50cLDWbCNev5pvDT_zqxqF-zPbqJweQaFOk5Qdz0oBDXKYl3GaGmcmNxUBh_yCHUN122wgZxoN1KpvIhaid6X7J-8jRUBbtYkwjRtgUPkvcOAztbkjjx6NvYBGzqPTpN5X_SRt6BAaDECXWyt_1uWWA15b25z-z-9l8bmSHWkUtaBPlDVD1cMvON6AdHWyd9-mdhBCSZBaS9qdFk7C7kXbijWMGmU_3Ns0U5ei3dfyySzJxGtG_wRPwp4XeaMiFpyZrq3Yn_lUiXnt_7LFXbCp5CZboMUASrX8Q=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atividade Paranormal"  group-title="Unsorted" - Atividade Paranormal
 https://lh3.googleusercontent.com/5wP0cxbxzlPGiH8ZOLZzdRjBgQniClSr2K1NzWCWWTnJp92hAKP17XmOPaNruMiWHiLYa5H1cuqSwXE3Bl98ki5Jp1_BSJPEIXbCUV66jmEH2xymDp2BWEUNj8lVTK67qMPA3fDc5-ZjWHAvfQRB-zJn1BtG5ZqfL8up0C4nXJ-XNvBUrWFbgR-ELppK1b1mcJjZxIvbfRgcjbmuiGJWFFtbG2D672pJk1vX2-FCYZiti5nkzzIT26J2HFZUcILkQndJkMZMjXt4_AeeMsPc5t-D-UQ23Wgd9dLwP_62d0dKW2GNbC7gb3WEXHVZlzxyyEXrb2DN5C4gr2ueJzhor1zdTVgHeJ7fBhoKMDQy7admgjnpbZZVJ_XgaRNn-2i6AhvhuJETSvvATfQJACJ70kgUGDUuM_rocHliZly8JLMjCwAASaay4qxkaSBe31L56Ayf-agDJA4TJ4_WcrC0-l__8wyBvzc7u2IFZDAneaNCylflQIWLswbHREWa6TOI2qm3a9Os4zZppz-TwH3RmGUSLTYKt4zwdH21C3IvNdZQuJTcFoQfeJMqoomOuV-4PuQzKJYAUqARzy8DxlHt_iM08qV05jrmFwGD9u7hXfDltYuLITP1hzs9f0qyJptrg9eNXWQI_pkhEA6QmWJ8DN1iGc-8UDiEzLlR0ExGFg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Colossal"  group-title="Unsorted",Colossal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Colossal"  group-title="Unsorted" - Colossal
 https://lh3.googleusercontent.com/RWqg8e0ELKx9Jt9mfWXBs9SyCdBwEq0T0SaVlZ81rhY3cyE1nE5JaCvHutyzrDta8sxcDXw1WVGMAbq_hlzaC64tw2aVc0jhgO0aEYdAfftjfD5RPXB6xxFYV08HiRDG67hLQC4MONRuBd5VE70cFn0933__8yhr20V0j_JSrGCrMt0Yev_TMK0pEDYxSvJb1J0eVVFDaSzXLbVQTR1dGmKvih2u5phY-yyOnaLVOd-RmjWjUFlxVzQPsdYLEHLnqhDTFIycE1Avj92G5tQWAg-QimZn5FkQudUGFwSm0osrlYkkICzzqDDBuNrMd8MJdxflqiG0tZlHEEvdLzMNpExh2JnVn9lcugxmVAJx3iBNHku71FhtEU9-QwWowvPwUq3NsenPfP9uOfNj8WC3gomvbEBi8waSnx91C7LTTEeyOJXAhmNEAQBdj_gxwUpeXj7sLoIhx74Of45TSpzAFLR-meTIafDgUfvfLnuCgPP80w5JFHhP0w2mNeH9bv_NW2iNf26xVz1SyXLRyp-LDk_rHvSJFwu8SCBz61ZnUE18DqvE80Uj1PK2nBRYZpAYFcP6kpcLyTX7Svr0sAnC1qjETF-rdnNC3y3coeQnVFqB-fJjOK7cyWWR51RzX8k3r0vfB0B9nZdZpS1w1yqMoZv19h1j0EmyLuKln0eOJA=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dragon Ball Z - A Batalha Dos Deuses"  group-title="Unsorted",Dragon Ball Z - A Batalha Dos Deuses
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dragon Ball Z - A Batalha Dos Deuses"  group-title="Unsorted",Dragon Ball Z - A Batalha Dos Deuses
 https://lh3.googleusercontent.com/NLclAL6jfYIpV0sUOSYPcxLrvdX6YGJN4YlxXsH733ojkfBrw8csx3JAVgdYYxWpbdls0-6H0KKIZaeREgsyq25AyLxU4rVWViTl3jGzGc4KAsJ1U523gzquWu_bnOVTna9IShdL5EKdyt7eH3G0bejyxGe0NrHwKiOJtrTftrDI8IS_rcr4R7_8b5tihBcg2eUSFiNvff7lmjGCKY3IxrfyENl6HJyjF7cyGYU3T6f6LiRFEi56506CvL8sUymcrQn8o_B8mpPpDm28TGiQw3pIpY5cvOaCD5Y1AvlWtpf6YeiiblmzoUuLalcjyfkusPpYDBEsb8uV7qJWYsKjcEBZn8f9MvuJAkPyf6bn5vzdW-eaWx5n5uNN9FJ5KnRp3cYKoahPISb7dmtVYmkxvGCvqWIqLAe_HtcOJPOY4F5L2QypK6UrIJ-WYs4RQyrl7N0JzsOlQnVXxr4hzXqOjY0aZeqc9IIiH_7iJgXse-KAR5aBCBP4gTWAxLqcZzQ3xyg-ObP9TM1F8wbr5sc6JHHDKXH8IFPspeAarfEbew8g6FnznYwj_7nGUynm9bHo67-4vD3w5t-7cJSo8DQOEHnusLhGGt3FXwbxigpZmyqDRLGFx0F3oGhtERCWVXYNDcbC28sXM9Dv6MKUEXeaa5dg7v3csJ_yWK1YJ-3EutfXtw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Assassino a Pre�o Fixo"  group-title="Unsorted",Assassino a Pre�o Fixo
-https://lh3.googleusercontent.com/l9O4tk7usBHcrWoG0FYcuC0xhAJ-BgIT3KzupTbu_Dfh713oL5qEyuRWB_QJNZ9CmR_T1IcfhCKKIhPjoTDtFYfS25-7XTkpE2qObXwO1VXMhzX_bIlEe4pHXQMr9_hetnxLrZrKX2aywvhLpgqwm2GNThr4LaAGJKK-uWZRm3U_kbZRyRKS718T2C3vfZleInWP4pMMQrfSqMapb1amLPx8dp8W-1ZOM36d78_9Cl6joUZB0hKg31OiweoBn3ZPVO4gR7p3uEJGGqgfeeLJJwYb48XtljFcchlOgUT_mI753hq3EJJ-IaPt3aY0lVk9gAgb0mDKjRDLuO3YcO2O6OsCiPxPjakAh8wgeYrI_d1W6ZLXp4ZA7b20igHPMsmHAz3XmHYRw9Iv28WERagy42UalodVAwTq3sMjKP12TcwB9ZgPOhDMQxK0zUtIanLxsYNBbE7DmPlOd_ECzUKMwWLpK776laWA_yq_2fFp0U1mNkHbLU9RB1sgGckxaEDvaElxPn5yAqo3qa-41QNdqCZHS1CgY_6xEOWc-cvBp1txvYc5grcyV1SxgTQ1m-upue3r_bcXcUQfDA4xPz4b9w0hCi9Rn9JpuybGa_0p-vxrfpRz2E4fYzTnfSlWHul4MxU_-_3aakU3A_GoqRKLg3Yga1LIOdIdCKwmJY9E3wW2YQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Batman - O Cavaleiro das Trevas Ressurge"  group-title="Unsorted",Batman - O Cavaleiro das Trevas Ressurge
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Assassino a Prehttps://lh3.googleusercontent.com/l9O4tk7usBHcrWoG0FYcuC0xhAJ-BgIT3KzupTbu_Dfh713oL5qEyuRWB_QJNZ9CmR_T1IcfhCKKIhPjoTDtFYfS25-7XTkpE2qObXwO1VXMhzX_bIlEe4pHXQMr9_hetnxLrZrKX2aywvhLpgqwm2GNThr4LaAGJKK-uWZRm3U_kbZRyRKS718T2C3vfZleInWP4pMMQrfSqMapb1amLPx8dp8W-1ZOM36d78_9Cl6joUZB0hKg31OiweoBn3ZPVO4gR7p3uEJGGqgfeeLJJwYb48XtljFcchlOgUT_mI753hq3EJJ-IaPt3aY0lVk9gAgb0mDKjRDLuO3YcO2O6OsCiPxPjakAh8wgeYrI_d1W6ZLXp4ZA7b20igHPMsmHAz3XmHYRw9Iv28WERagy42UalodVAwTq3sMjKP12TcwB9ZgPOhDMQxK0zUtIanLxsYNBbE7DmPlOd_ECzUKMwWLpK776laWA_yq_2fFp0U1mNkHbLU9RB1sgGckxaEDvaElxPn5yAqo3qa-41QNdqCZHS1CgY_6xEOWc-cvBp1txvYc5grcyV1SxgTQ1m-upue3r_bcXcUQfDA4xPz4b9w0hCi9Rn9JpuybGa_0p-vxrfpRz2E4fYzTnfSlWHul4MxU_-_3aakU3A_GoqRKLg3Yga1LIOdIdCKwmJY9E3wW2YQ=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Batman - O Cavaleiro das Trevas Ressurge"  group-title="Unsorted",Batman - O Cavaleiro das Trevas Ressurge
 https://lh3.googleusercontent.com/n_jFBwp16KAF_jxTcsfP5Cj9M29gsq77OtoYXBsEOXiHAe_057FFGutYRsUFxIQl9MpwRTAItgl4RfBYMMa9WJE45uE3MdyI2dKNeVTTXfXwy0j7dqGec9LbbAGLitBjr5Ly-iKFBT1LNt3uoaChGtXKs8u_oAO2PJbwL6naS3efX2TXGtdDif9_k8GUjTL1pyyxOduPvlogJes_DXYo9sDTRc3eewtfQgnwo_glf_lx53q0T4tR7_zqAXKCIWLe1JMag0T3MSlxaDykOG1Gz_xD9ykrHs7ntpahUJ1jZclFU-RRBlzB9TYnFNdao1-YcKAUC8JNVpgzYOTCJmp3o_qsdQgjjgIrY4GmyKuCT5rI9OBnDaknLk3-cNbGOiDB7H-JwQeHrM-8bNShb39Uda7PJYngpqco4VlJpAGUkcyn-hk59aet-_uLSE3IoGby1VuBqPSpujWvHVQEv38_OnzaUc36FLVYySjtRtR6Caj1L5LJgJPdC7Q_HdZ0JPbgza5gBdtD459U1z3ttyyLgnL5B5lhcFpaatd4a-1DfGK8ZMqSfWCXLo-2xDXj0FXVRBnqF8sYwvAtQCr2fFHeH2iRDdRTMkCWJQL1_9MajstLLhJ_Z8B8_xShm_Z9I3SlDGXuSp6d2Ki_8td6i9PAmi6oBEMGrfFpolvRWnNj-w=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Triplo X"  group-title="Unsorted",Triplo X
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Triplo X"  group-title="Unsorted" - Triplo X
 https://lh3.googleusercontent.com/MI4I2KCOI4QHk5YjYLn3_6ueYVk2HtlTdg_Ic09MmQL3KfzRZJTtPXVEhh7yrM4MBH8xQdUFN8o3tEqIh5Bu5rfosb7OAFBVfl0k5G-h2AvgJPWpRXAF5MdQcYgXKGgdVIXBgiCYN21z_RJSlbk2aMXepxsN2pJ5dRRqp7t_95KmlAWD-lgiyK184H0VM8254JWO9XQemWO-yELQAYegz2tvRSmVejxOuMMBriH2KkxmiRNksGd9IiFLGbswfzmmSj-WbF_PeNDxOh3Z6DlmaA-pQwMC3vTdnVRnuK9iy8G3kpiJJoISFzb_RxaBFJ8SjIGydzsguOacOVkAT8xWJ8uqesr4DC4PsGiKUlvnp_mJKVmC_dkhaUQFGxpIe-xVpvmrDC2a8J9tU73WKBsoXUH7aCz21g1a-P6z7TKvMU2fEbxxwXzEmnXlt4ZT9N25CVuQniPNTEbtFzDeaja-JUU4g54-DLkhmX168hE_Jo4Kl8dN1Wgyaj1bjIG35tgIkMnkyUA7MbcOcjP-LdpBc9ngOeTxzDB3DVWlEDtFOdWCnZMKDgeujTFOWg8TYZMiQkP6XGH5DIqW4tnUSP1DBc3BefNK0BW-g-9WnKhKCfQprelEfjZl8mfBiWSdhRsn4ztBJj9BBZOS_9wufTvnfBTwkUKayAaEwfmGO2YiNw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Espa�o Entre N�s"  group-title="Unsorted",O Espa�o Entre N�s
-https://lh3.googleusercontent.com/uNMlEJiW8h2KDRmRMmkwKKX2Wn3HIebmBN15XrAH7N0q0O8zuHwIuckE3ejUfiy8TyCnFR0ATNxqm9Ql2iYPz1tU_5B0XE0rtRRyLZk_Hr2NBZ9CLVOHS13rfPMzBEb4_5r7xC9KYkXRKxkMjfgtQutW2Sbo7NIRH1plOwoot24XFNk2d4IyHE78b-jKBDTqLoyLJLJPPr0Uk7lYKvg4M4x7uwJptqAnON6bYg_t8irIH7QlH0SgNXsceJXpEd_1R5XUmxaHPDnxz2QyB2723EEZLVjsH3nwZuVeEmMB5ssNa2NfsYVipSPTlZUB-kyVgptMl1Guend7c0qgydBXY8mMdCV3vZUvV8ik8DPoexWffq1rw1kYxgUZs442RZObYPfpu7iu7UWCbE2YycC9p4cHsYXr_cd85TV7F2Bf1gpIOAjVHLo8y2gpJg_5UL64k8Gsvt4njETbbjy0nd0T3Rp_W6PD3dNS7-pe5KcWGGLCNCceuJ9VGVMmKZmpU8Ky0FYgMDHCrJj7ZhKtNqiy0Fhrnx83iYFElrBUAqbM-znSTKpwd1UeY_J3r51RRk9ASfVntTmAM-HjNXwqQHvOLG6JboxMnb2gs3Ag9HW4tm0GaT9cv1cN5mnIKqIv7Bbv4Zkd3LS0HPwQqq72TQyubGwzuw4DhQljSz5txIhKdQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouija - Origem do Mal"  group-title="Unsorted",Ouija - Origem do Mal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Espahttps://lh3.googleusercontent.com/uNMlEJiW8h2KDRmRMmkwKKX2Wn3HIebmBN15XrAH7N0q0O8zuHwIuckE3ejUfiy8TyCnFR0ATNxqm9Ql2iYPz1tU_5B0XE0rtRRyLZk_Hr2NBZ9CLVOHS13rfPMzBEb4_5r7xC9KYkXRKxkMjfgtQutW2Sbo7NIRH1plOwoot24XFNk2d4IyHE78b-jKBDTqLoyLJLJPPr0Uk7lYKvg4M4x7uwJptqAnON6bYg_t8irIH7QlH0SgNXsceJXpEd_1R5XUmxaHPDnxz2QyB2723EEZLVjsH3nwZuVeEmMB5ssNa2NfsYVipSPTlZUB-kyVgptMl1Guend7c0qgydBXY8mMdCV3vZUvV8ik8DPoexWffq1rw1kYxgUZs442RZObYPfpu7iu7UWCbE2YycC9p4cHsYXr_cd85TV7F2Bf1gpIOAjVHLo8y2gpJg_5UL64k8Gsvt4njETbbjy0nd0T3Rp_W6PD3dNS7-pe5KcWGGLCNCceuJ9VGVMmKZmpU8Ky0FYgMDHCrJj7ZhKtNqiy0Fhrnx83iYFElrBUAqbM-znSTKpwd1UeY_J3r51RRk9ASfVntTmAM-HjNXwqQHvOLG6JboxMnb2gs3Ag9HW4tm0GaT9cv1cN5mnIKqIv7Bbv4Zkd3LS0HPwQqq72TQyubGwzuw4DhQljSz5txIhKdQ=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouija - Origem do Mal"  group-title="Unsorted",Ouija - Origem do Mal
 https://lh3.googleusercontent.com/G1egFfZBZJJUxq8WGWWyRCgvQnJ7Q-xPX_2SPLgLi60b1xueki0xOFmARgYD51DvaVuljMiBAIA_N8uH7MAq_c5s292TIIzj1QxtUIpbKAayAgsklk70CwqHdnssx_DTkfery7xD0Wurx_GuygyZACAkwSzd4XQHnoJQ81xjyYo-CXDH4G5FeEdUBO15HoNZcQh-ZUDt1SISm3Khk7Dt2jWj0maKyJnVmuL6kHT8SYgJ7e5M2rupOhESzsLciTbTVGuSVgQ5tlxfuG05yJcAF6wmD4WKkZVM00C_2ITFntPqK5K-Dp5_uYSBSycoICDxlWuX2VgBCXglNtN4PWWgvDIh5udorBWC7na59qoPtEN5jZlmQS2SQ_dRJNAOGLT0z2ezgdd_szHjkG0VZzbxbU5r1O7Ui2DCrRckDqbQRFZtRbksT1IK8KTMgHebSBA7ZhWYaEnNw1NSlF802b_-W9BQIkII-oouU8ojg-9-PeZBwamJGic6xsCIUjdbX51EdqmncAq18oCc68gqWXApiRTqe4Uh9r4St_8LH0KYmsJWm9YCgFTGjzvYNT3OMP8LWVjpPkySkpe01VsdVD6HNkeEb4JhSa8oI8pT01QfkGoEUI_ov_irMuKrssNEZRzeSzXuJnNEn6sy8xxJ7xaDLQjx1-CyMcfJ2dwKbSH6uQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fome de Poder 2017"  group-title="Unsorted",Fome de Poder 2017
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fome de Poder 2017"  group-title="Unsorted" - Fome de Poder 2017
 https://lh3.googleusercontent.com/9mSGdZBPRfRmUGIAygJd8ycZ3k6WIi9-MG8CepEc0IsoyVwyF142nblH6HnSGMe_Pmnh34ALk_2BymtV6-HVd-CUHOCYbx55t9KZmIIwh6xMhfMUqNn1VrvwDTQrFpUNav3KpAycTqITvkwwdy-pgTyHCOuPQMlZCg7Xr2MVQ8-VvreHfkw2jgfpCU6xApE8XAwiXva_LzjpiWs0BH7GPor_JnX38OXrzjFPPQ5KDTUXs86DSBwf0BHiOwUU5CHfNI-2-tmX_kvaNT3ogVRa0is9hq_8I4yhUj_RL6zlsgNlUxwzBlgP61-TjZlNW79xsYZUw216Jz3kn0Xg1jxzELX1ZNdc3Pb80QRqKnYWyiopoEOvcD2VF4H0BWx_WFyWLbHlxAMs8uN-rLMlt3QnBULtE7Oehx-p90TQio-tchMUVBLfDMidEUbf7NNaRjRGjOpJayjlMg0F3pRQ1-7ECuEPHQ_D_1sF_PccPG3diNVLZ0xXdd00w2kXoMgs8grzJ51PfrtqS2tH6UaVAJv64vsdgPqyJhMbqjpECm8HQcuMoJw-ymEnjQ7R0AxCEDb0jXRGdMRjPBLTqcIwahiMCCHkt0pigj_yoLQ9G90OpcS_z5P_3nCxrJ_Qac8jGvt5Ju3YCpgI1ISwYY4wciG9rPnqn3mu6tzqoo5NefZRgQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Espelho Espelho Meu"  group-title="Unsorted",Espelho Espelho Meu
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Espelho Espelho Meu"  group-title="Unsorted" - Espelho Espelho Meu
 https://lh3.googleusercontent.com/cso_d15enpBKLvXBVta4XSqT02gofmBmfngnXCPXOXwUDkD5hGJHg_YmT3dZ3Xb4ZC0JAjk_IDY=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="T� Ryca"  group-title="Unsorted",T� Ryca
-https://lh3.googleusercontent.com/5CnTx3UA8WJVq4cdB-8p5V1fEb1a7mRbd29NExY44zZUn2UmmyxIqEzaLd9cqgxQA3ZHNnQoKU4BZwv1SneBzvAR2NWQpu7xk7SM=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Menino do Pijama Listrado"  group-title="Unsorted",O Menino do Pijama Listrado
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Thttps://lh3.googleusercontent.com/5CnTx3UA8WJVq4cdB-8p5V1fEb1a7mRbd29NExY44zZUn2UmmyxIqEzaLd9cqgxQA3ZHNnQoKU4BZwv1SneBzvAR2NWQpu7xk7SM=m18
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Menino do Pijama Listrado"  group-title="Unsorted" - O Menino do Pijama Listrado
 https://lh3.googleusercontent.com/rAdVaALDa1qFm9Br93x62q7G9PEGMn-SowAoWRGQwAdIOhUTR560O1uPMIdO8xh9KdJBZpcKVzqvnkoPAf1szLlnKDS6B9epT-lzPpCskIAx-TAxgrPRoHn1Ehd3kZG7Wb-kEH2h9TCyDaWV8kA2ShfGYWLUCh2EHTx1t5mKSXDfKMoU2AFRnMycfXzjnjsDqXfk_rYjgkDoGUm7LYCEj7LxwnFo0QKTdyjm7s1j0ImtvsW7BT705qEuUHQrReD1lr9E--UU3lUhlSi1HWRf2mYQr89XW27Cj93AycArzdvGGlI-CUje55lDxU808S-itfr2wf7Be8UhC4YjXGSUBGHIbp1j8VWZSK_Jz39rHBibjdd5ZTDe7BXVb1-ZJn5eREDaf8axQDNPAvRq9RUJZIw-lTFEBrStbqn9jGX-sr3ADOUmNE5n7rMFgAOnbPITTCaWy0QcJC9mSahIbyLTEIfskg-faZUvdD7ya-TO4zUVD6l8S9IWKf1bd68i-Ryeed2X5wBXABd9myl9KbLEAyHurUf6MB3EbXWwz9aTYyvyJZ_5fRfb4MrzaEJwc2wxEs1Rwr9AeOFhZVDbX_SZce-K-pKjXFpj-td1O160g_-isLRfTwTQpAPb2DAubHpmOVWVN2rgA9tTQ54EPlxKSGqlxwp1qbEaYY78RZhDa-vCxg=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jackass - Cara de Pau"  group-title="Unsorted",Jackass - Cara de Pau
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jackass - Cara de Pau"  group-title="Unsorted",Jackass - Cara de Pau
 https://lh3.googleusercontent.com/T_qWXveojvyEFbcfL3UswH8LjzL8dd0-2IEqnSyk_JZVQhJmlmmicXVK5jK-QA_pCOpzEtQ80bJx_-5JLYS-nBWUiGJk7-RWkyYnXcbCyNCQ09XE45RkDeiRMOMGpRrKPdS38l9SUCSFo9YmLzJ2xC1c6qiZaXtvKSa7EcYTaJQ5YzpnP7iky9Vn53YW8pvGBZLAeBLXOxQAMYi5qbGVIDKEBFuQ1t5NGyVNMKN_vBPCNeFoqgh68TX2Hbp5DIa5ZbfFphtdb19_2B3i0wroZLYiCry_IhPrKuW4QeBOkHU4Sk9wYztuhzjT4HbopHpr6Oab34hFt7RH0JC6V0UE7k0zCL0n0NgQTLxawgZ6DJekMGn3uihN94BBQ47kZNMRGoOvuIr3niGczvMC1Vq5gwOBJr8GZ-8SOGDwLQSIFVekTOebHOc-9jlCX_d3Gnm64d6iyTB6noMw2Bmvw_9HmgQa6BOwq2Z8hhefq_39WwDlXOTYEgNbxbx5WBKbSOi-VCpuTzlkgdw189D4RkwBjx8E19QcoTz5Qb5BruvQ9meYHJ6wqIctg5X4HQbUgzTz6E-nhOQJk4L8wfiUNQcRYGihsYMoZEuZZ3L4w27YON7kHUGiic-fzBR00_awIveQFn2cFRZgzbeqorBFSh9F01CW3Ny4cgI806iV-ygyZpjdeg=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Estado de Liberdade (2016)"  group-title="Unsorted",Um Estado de Liberdade (2016)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Estado de Liberdade (2016)"  group-title="Unsorted" - Um Estado de Liberdade (2016)
 https://lh3.googleusercontent.com/xngqUuaTBMfmfnRooCMNjXFoNEp3pK20r5lIp6O-n5CUxiyBBJQUbT19BNE030PR9bnwa7hhZftbZw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RoboCop 2 (1990)"  group-title="Unsorted",RoboCop 2 (1990)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RoboCop 2 (1990)"  group-title="Unsorted" - RoboCop 2 (1990)
 http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RoboCop 3 (1993)"  group-title="Unsorted",RoboCop 3 (1993)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RoboCop 3 (1993)"  group-title="Unsorted" - RoboCop 3 (1993)
 http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zoom : Academia de Super Herois"  group-title="Unsorted",Zoom : Academia de Super Herois
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zoom : Academia de Super Herois"  group-title="Unsorted" - Zoom : Academia de Super Herois
 https://lh3.googleusercontent.com/CE0_RleyP2UHBSQQactIgOJWP5qrTBiIJ2nL9nCn2ddeIK0oi-2sVuFAVeJERtw8aNen-f96mGw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Robocop - O Policial do Futuro (1987)"  group-title="Unsorted",Robocop - O Policial do Futuro (1987)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Robocop - O Policial do Futuro (1987)"  group-title="Unsorted",Robocop - O Policial do Futuro (1987)
 http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sully - O Her�i do Rio Hudson"  group-title="Unsorted",Sully - O Her�i do Rio Hudson
-https://lh3.googleusercontent.com/k2LYRNpjAMUn19IxJSOfgc_T41yNt7iEdxD8hL1VrcRZXJTH0xT35Rwse39HB9HmXv0qDNJ9YbQhTlBGPIue139UuWsmeozEu1kYyxHKxVaefI3QJ1q54AT3uNQB_8eaBvKPlyqfhqWdgOskFfy1JCQGF-sd6yW15EsP6D4GdLv9iyFRsIlxXKXTGHLHVUKRqVYQjRi4T5Ehv9QmxCFImvdo9X_DkLrFF2_i-M0EJlsv5BRT9AAMpTho_pUevIpbpETSS9qGGwg7n4detkN__qdrT6sLe5wpP4DcRG07mltZ16ADQteCrC9114ZdNJ6HCDb1JxVylsj3GpyNyyiGuzT8AKvN5JuFNmH-cmqlhUEIvx9Nd6JiqEFWkIs8n7tKujiZGgFClIKWzbeMnDf6MHYqmAHXtSwbAeIp4G4ro_4V6Vss7_c1F5oprGlxc8Tgku1-DeifhpcDB2IhPnh877tR_0rdZDNBe3QMxvRPgBFttzPnHpzoB7v7k9g7kIzs66Kr1AR_rLAAAhKTacBRvrhwa1GCSBccjIPSFNA0R6vUaj1XBv20o4_PdYr0eZ8-tz4yS0sZ9L4v08dpEIKbZL1YRqvOBkkx1Qw978oPcDInXXJMYqLsSXcXuHCWLskBGrln_GoZGbx_8jYY36f6MPvP7kPHCDfohOWJGVOaPEwp4w=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jadotville"  group-title="Unsorted",Jadotville
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sully - O Herhttps://lh3.googleusercontent.com/k2LYRNpjAMUn19IxJSOfgc_T41yNt7iEdxD8hL1VrcRZXJTH0xT35Rwse39HB9HmXv0qDNJ9YbQhTlBGPIue139UuWsmeozEu1kYyxHKxVaefI3QJ1q54AT3uNQB_8eaBvKPlyqfhqWdgOskFfy1JCQGF-sd6yW15EsP6D4GdLv9iyFRsIlxXKXTGHLHVUKRqVYQjRi4T5Ehv9QmxCFImvdo9X_DkLrFF2_i-M0EJlsv5BRT9AAMpTho_pUevIpbpETSS9qGGwg7n4detkN__qdrT6sLe5wpP4DcRG07mltZ16ADQteCrC9114ZdNJ6HCDb1JxVylsj3GpyNyyiGuzT8AKvN5JuFNmH-cmqlhUEIvx9Nd6JiqEFWkIs8n7tKujiZGgFClIKWzbeMnDf6MHYqmAHXtSwbAeIp4G4ro_4V6Vss7_c1F5oprGlxc8Tgku1-DeifhpcDB2IhPnh877tR_0rdZDNBe3QMxvRPgBFttzPnHpzoB7v7k9g7kIzs66Kr1AR_rLAAAhKTacBRvrhwa1GCSBccjIPSFNA0R6vUaj1XBv20o4_PdYr0eZ8-tz4yS0sZ9L4v08dpEIKbZL1YRqvOBkkx1Qw978oPcDInXXJMYqLsSXcXuHCWLskBGrln_GoZGbx_8jYY36f6MPvP7kPHCDfohOWJGVOaPEwp4w=m18
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jadotville"  group-title="Unsorted" - Jadotville
 https://lh3.googleusercontent.com/ZIVYTeThiNWx1VCRNoKBnnqgUz5DX2rVxpRfZiQzfaPCm1jE4rgSF5-h-wI1IslKTrt98NA2BiQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="H�rcules (1997)"  group-title="Unsorted",H�rcules (1997)
-https://lh3.googleusercontent.com/JYGQuADooP9O9-fmnEz3o8tojxLmeQXPrSJ7i578ckBhznK3HuP94nMApdcvE4BWfDaYzcE2zHmBgUeK-ytri0Fh8MxecJ3XMvNZsUtLnDZqFeVdPGBcH5-G5KLyjp5LlSs0VbqNXRYtkPvtnIyKR8MOgDS7ji9qdJcpdGhnZ7n0pnH2xNOlWqmJzsIj95kt0lczByd07R3rQeypiI-slOVXq4rJZTcst4sA0NEa5buWejRT_Y8jTUrAPFynF7z1nxWiMbgdO5Y_T4joT8NQum7MD6Bv7BHSlOTBXf9PBqUQc5yw-MJYBIZBFP8xQ_jplnP3hWPETjcGWFlP4X3wky0-SV1NjjeKnI_8owXp2L5tf3U8anLXO1UbUAcG3MnDE_1wvsPFBhX21zsfJzYSupoJenkQuGbdH8wrd5vtQieNEkvKaV2JPh4MdqUB_faF6YIAfChbawtwufduLxC4cpsT5ccLQ4YVAny74A6AcPP7085NrKje8_gOBXdG-dqnRJm7qPMBYkWIXqd64iaJs32i-o_zt2Zmed4ntzuJWQWTrwHq01jbXBteXt81pdvwgZPtU9CrPdeXWblrKhk86tjrjNx1kUSAskwHP_AqDf1ERMslyL1nmbZsob3HjFHaImr8fSWitdjWyyP0Pcn8bxxL3HKe9rp1K_bQf9AC5WFcSQ=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Noite Real"  group-title="Unsorted",Uma Noite Real
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hhttps://lh3.googleusercontent.com/JYGQuADooP9O9-fmnEz3o8tojxLmeQXPrSJ7i578ckBhznK3HuP94nMApdcvE4BWfDaYzcE2zHmBgUeK-ytri0Fh8MxecJ3XMvNZsUtLnDZqFeVdPGBcH5-G5KLyjp5LlSs0VbqNXRYtkPvtnIyKR8MOgDS7ji9qdJcpdGhnZ7n0pnH2xNOlWqmJzsIj95kt0lczByd07R3rQeypiI-slOVXq4rJZTcst4sA0NEa5buWejRT_Y8jTUrAPFynF7z1nxWiMbgdO5Y_T4joT8NQum7MD6Bv7BHSlOTBXf9PBqUQc5yw-MJYBIZBFP8xQ_jplnP3hWPETjcGWFlP4X3wky0-SV1NjjeKnI_8owXp2L5tf3U8anLXO1UbUAcG3MnDE_1wvsPFBhX21zsfJzYSupoJenkQuGbdH8wrd5vtQieNEkvKaV2JPh4MdqUB_faF6YIAfChbawtwufduLxC4cpsT5ccLQ4YVAny74A6AcPP7085NrKje8_gOBXdG-dqnRJm7qPMBYkWIXqd64iaJs32i-o_zt2Zmed4ntzuJWQWTrwHq01jbXBteXt81pdvwgZPtU9CrPdeXWblrKhk86tjrjNx1kUSAskwHP_AqDf1ERMslyL1nmbZsob3HjFHaImr8fSWitdjWyyP0Pcn8bxxL3HKe9rp1K_bQf9AC5WFcSQ=m18
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Noite Real"  group-title="Unsorted" - Uma Noite Real
 https://lh3.googleusercontent.com/vUnvYLhYeuc6Pu8xn2c_vb-a0hnk-SmghqYpTqDgQf7mmZWbrehDK0UMThq_l6uugje3mX-hI74=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Tratamento - 2016"  group-title="Unsorted",O Tratamento - 2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Tratamento - 2016"  group-title="Unsorted",O Tratamento - 2016
 https://lh3.googleusercontent.com/j6wuDWgZsOAH22tPGFZz6LO1yIe8xumtqWDQ1p_SzLju-yEWNiVuFEbd7Wdkqh_4dcEgVkknNhU=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Corajosos"  group-title="Unsorted",Corajosos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Corajosos"  group-title="Unsorted" - Corajosos
 https://lh3.googleusercontent.com/ndaED76er2dVScy__9Lp3fovgtEQp76EiF8OdoPcPkqIu_Ydr6NFO22-3CWnErfeXf_Y7tmg5tpu-ykNCtz1dhzEz_yINPPtknL-7Cd33ppRNfGaObcCGFi998CcDlldf1W34DKmWrATHJr17SkAXcsgj-5pVSUH1t4-bW4S3iDrRxdAIcD88yumsdF98QmezMBMxUImiIuIq7ZGRhlYcYde4FMAzIBxfX2Rzi_o05flNqm3F0vKi6w-rHAUK8YrjLOGyHGGvmCoai_mCc3ziSmExz0KshuiU5yXWE8L28VwYi1Gsbbotb0yaJy_GbQiZG1Ydckp608HeAbkaX07NzhNhJcS94sCnykRnPW8K6IqvOBh5cmA6Z670K5VIxmzw6x5Y_AOrJ8Psl4-nd0G7LveuepFSERZH78Zld99vuWboy29e7IKsLpXBS9EIJMy5lvp6cx2xFCYi-dFAgahXQhkMr9M_KkQnCxagMg3EzYfN-W23AxXMMXSUGVPKiZoZc6_bV0hWv_GJMCfboH9COQzXgFltJVvq7yy-3OfP1EZs_adBf5okxqkHBXgr4a3Tjf1XlIBR9SB8wfP2XhDrC6XMbtZ_rIONhhN6mo6PPTvm-tz5d8u1W2-_qNn8FBC1jk_uN6xtNVwvmJUgvR4Zhlf3NGyWj5RyUg4hSLAcet_lQ=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIDA DE VAQUEIRO"  group-title="Unsorted",VIDA DE VAQUEIRO
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIDA DE VAQUEIRO"  group-title="Unsorted" - VIDA DE VAQUEIRO
 https://lh3.googleusercontent.com/Noc_i_dfridau5vS0Erkwk3TboG17BdZ_5EyRS2u32aAgY3yLYMf27m2jgKWfVduDg8do6f2kD6-cjfRqnb9k1n9rReKmiqaYtKRVh5WNkbeaXo9CoQ8akGiGEMtn90RL5g21rgzyQ06jSh9fWoPOEnvWlxlKNmF_VQJSMqIdVy_qmz0ym-mz5DhkhpIcTLiermW1u2T4cl-bNPtIQhVHHgmt-F4s6RYiUWKybrF5aDXsWXoqGa_6Ffx4NZzFohfFSeIjuCnVW7MEg8zypz1LSONwj0bifXcFgx0cWaQwF6WfnKwC_1BFznYoZk6U8ydBHD8e5UObhx92FTDhXIgcJrVpJqMzX3Ry7J_r-crPW17fUg6vAv0e-NajC258hfAHA7YAR2wYXdP7FHiIOrnDeYo1cJvs20kPlF7tBM31ScyXelyAIHbfPiQn48kPi0fvHp4t7PI9cHqqOeAziYiU5U_uyYr9HXNMT7E2VTNBwEqPtqEJsEj5WyX4gnjEh39U7XlCxzak2QMsoIE_qCoLMZjCMQtw2JQYTvwHlLecV-7A4la4uMbMdZo9tYDCOas3JxZIZpxxP1DpepJoeM3Jt7sB7z9tSohGJysPWXm4PB7q45Dz4zPp2sKXKkHw-56_gVmkfJ0sLgoVJwXVmFwCUQ1MasgnmB2DoGd9HoXW5mhBw=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Maze Runner - Prova de Fogo"  group-title="Unsorted",Maze Runner - Prova de Fogo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Maze Runner - Prova de Fogo"  group-title="Unsorted",Maze Runner - Prova de Fogo
 https://lh3.googleusercontent.com/0MmG8RfIarS2CWn1G2tqdfItGzmmnBJbDsUjjCu-S1yF-A5numuB4IPk7lOYFOxsV5iSzLMLcrlMi0cW4im1hQvqsSPFVlMmLvJ_YuVqKSJ7WK-fYkBQIJ4MMHok1gf5UkScwcejBeI8hDyC4FmnFZ6C2XrVXex5vt0sQOm4X5pswCdKBIFlPvVwa3-KCl4re1KxpaZZKzOiQMg5iKG07111YzSLFlr3wnOOgs9mcEVk56wuVNLipzUlIQetoLDlv1P_KLyqq_IgR0Zkysi-6TjjC34GqerDUkPnxLcBEmS8JDxqnI3bRS0pprnM5CBT3FT5sx0g4VONrexVz4dLvA3ewS4i1EMXeJSawmn2S50-3vWut1A0j3bH4Dd7PRwoBLEH-LCxyO6ct3rsV1y-ti3ADPXypssgnutLp9sznhWSdoWiMBJTnTTUugMwQKbT0wobG1BtrIqS_tK7Y8vpcT9v2859CsYQPrrQSRvKb82nwoeItJaQrsmfxkFMGzlesiPAjuyoHjUbnB1ZHFkpIE4ef8Sra545cDvtSF3Jo9pwage7a76P3PzZWBGsU7JuqXV2TL5rgpgqTi5bFqZO15wDqiQqjNYlSCVkxWA_GAD7SPfjiDjpfGr_l_M3afCA-FWvDIfxxR7zT1fC1nSg_t7xJCw5OdaCVRum-ShfsUPNGQ=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Pequeno Principe"  group-title="Unsorted",O Pequeno Principe
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Pequeno Principe"  group-title="Unsorted" - O Pequeno Principe
 https://lh3.googleusercontent.com/xx50HeIwowRkcD8s7QbeuIWy5M-VCtxUr4jsMjefIZyZEDDUjgZoOglOT_Vkz-rnpGOUeQGHj3BfGQ2WCM-rCOSjijgH0FPrw1QlY_R1_-z1dpoFVISzGskhQAkvM0OoaP2Glv2_Z5f6SaYZNEEtr4-ove0L7_55EbtHMOAm81Ucmm2YcalFI-UQaVmQlmD8k2bcGPX2AsOdGr-kVD-vAYTE9No2ZL9VUOwLq3LPnHGHakIyVc_uEs0RW0WYp2eKiSmWzicCy0eP3UK3LBbQEIHhnXj95g5BeNvE_QPT8EGx-6O_WqYag_lbYM_whaKsYNNDB0qPpFV5UHd7XnRZZpe5AEBuq52cEEka4FoPJtiFhRzxKpWJAhdT997rsNS2P5qitjFFvBVM9dPO625BblFs8E0rW6Z53QsWE6iihEeLEvx-hW2059sII8-P9pUVX2lJul-bTXJhA-DXa1suaM8nYWmLM7f4O5s9KXmsIYwRUUFBlrioNyMuVdGOM6wY4VRYT5_ljlclPK4haYSsPCsIX-wED-Pbj3UfJb5osGNy_anmSlh5tAZ6LHaRFt5Xqw6oDhuaHlDDiVW1pdhfL0kOhzr8cXuuhIKcD5Fm8mIYNM8_UwLKGtAZjVoseIgE3P8ecVJZ2DiLi0b2tYCjdru_E0dFrD7cYcHzVHSVDMZFwQ=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Cabana - Legendado"  group-title="Unsorted",A Cabana - Legendado
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Cabana - Legendado"  group-title="Unsorted",A Cabana - Legendado
 https://lh3.googleusercontent.com/AWASQo1Qf3ilaUmzO0p93PQumm5jTBKEq9QnSdiedEFVSsBKjBzIiFMSzJM506ewZCKzkh-Xb3peAjadSiRCYUIP-CUargbtdeQviUA20kzBGKkzdvNMGPDeiotjIkPUOFv0Gt0a_FrhFbN-JmLfd1f-dexkH4Q2uZrEde8KDeeh67tHSMWpR7IJTDQ0507V8GXNyMFu884o0N7ftSup50umxkfSltSvLdGLKPQkaTIRrcbyDi91ReewGIE7261WhO7Nvb7gnEOSvbsD0VrBrZF1ajXbJMndoiPBonF9cog8sOa3nkO2MTb9hKPAmCvOlinbgBV8J8c0nqivCEVH_A9flmKaTflR647FF9JrWQwECGmP3v-7HsDibHnpfPZWhXs9ZlhRn9Rvx_4Z_JMG9Q2A1yGhULSdpXuFZToEdbdBZLe-9doe_vRDII3AIZNS6BHCH6sXLCHwm6OnE59xPr1Ykp5LSqKXteAuZyUF0tagQ_Fjg9r7E9HmQZ3lGSlC88wnu__TKdAiAi-DTv6D9vH-zCQQ3g6SBEoyX5PKg8Zdjo2FdlxYEd-aUai_Va-aEmZDRPwroKlDAaWT_5Hr2Q_IrXwgQHL_dsGEvVnEpHybLleSASnxc_xDQyIN8hW9EhphGl2q5IQXhbIKb42i4NDZQRkjXRCQgEVXWTvOPqQidg=m18
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estrelas Al�m do Tempo"  group-title="Unsorted",Estrelas Al�m do Tempo
-https://lh3.googleusercontent.com/NerKcLxR77zPSC6W1OY052GIO7maJZ8L-ftarHhZg66JZIoSOZhmkjIJ1yJv8f15CBanZXR_5J9qYs6AwgKGjhgobRQlMwalMoLfXyBh7yaZJLFG1HWSvQD34ODGRTOsWQBbELlO31PLDZ_ZDnOcddMS0rpoST0wpVs8n35TQsOjKnR4JsHN20kdpOMXSqNlPpKJbXrcvyqfD0mqWpV09VphgluTw7uU60cczZYZg7o7AjafvWtowWvUrW48p88-dNY24l_0jWdK4kPL1Au7zuQhzzL7R5gHqsB-i-bF2Bp6hS_k3rUQAdArAGv52IwGGAqhM7paL11kKUuwG_CV6XFgWtyjpW0-IFt5TaEE4Y20a4K8PBz7c1sDV9zJby_1rpbxn8aoOjH5R7J3lFsfcGQIQZXM9g5JyZRdaxa5nMxodnS65-mpQR9tPvw7eJInY1TPeXqFX_nq00r6Pu8tq7lvUia7ErIC5_P96PVmvTpHA5h4BVOBMq_s1Y11RFSz6sRcdWFnGx-eVBSeuWmcX9dh0gOPuFf5uCr_xRiGRrXdks088atsGK1SYJSdOTMCxSIoIgU79RD8k7GjPJkPLIIj35EZ_jzLnF_4AGUybvcqshf5trMYoPrjl_E9FWGDsf0Rc8Zw4su_DNM8cc6Yof4J8qsYu_kL2Ct8eJrvi1unQw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Africa dos Meus Sonhos"  group-title="Unsorted",Africa dos Meus Sonhos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estrelas Alhttps://lh3.googleusercontent.com/NerKcLxR77zPSC6W1OY052GIO7maJZ8L-ftarHhZg66JZIoSOZhmkjIJ1yJv8f15CBanZXR_5J9qYs6AwgKGjhgobRQlMwalMoLfXyBh7yaZJLFG1HWSvQD34ODGRTOsWQBbELlO31PLDZ_ZDnOcddMS0rpoST0wpVs8n35TQsOjKnR4JsHN20kdpOMXSqNlPpKJbXrcvyqfD0mqWpV09VphgluTw7uU60cczZYZg7o7AjafvWtowWvUrW48p88-dNY24l_0jWdK4kPL1Au7zuQhzzL7R5gHqsB-i-bF2Bp6hS_k3rUQAdArAGv52IwGGAqhM7paL11kKUuwG_CV6XFgWtyjpW0-IFt5TaEE4Y20a4K8PBz7c1sDV9zJby_1rpbxn8aoOjH5R7J3lFsfcGQIQZXM9g5JyZRdaxa5nMxodnS65-mpQR9tPvw7eJInY1TPeXqFX_nq00r6Pu8tq7lvUia7ErIC5_P96PVmvTpHA5h4BVOBMq_s1Y11RFSz6sRcdWFnGx-eVBSeuWmcX9dh0gOPuFf5uCr_xRiGRrXdks088atsGK1SYJSdOTMCxSIoIgU79RD8k7GjPJkPLIIj35EZ_jzLnF_4AGUybvcqshf5trMYoPrjl_E9FWGDsf0Rc8Zw4su_DNM8cc6Yof4J8qsYu_kL2Ct8eJrvi1unQw=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Africa dos Meus Sonhos"  group-title="Unsorted" - Africa dos Meus Sonhos
 http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Segredo de Brokeback Mountain"  group-title="Unsorted",O Segredo de Brokeback Mountain
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Segredo de Brokeback Mountain"  group-title="Unsorted" - O Segredo de Brokeback Mountain
 http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Melhor Amigo da Noiva"  group-title="Unsorted",O Melhor Amigo da Noiva
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Melhor Amigo da Noiva"  group-title="Unsorted" - O Melhor Amigo da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nicholas Nickleby"  group-title="Unsorted",Nicholas Nickleby
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nicholas Nickleby"  group-title="Unsorted" - Nicholas Nickleby
 http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pegar e Largar"  group-title="Unsorted",Pegar e Largar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pegar e Largar"  group-title="Unsorted" - Pegar e Largar
 http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Apenas Uma Vez"  group-title="Unsorted",Apenas Uma Vez
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Apenas Uma Vez"  group-title="Unsorted" - Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Jovem Rainha Victoria"  group-title="Unsorted",A Jovem Rainha Victoria
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Jovem Rainha Victoria"  group-title="Unsorted" - A Jovem Rainha Victoria
 http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Funny Lady"  group-title="Unsorted",Funny Lady
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Funny Lady"  group-title="Unsorted" - Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Casamento de Rachel"  group-title="Unsorted",O Casamento de Rachel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Casamento de Rachel"  group-title="Unsorted" - O Casamento de Rachel
 http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persuasao"  group-title="Unsorted",Persuasao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persuasao"  group-title="Unsorted" - Persuasao
 http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vou Te Pegar Otario"  group-title="Unsorted",Vou Te Pegar Otario
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vou Te Pegar Otario"  group-title="Unsorted" - Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Wasabi"  group-title="Unsorted",Wasabi
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Wasabi"  group-title="Unsorted" - Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Ato de Liberdade"  group-title="Unsorted",Um Ato de Liberdade
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Ato de Liberdade"  group-title="Unsorted" - Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viciado em Sexo"  group-title="Unsorted",Viciado em Sexo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viciado em Sexo"  group-title="Unsorted" - Viciado em Sexo
 http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Nome do Jogo"  group-title="Unsorted",O Nome do Jogo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Nome do Jogo"  group-title="Unsorted" - O Nome do Jogo
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atraidos Pelo Destino"  group-title="Unsorted",Atraidos Pelo Destino
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atraidos Pelo Destino"  group-title="Unsorted" - Atraidos Pelo Destino
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amores"  group-title="Unsorted",Tres Amores
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amores"  group-title="Unsorted" - Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Greta"  group-title="Unsorted",Greta
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Greta"  group-title="Unsorted" - Greta
 http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Como Se Fosse a Primeira Vez"  group-title="Unsorted",Como Se Fosse a Primeira Vez
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Como Se Fosse a Primeira Vez"  group-title="Unsorted" - Como Se Fosse a Primeira Vez
 http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="300 - A Ascens�o do Imp�rio"  group-title="Unsorted",300 - A Ascens�o do Imp�rio
-https://lh3.googleusercontent.com/9ClnrOPFTW2bObxTbg7aoqZX3vKW5Ctb2n9kJMP6csTt4KbzT_B5AeYkBapXZjzK9FRPu3_LAfWTAv-ZBPNnmgpfTgjXlrxEmvjyfLk1YUXZvnxJq88EoDq7xOe6dPREJx3nTIOeHcoNKPQotYzmadcuDJ6zLqU68Ojk9b2UwkUqQxc2OnG2TPBoZ_XkfBBf_QQUpzkpryryPwr0bfG_4KeVKeCrLqHXUN9BaXR44T7SqRcRt9oRB-ceJsJEfkHU1X9ZI4SEfoNSRuADAK37WmLOjBIJ14Fy9Ask90048Kj2XdZJ46SqdKsiN9UIQQwgCbn16IU9O4RdgGVP2opl0lK_qXkzzCkHYDoXFAGAL1JnG3zbpP2JIOIxPxt9K5EX0dpORCzZFenGSpRRWoo3u_5JNkDV9BiXdeiB45ahdl9O2rmI43nHu4vjb6PRQQnzEl4s3KJ-ifOiqSvPzRG1eLcFiFgvH9BMXhMVolDj1YCjOS1QuT8ujbytnNmIU-rtV1vCZAlu7AuRrQAq8OZEejOL2A_iuylJ4EUn_DEUrGbZCY_jz2r7Ts-5GwfjH5DRWRkBh3ucivq-b73eK7c2DUfwLxnbDbfT6rwBLe8uksKV9FB32DkC4amXKbtutBSmRHlSe3c-jOgokzZGeUQzsWR9dad6qVOMFHKtSMg6Tsv7Bw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eu Fico Loko 2017"  group-title="Unsorted",Eu Fico Loko 2017
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="300 - A Ascenshttps://lh3.googleusercontent.com/9ClnrOPFTW2bObxTbg7aoqZX3vKW5Ctb2n9kJMP6csTt4KbzT_B5AeYkBapXZjzK9FRPu3_LAfWTAv-ZBPNnmgpfTgjXlrxEmvjyfLk1YUXZvnxJq88EoDq7xOe6dPREJx3nTIOeHcoNKPQotYzmadcuDJ6zLqU68Ojk9b2UwkUqQxc2OnG2TPBoZ_XkfBBf_QQUpzkpryryPwr0bfG_4KeVKeCrLqHXUN9BaXR44T7SqRcRt9oRB-ceJsJEfkHU1X9ZI4SEfoNSRuADAK37WmLOjBIJ14Fy9Ask90048Kj2XdZJ46SqdKsiN9UIQQwgCbn16IU9O4RdgGVP2opl0lK_qXkzzCkHYDoXFAGAL1JnG3zbpP2JIOIxPxt9K5EX0dpORCzZFenGSpRRWoo3u_5JNkDV9BiXdeiB45ahdl9O2rmI43nHu4vjb6PRQQnzEl4s3KJ-ifOiqSvPzRG1eLcFiFgvH9BMXhMVolDj1YCjOS1QuT8ujbytnNmIU-rtV1vCZAlu7AuRrQAq8OZEejOL2A_iuylJ4EUn_DEUrGbZCY_jz2r7Ts-5GwfjH5DRWRkBh3ucivq-b73eK7c2DUfwLxnbDbfT6rwBLe8uksKV9FB32DkC4amXKbtutBSmRHlSe3c-jOgokzZGeUQzsWR9dad6qVOMFHKtSMg6Tsv7Bw=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eu Fico Loko 2017"  group-title="Unsorted" - Eu Fico Loko 2017
 https://lh3.googleusercontent.com/9yBI6w3OxyQ6Wt10wvTqYXDcaLLYuw0KAfqc86Q7tsY-GD-w8u3GOotHKZ0NVJiumPFqjonuDLe4BBeB9BhDYJR_yQsF6fld01g5FvE6pRQc5zK7EJoE03EMATLEXYvNBibtjJgbGHyx0in-eriWa46U5ePDy_GR-X2oknTN6uEOBIYZIgEaeSSViEMHtZ97aitTaTovF32dsp4uzpHxJ51wBYLoi6vwZ_YXZBPW47T3Pw9tQ8sYO2dTBnWbx2RJMK_QGkYKf2Js94JarQ6W1lKd_n47RK4_hwDuakJIeYG2PMgvCx36eVIDITxD-wqyFtd1MKsNhlKrjz7uPtbGwf6ZHLIwmegRnnK9y89as29J02-t_ySxh7xbuOAR8kmWek9q32DHKAZAyZCeqIs15wjxt8fMqpRSVQOs0_Aa8-K7nmV3GKJ91Vrtv7k4bqVlwNKJ2KJSBBW8bR7dqdtKLtCeE1O3h0nEDlucln-X9T0LXts9MQO_2M3Vw0JLWDpX4asxE3o56wGcOeZG65p8kmtcvNYdmvc_S64CUGE1sGkaZqeJzSilEobNdKHxrC-nAa-PU1Z97f0ZOQBZmMledoMNOGpOzwbEiEGK64lJlFLMA_1XvTAsdljHQB3bPvbQocUVQzyE4MjOZbro0NzpzTtjnpfWf0mVLiW2g-jZ8SfVIg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Filho Eterno"  group-title="Unsorted",O Filho Eterno
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Filho Eterno"  group-title="Unsorted" - O Filho Eterno
 https://lh3.googleusercontent.com/i1jg8rdtjqZmzk8_Uy3B1dEZR-lcDbwyKN4nug9Zj1o08feI_3HCoB8u2zf4QumT4luQUn1VyBF39FIbMMTbW8aqXoYuulHsHmki2yPgpIpevPx8yjt0GCtAfLH3G_PIUIcVF3jDdAyLK9-P-O8hdvJq72G2ZSstFy-Q5UUh77cfSE51ovGt0lQR55bCnaY17xtSu17XAXCzZLDF8Y4LQdz3OKQrhqBAy4Cg4dYiLH8MIzmUXdcPOSNOvX6V4F9DK6Px-uIQy8WFqBGrBlZsKzxNDy3Zyx7Xtuq8vvCpUd2MfZRZpFLzTyRoDA9w7RWbyUz3jrtiBmH-Ybvzs6E3pEWb1RAFwgIZH7KL69xnQrcNRsmVxiQ4jPAmkqsc_9BvyxMBXi2CUiLpIhyjEUeZzXMkkgZb5-Sx6YkhU1EEmw120mCKVn-uSD9KxxbV_DlJ_aZ6SJHXYtsCldcb7W-4GBzs6ZuUeacJKdp9yO_dgCK4VYdTJQKinN8ShYhQFoEnqLJOiuTzYjOyr7ZeDbLGGI5G5zZ94-eEaHxYIkw-X3zEto5U3v8fT-Y3KTaEg3olmTs1vAdLJ9NvXYLMCMK2biADqJ9pdTvSAoqOmn2JN8uRM0KiVeCUfD2sNUiZdPptXsm7r-OUC4-oo7AL7SpO4nmBY_cfXKe05c4ESKfJuo2CHg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 Minutos"  group-title="Unsorted",13 Minutos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 Minutos"  group-title="Unsorted" - 13 Minutos
 https://lh3.googleusercontent.com/PGwfvNQJpCe30AmAnvBw49XGu8QCXCR5M9WLHv-ofGlWkX97fpM7pozEugz0gx4o8JXDgFq1VXZA0rjzbnJ_a3Bo5S2YRh_FUVe3z4rujE2PbvzQ2GoZfonNC8uTQSEXAW2qBn8b0e51hbbiv0Smy_lGwfIYkX0xdYjvMOgeEmIGZxl72u31J7oTrqV8hWYa_XymPdud5p_lA7YF3g5YeC5WasV-yGJuPRL1HYqhzLDyCCB6HCff3pKgdXXPNUnxcu-8qadF0tcoO9G4j9_vWAidGl-Lw-MtkcAtbI1LbhGQKWqYlYxrkiEetnbDwt_onJjcGkTq81ofgDChqLnZ6q5WMTBqZo4jDPa2odAc79Z-g1Qjy6UktnjMxtv_ZwWqG6-rsWgllD3t6WShnQSjdV1ITOMnfd44_h_MVH0bsXcPbCQXRarjRZa0gvkS4Bj2a6QivyfvRBkLTrSNC68oxJHf2suVJC8NnSY3icRKm0IWxIj1RvBpcgTU_JEQzEUcSvYGDQtJw_AoXIzqcFQmb9TjeSGTSkMOPtUhtf5FopUhgPoifKh_GFkVzcuRvcSstCFbhKzssNjKnmWBpY9Vn_ep-ltWzNFxOJZ8Wxpv3HQMC6ZthqJJCjr2eotVvuGK93tvTGowg-h76XGzKCaPsqfd7T_vsusd3k2rN8p5uuy4PA=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Spirit: O Corcel Imdom�vel"  group-title="Unsorted",Spirit: O Corcel Imdom�vel
-https://lh3.googleusercontent.com/0SIwVTvpbfcenWcnVc0B4g5L0yWVnRTyya2vMrEFqJZNP9B8itTdzweqBYFAAaq55RYAu51-Q1BuQy8GOdKg_eXFn-2jCDNyyt-El_lKftjCJXrQhnZvtXc8oh9BroYpN4Kh4LG8usxc4x4920ex_kmlHwk9Q5K5KWiWfOH7wwIBKybiL8UeoUr011LijstJHJnjLXfPCyWnuuQprzR5vu5nM9CIJBifgSwscWkOIWKLEKDSjbOzKBob9Y2a5qe3CpzTEI1Gz-vF35E2kaCtN5XE2ybRkJs9uUZAXcd0zUmw8w81HtK-LKhbwx6IfWlSdH3q7E3ivP9Z8gUt0qmm2yRDcKNYwZnU1LX33HFohdmmA1kmR3qhG0vtjUCygsIIG-8LSwNJQzhbAp4Da7rV2VsPdPi_3vE8L-OKB8YNCALrBqyKbWiiQFhydc0OvgqBjQaydsVaZjx7F7VJfJZEZYUYacH2qj9vG15xFegqwSWyCDV7r8I3JwrqAqNgnASwJsjirA4DY9wtApjZuHuY4vs4L87jGEFpWg5Okp0-IRCogSeTjMU2lbrWL1I4s8p4wZ_xvq-y1XKNZG3nkEQ0xrC15HQln1SonV937HDr46rtALJDi4FOkZpWJ96AVHoCBZ0PfrDDOP580XlNI5zG5ogGVuu_keZ8L8SjRHBnZe7Kcw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M�os Talentosas: A Hist�ria de Ben Carson"  group-title="Unsorted",M�os Talentosas: A Hist�ria de Ben Carson
-https://lh3.googleusercontent.com/fRVsDFgFlWcmLqNO-K2KFzLuUhZT4f8AM1WtddaQ09_D1NNsTccB9tYGk7EI4mqIls2k7cKGqsmI2Ja_REH85AmP8_NeenCtp8ApBMCDVgBefomp4EKoF2NYMPrVeF7hnH99z5LxzGOIMj9z5dqF2sjE9CSP0aQemWcJ42kBvjLgrYarSe88uRwkkUrh07vXB3RVnG58oU5u1Qhif7srmrWUhmHgz01PuH9Q3UedSMUtvUiotDduNONcyY3gA3yPzVoMqOe1M4Kh8t2Iun7euwslI6-r4zHvPfnQaJNcEkRqbBG5JWCocnhmPziCLt1ny7iFv4CsGyZa2RXkeXawtLDgFOHujCQuJJkHKPTEbhy89Lw3MIc0wFNjeTD0rQzJ68Khv-MkcE0-0wlpj_sG8tkGUJXROuUa1Om79i3d1rYh1IaJrjw7wpZahKr7IvO4X2JyRIIhpfyNLYjhhyNK7ZPisRwcrabOlJQNGe2X7R8r8hGjwRHjijyvTn-1t2ecZS921NUmWIJiVZ2x8sUYWT36LyBsiv0xJ3V3JnNWywZTdAqb9bVtUXEGlB_tObHpAajanpqYZKgWAXmOkzkhFBjHLuUgF1RmCbuu_YG37zDaGqmhW92TSgS8kzxUCIgibs0OMPXc8K23unwMEYYyrdkgE5_C_LMAAjIk4vCUE14z9Q=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Di�rio de um Banana 2 - Rodrick � o Cara"  group-title="Unsorted",Di�rio de um Banana 2 - Rodrick � o Cara
-https://lh3.googleusercontent.com/jg4g4MYOdYNWVmQzBUOlps7tAtal85j_igX1BzbTYcdZRx5Fg_8TRG8WdoFJNVt4QUW8JX-96iczxgVYNpgUyz8BCk0oX_pt7qZCdxoz4OAG2mHYRh-rot02qRAq4NTOaGarg1buvgV5Zv2LakMC-WV-mPgJ10Rd6DrOJy4tn1SbtG7Vih09cRCMTG5XB-Jp3q9ZoAtpv8MhP-BZCGGoweXmm67JUZtY3sYnSjzkJZFRjZCC458bIGE9KEhZtBq2UBQ4LSjPBmqGrrX_aQpI8hpNQDe39S3fJPS0iXsSqbLZxVYU0-jCfW73ESi4V8FQxIoom5ijIOVM8r17CRnRem32s3eTTQUBE6JC1_dgtGJzwdXO-Lw3agW1AWKcvYlAkySCWhix-usAOsIx1Jt8IlB_KCq1euJQO-Mx-bPBJo3CrI_4GoelBvjgLuswgUNuYAZ7jSkdnK-saRhZ29UAV9Xn1AYGc5QqykMITrAIKSsNcZwkn4-WaoR80Nxe7GvwBvBe0TV2vTcbKFt_mKs_wp2hp_8LhElkpsMhTXjS_j8KQ7Da6x-E0g01aiIoPa_4Wd0ELA16BBYDpaFCprf2MA1-RtGv8vxSbpOJDVTMA35Wb6iGtAeZWOhbaiXDFxiI8T7XerYwSOKdcFCKUppeGCW5-JQleMW6cG5aVJvr5qDVvg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Gato de Botas - Preso num conto �pico"  group-title="Unsorted",O Gato de Botas - Preso num conto �pico
-https://lh3.googleusercontent.com/B49rMtfL5tX-mBBTKri9F9IfxYo4Jr36_wQ5Yitb8bxybgjx_hvVp8bImj9vYGWeCIdIM28I0eFjqpI8KYtrWudXXSi7v1-ojCe625Mzk78KUvqQfx7TgBsp_RJoqgWEZ5KY6HgfXXXODwSjI6IG_s0fxcY-cz6Mtfnqlx0be9EJd6gr8DPsyKfHFj3TUwOmHlvZzGP-zaiPORSs1hEXNGVHs1eXETSZ-RC1mqkimWSXSpJWiihFD6LjDS-cE9SepCk3aitvFeljmVfh6NfbwbraJnY54Z-gYHnlC0VinbIizX2XWX1JqKnQRPG21Ah-EE3YcYxiaYHaYNeGAgasFUSfqLxIUn31C0ukS0ZR25dlEV3QTkQlXPq1gtI0Qwlypb-VWHm9pu0QoRFXc2OdzioMhOJdXFXg1fbCZZ_5_gwc_HJFqgDDq8EOoLdw-iXxByAGdiGIin8wiW4pmrK3rqQvUy0DgmnoTVzPPEgdRBrclaOsSN6jE2kTveywbaBS-BsRxUdkRzKrrn8H3ibNhNNPnhzGx9a1W5d0VK1uUrjDwBwOaNbEnqxusk38kohtFgBcKDGPFXzffm2BU1uF2QyJ4rkn0zVH9snEByUg6uvL_ki-rhiV5GKgydeVPOyQBPdsZnym31B3jKlxoLkdqL9QkGou6EuD7jA42KF7NTdXHw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Beleza Oculta"  group-title="Unsorted",Beleza Oculta
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Spirit: O Corcel Imdomhttps://lh3.googleusercontent.com/0SIwVTvpbfcenWcnVc0B4g5L0yWVnRTyya2vMrEFqJZNP9B8itTdzweqBYFAAaq55RYAu51-Q1BuQy8GOdKg_eXFn-2jCDNyyt-El_lKftjCJXrQhnZvtXc8oh9BroYpN4Kh4LG8usxc4x4920ex_kmlHwk9Q5K5KWiWfOH7wwIBKybiL8UeoUr011LijstJHJnjLXfPCyWnuuQprzR5vu5nM9CIJBifgSwscWkOIWKLEKDSjbOzKBob9Y2a5qe3CpzTEI1Gz-vF35E2kaCtN5XE2ybRkJs9uUZAXcd0zUmw8w81HtK-LKhbwx6IfWlSdH3q7E3ivP9Z8gUt0qmm2yRDcKNYwZnU1LX33HFohdmmA1kmR3qhG0vtjUCygsIIG-8LSwNJQzhbAp4Da7rV2VsPdPi_3vE8L-OKB8YNCALrBqyKbWiiQFhydc0OvgqBjQaydsVaZjx7F7VJfJZEZYUYacH2qj9vG15xFegqwSWyCDV7r8I3JwrqAqNgnASwJsjirA4DY9wtApjZuHuY4vs4L87jGEFpWg5Okp0-IRCogSeTjMU2lbrWL1I4s8p4wZ_xvq-y1XKNZG3nkEQ0xrC15HQln1SonV937HDr46rtALJDi4FOkZpWJ96AVHoCBZ0PfrDDOP580XlNI5zG5ogGVuu_keZ8L8SjRHBnZe7Kcw=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mhttps://lh3.googleusercontent.com/fRVsDFgFlWcmLqNO-K2KFzLuUhZT4f8AM1WtddaQ09_D1NNsTccB9tYGk7EI4mqIls2k7cKGqsmI2Ja_REH85AmP8_NeenCtp8ApBMCDVgBefomp4EKoF2NYMPrVeF7hnH99z5LxzGOIMj9z5dqF2sjE9CSP0aQemWcJ42kBvjLgrYarSe88uRwkkUrh07vXB3RVnG58oU5u1Qhif7srmrWUhmHgz01PuH9Q3UedSMUtvUiotDduNONcyY3gA3yPzVoMqOe1M4Kh8t2Iun7euwslI6-r4zHvPfnQaJNcEkRqbBG5JWCocnhmPziCLt1ny7iFv4CsGyZa2RXkeXawtLDgFOHujCQuJJkHKPTEbhy89Lw3MIc0wFNjeTD0rQzJ68Khv-MkcE0-0wlpj_sG8tkGUJXROuUa1Om79i3d1rYh1IaJrjw7wpZahKr7IvO4X2JyRIIhpfyNLYjhhyNK7ZPisRwcrabOlJQNGe2X7R8r8hGjwRHjijyvTn-1t2ecZS921NUmWIJiVZ2x8sUYWT36LyBsiv0xJ3V3JnNWywZTdAqb9bVtUXEGlB_tObHpAajanpqYZKgWAXmOkzkhFBjHLuUgF1RmCbuu_YG37zDaGqmhW92TSgS8kzxUCIgibs0OMPXc8K23unwMEYYyrdkgE5_C_LMAAjIk4vCUE14z9Q=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dihttps://lh3.googleusercontent.com/jg4g4MYOdYNWVmQzBUOlps7tAtal85j_igX1BzbTYcdZRx5Fg_8TRG8WdoFJNVt4QUW8JX-96iczxgVYNpgUyz8BCk0oX_pt7qZCdxoz4OAG2mHYRh-rot02qRAq4NTOaGarg1buvgV5Zv2LakMC-WV-mPgJ10Rd6DrOJy4tn1SbtG7Vih09cRCMTG5XB-Jp3q9ZoAtpv8MhP-BZCGGoweXmm67JUZtY3sYnSjzkJZFRjZCC458bIGE9KEhZtBq2UBQ4LSjPBmqGrrX_aQpI8hpNQDe39S3fJPS0iXsSqbLZxVYU0-jCfW73ESi4V8FQxIoom5ijIOVM8r17CRnRem32s3eTTQUBE6JC1_dgtGJzwdXO-Lw3agW1AWKcvYlAkySCWhix-usAOsIx1Jt8IlB_KCq1euJQO-Mx-bPBJo3CrI_4GoelBvjgLuswgUNuYAZ7jSkdnK-saRhZ29UAV9Xn1AYGc5QqykMITrAIKSsNcZwkn4-WaoR80Nxe7GvwBvBe0TV2vTcbKFt_mKs_wp2hp_8LhElkpsMhTXjS_j8KQ7Da6x-E0g01aiIoPa_4Wd0ELA16BBYDpaFCprf2MA1-RtGv8vxSbpOJDVTMA35Wb6iGtAeZWOhbaiXDFxiI8T7XerYwSOKdcFCKUppeGCW5-JQleMW6cG5aVJvr5qDVvg=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Gato de Botas - Preso num conto https://lh3.googleusercontent.com/B49rMtfL5tX-mBBTKri9F9IfxYo4Jr36_wQ5Yitb8bxybgjx_hvVp8bImj9vYGWeCIdIM28I0eFjqpI8KYtrWudXXSi7v1-ojCe625Mzk78KUvqQfx7TgBsp_RJoqgWEZ5KY6HgfXXXODwSjI6IG_s0fxcY-cz6Mtfnqlx0be9EJd6gr8DPsyKfHFj3TUwOmHlvZzGP-zaiPORSs1hEXNGVHs1eXETSZ-RC1mqkimWSXSpJWiihFD6LjDS-cE9SepCk3aitvFeljmVfh6NfbwbraJnY54Z-gYHnlC0VinbIizX2XWX1JqKnQRPG21Ah-EE3YcYxiaYHaYNeGAgasFUSfqLxIUn31C0ukS0ZR25dlEV3QTkQlXPq1gtI0Qwlypb-VWHm9pu0QoRFXc2OdzioMhOJdXFXg1fbCZZ_5_gwc_HJFqgDDq8EOoLdw-iXxByAGdiGIin8wiW4pmrK3rqQvUy0DgmnoTVzPPEgdRBrclaOsSN6jE2kTveywbaBS-BsRxUdkRzKrrn8H3ibNhNNPnhzGx9a1W5d0VK1uUrjDwBwOaNbEnqxusk38kohtFgBcKDGPFXzffm2BU1uF2QyJ4rkn0zVH9snEByUg6uvL_ki-rhiV5GKgydeVPOyQBPdsZnym31B3jKlxoLkdqL9QkGou6EuD7jA42KF7NTdXHw=m22
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Beleza Oculta"  group-title="Unsorted" - Beleza Oculta
 https://lh3.googleusercontent.com/_AhX7B2VO7NNlQ6qyVXF3Z9m4W2K2G_ahGQ2lnCAob3gj76sWrWOodo9n7CdubQR80YzWhY3ireOWnHpEZckNzLWmcobtYRkxRc1Akq8c0gVNvn4YH_YURUGxSOezRuRk6WA9y_wWkebVPRYnZkhHEgOa_QYvS7N55sX2FEhsIGtQOO-x3bprs-JAPym39zTv0tqDrEiTAu2xLpbcH64vFzUjxlXY9E4tzHJA78sqsgt6l5SqVFGzuL7eMmzqz4nBCoQSstW2NIMGVaia2kbY9amMduD01JQA8q3iSA1I-XWCI_n48MLtFEGimB5Lslaawq-TUlrAK5lmP_XnCR1FPhCvH9Izukld_k-ro8ZeQ4KHOYdY1Q7tGtcF_XBrdtEIvtnbhZC_AB_zIWyFSykmf0KXPqd8k-5TJ8r2B2ioTVjqnCt-4WtMhKghal1pptrwvd6bg7Ts_nC-DSDy_yER2oKGByi_nCxpEdyyLllubvXZvEVm32gFxJmOj9__16oBQpHz1zOr3iw5ME1By0bzhImidL9VQgPz_wZ-raGvrQFjWiKOUQyAodHlfle9gv7j7R5iwbtZPsskx2daJjYNwl6UsY7miKzTj91OzAKakHrWiIlEzF77MagpX0RMlOgwttAsIeWksQW9dnh3Fvu2Qm2T_B_Bzjwr_peraMu49EhiA=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Oddball e os Pinguins"  group-title="Unsorted",Oddball e os Pinguins
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Oddball e os Pinguins"  group-title="Unsorted" - Oddball e os Pinguins
 https://lh3.googleusercontent.com/jfJM8JVKUiGRnlSnr0sSadsOuxWz2HztZlG4lRZGwHHDCXwduMmqEUgSvSjC4bI8e8nOBUfd00vm9TJ9S7_laJ3REiRWy_TIFk_oxOiVYBshHBXwIvqFkoGO22uxtCIKKIvN7s7evVxalCOxcpCVt4NW_HobqamDPgNX4NSUlsLdjL3ptbILizpzqUuwhqMh711Ll9ANvpyRKiDcQnxw2Cg7VIAx0NGUyNALJ8eLsiFinGOC-NgoGfBN4ZZJVrHv2m1BKegYc57BDGGYeR5isMRNzNOHXcY_RVbih4KK1Y02QXyaDCrNY-GWqOD5rGC5KCHi0sWbSaqes9jydX-rFVTL3Tf8BqoIcRwo0F3RjPczRT0SywiMGV0YYz1LkabywRFZqrLYCa3WxGk1VvIx-4ulOO9KGNV8Q0YEaNeVTAYiodQDu4m7eJnHt5IioYxxEc7si6Y8XmjzIpfvuEtz_DV75iqjkpcZXFlMKpKDsbtEaVVPgAroJ4Z1-k3J3xPfZbigHM62zFSb6YQha04Fr4IxO2TAFrsK1B7thyP8rAUAN7T3XTaF6n4SQ1cXTDyiI_iN58903mpEo7mYEv8ANtaLoDMymLsgSgfF9-DPpcDXg53SVM8-2sHP-V6_QnQdSrPg3k6CeXqiX0qyXVQ5p8JyWr0NzDGdhSGwQPaa5AWfPQ=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ca�adores de Emo��o"  group-title="Unsorted",Ca�adores de Emo��o
-https://ia601609.us.archive.org/11/items/cacadore32wwqwqeqed/Ca%C3%A7adores%20de%20Emo%C3%A7%C3%A3o%20Al%C3%A9m%20do%20Limite%202016%20Bluray%20720p%20Dublado%20WWW.THEPIRATEFILMES.COM.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Abismo do Medo"  group-title="Unsorted",Abismo do Medo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cahttps://ia601609.us.archive.org/11/items/cacadore32wwqwqeqed/Ca%C3%A7adores%20de%20Emo%C3%A7%C3%A3o%20Al%C3%A9m%20do%20Limite%202016%20Bluray%20720p%20Dublado%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Abismo do Medo"  group-title="Unsorted" - Abismo do Medo
 https://lh3.googleusercontent.com/QSDED6bHehMYqAN9IFoOwQH7He8p-QusugOYZSnFySQ6MVso9jrfopdyWqb6Q0gAF6Xr8dE41CXitai6IyeMJ_x0tj3LJYlpA34UwSH97wG-8gRl_eptskg-3BALNVwrQ3htLdiH7c5WbWY_CYulrNlBcc6VbAovxKkEJo2gFkqCRBfAxd13jS45WGKnkb460_l-IIAcOSGSCPZAr899dRjossS7eYjRAHJzPA3pNQAzwhGfUTuknuwgXwlQ7-y3Gv7wE0L1N_Q2x17PhhGMAzFy9l6DTGNoU7u1Jrp7Tfi1OmDUQJSwZioGNW_g1eQ5HTLRL_gO2ivvvdLxia-rWmrTxq_C0S5NT286GX-7sGabw6J4DJ2CH0JMkXzT0b-XP5cjbhlOwyd_Q65bsljgMgDfRbMIR0Lz0WTUGYBVDu3UeejKTHxpzjprS3YBNsSnhovx1DK2H5qilS-eB9st5_raGQ6G3GCXlNT-6RdxG__072PRdMiXa1TRtL_Eo5rIHtrNPv4f5HGcOdLcWFP2uwckKCtewkKH4mAjWJF5qiJip8QlxEAR9KEV29ebBamxACwuNdI64hw3O-kJ4Kyb9N_Sby1FxfOIixzRLW4aNRplGoz5sAEXKz0uvGrt8ycXabl2kmEPITAqIXLAMBVknl4APZuIdc65weKg5lQ-t9uGUg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Primeira Descida"  group-title="Unsorted",Primeira Descida
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Primeira Descida"  group-title="Unsorted" - Primeira Descida
 http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lagrimas do Sol"  group-title="Unsorted",Lagrimas do Sol
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lagrimas do Sol"  group-title="Unsorted" - Lagrimas do Sol
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Exorcismo de Emily Rose"  group-title="Unsorted",O Exorcismo de Emily Rose
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Exorcismo de Emily Rose"  group-title="Unsorted" - O Exorcismo de Emily Rose
 https://lh3.googleusercontent.com/7p1QbphUiZpm9WM7BdD2522K_FlIW8O2dDkcO8eZvzOn3ve8ovuJfGa4Om9imFPWmD4ExdratuATETICDJ6Bu2y1aVnyEJxtltKk__p7VZJaQYtIQtZZM3HopxXBe8vhOUJToOU6I3JsYcyMslVWG6tE3t13gwLdYzzm23qo_am0u1w9B7qEF0lP4s8EriotoDdRJYYyBOyLPLvUxtrDJhwyfxytImHK3-6mndYUr_fWKKTJDD6kGjI8yxQAttjR8vFZLuD9CkZiONE4_UUzNh-p0HsItBePrEVMl6KrvJlRrlslEevj-5pKBy77Qg_v8v6uEDDfGQabkJtvZbI-2QPhQ03y7rxypLM6xNFdU-0hM8qFGaZHC95wpyTQlzV1rgaP780eyFJOxx1QepBir1MtMrBXoFkfCQlTfNOafEy6dJO6VmXNBp84uL2Y3w8da88IXVZvQBGEM8UZBQQHpNZWdHWLhvWChArXw6NV40SwiXRdwBcgBnQdmSE2uZreJoegmEVBggzZAP1oO6trsDRt-x3v5o5LLo2Mmuf6aZrYGSAvX8FPMoGV91Uq41Mi0XlwvrMuSUBJWMomRdfzO250mNjbTV__apFbXP3E4OqDz15bghOKl7snIbtUyMlxtBsC0x98iSJ-_ZAPFt35_lvmKRaAbrOTEVojAy0mC1jGVA=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Missa do Vaqueiro - Agroquima"  group-title="Unsorted",Missa do Vaqueiro - Agroquima
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Missa do Vaqueiro - Agroquima"  group-title="Unsorted",Missa do Vaqueiro - Agroquima
 https://lh3.googleusercontent.com/5FPn2ejr9xHpUwuEianvjnXX5RaAJUwAQg0tMiukknyeFV9VOiLNdgVZfJjHaDKGuqJ2icEdbWVnvwHZ_yM3WOCQLkiB2TPEPa1LF7UDHwTy32hiZJZo7G67KTozRZD_21UZMX_h23l3ooWgSfo424vKl17-SWGL5Gz7rzTmGSNkcC6uVibvWaMAuV7MyQpf7Zn570BYYsm-iYZdE9zM9ua9e7O2j5Cf8hVSe0nWuB4Lfk1kzORyXN1fz0-oSKAtqvUg4273qO6cg-mOK5sH9M6ZD-SI1QUvv1PUBp529S-0M2EHvI7l252THJbvK3UTC7xCQOwESpXtigCQVgnDpyk-uOtr42GcNTewIB9L22hI-4Q3NHboAQb0JvQqReIu90xLbsSFE-dCKRD8jPEOjM03jHkwqK1iTpoB3HEkOKrmOIIrGjIen3uTfICvJAWG53CDD8q9pReoq9Qk2qVerS7w8qOnYWf2XQ-8y7EHvM4mDtBYZ7DI4ssWZO8FNFSXsh7phFsJuhxmuv7GmxzRnrfD8QmddAa1aBsLvAQ4q1CtpBBXpL1cxJ6-6mYmDGS9M6oFmw1WC3T9NlV3l0QLUSiQOUw_gzXVPGvxFBQ2ET2eMD13npzRI3f-4ZUmLf9LJyeIeGYd7R_DuCfBJ7Wsr7h9iHgfZAX-_cYuy_GpSGNV1w=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lion: Uma Jornada Para Casa"  group-title="Unsorted",Lion: Uma Jornada Para Casa
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lion: Uma Jornada Para Casa"  group-title="Unsorted" - Lion: Uma Jornada Para Casa
 https://lh3.googleusercontent.com/mK243jJUGccZqvuJo_BMCiwgLysj3QihcxrbZyThizbL43bzVHDWMNrK_GAPXyq8moToZhDd5t-6mR_MEMEpTHt4Xmf7eQSlc-L27wAveoPXzuvpmrrEvMPR9gMy7xplRMGQ62mo6bRR-9ElME3YaxHVx5ut2cTGYtCLOJoiOCiUQnE85MoXJ4DDCZo9cVZFkxZeJokcjGt7I1szVEE5izrUZYze06VyN7oIBIGlaeH1OTLBbPtGVNEukdAayZprENGJoz2HU7Jd15woqRgTF6o9d8D3mFRVJswJD8ErvTJgTMxoJ3ry7nf4pWiLoOx3oANjUsMY790vL-r85yRzM5z6UotcE7aWS-k5RS7Rs4Bs-7a4mzIDLH-3VML4HnGUFmCPIM0QdD03PTtmvUCmZE0fa6AgP9r66KMjaSR5eythiMMFrYNyXCELavo9OVNa0caFm1ptqNLD12eFWJpSuPVYlA3PvXp638UK00pyCAv7pJ5XYFxxzMDgnHVUs2rxhW7xMzo54vrxvW2CYqtj_RMEADjtHEnCNXYYBYK6VUy5oRc4fslUH82uIsp6vWbnq4sEf3w0qOZx_2czWWo-p3mZo8epqVzHL5BKzFAZChIwqfu-pORCdrHl6ZCD1qyK8dw1LZrRD-kmnO88qUih4-ykLRflswavYi5nwvFJTbM4Yw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouija - O Jogo dos Espiritos"  group-title="Unsorted",Ouija - O Jogo dos Espiritos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouija - O Jogo dos Espiritos"  group-title="Unsorted",Ouija - O Jogo dos Espiritos
 https://lh3.googleusercontent.com/UhHfyZHFHJQdUHy4PM5XfAkloQBuKUei5qd58m1vVev60jOizIMvQRf3ojTtfdw_Z6oZvD7GTW6n60dnSFHBb1DHQ5o6V7Sj2Wmya-58jt-tSi0lvAj0WcXD09UqA-_N2sT4uD0Mysyr-TwBTA7eFDgQczcjIhfXx8QpqD2Nro3wt0HoICc-dZTNgSprmI7-lrc6J2hXYR8NYE33qd9TEJj6AEegGPogzCE3Evb4G3tail2PBCB2R5jCWOkO6Q2XCIrA503YocBo8hyljbuu5IzfXi6Ax4N3xVN6099r2PRV2zo5ku0LlLAfJNZNBNKsya70lL1DvyQNF5Hk7ogVqrA7GSRoYO7RhnMfvzeOhpMFJBpNuv33Hb7fOK5h76rZbw2fPmj3pVRrew3S9SV-Yj9ApNQVpzd3UlWuQrGdNW0niGI9V93sE8faDKEVGLP48dr7mXmseRnYFtuzOZymQSaibO2N2-R8ZDC7HiIpGVycdZEDHZinIQv94d810yH_jF_dc1ymqBPuERkQNQ2mTh-hgT7Sp4uhEzKkUvrTMo8JY9YaNDL06Quiwpsn6cA6VDV5gzATBwcCpCetdv-23tFcPxbKPgXbC4viOHjUf34PP5QwK0D9ZmUKvbo6e0eEAdyHwoiJNDpZdN8gP122nlCeqmgN6qBJB5hNv3r5k6bnjg=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amizade Desfeita"  group-title="Unsorted",Amizade Desfeita
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amizade Desfeita"  group-title="Unsorted" - Amizade Desfeita
 https://lh3.googleusercontent.com/bFRDTFcgLkUrt9_BmyzLW8wkhFVCzLbVnqpPl5_eQjz7FTYtxbt-ozPTHRvgBA4n6M8PEnU5a2f2MzVZRADwdO6tdyTWTWRWVZaPBGuhG2SM45G79gpky_aBRUmb4SLmng1zLM_9IfrpUEPV0riDfTKSv7JqbWaxCMJu-b33RSNe_kRAXuOpVEsSm7ErbyODBKI6YSbN1bNDtycRpLCOY65WKqOIAilhsXFLOyyEmjkkdZ0BqrbAtLTwSKDve3EUibYbClOljGwdTuJg5wG-ij5EbwVutdSgItCfI4L_jB8xQ9FHA2XJ_Zv9HoN2IEwZ23wOFrJfVPini9kBTs1FGOY1h-1BtrD_I74bz5MCrMavO9b_aP1NgT0MVYY9uN2x_dT_Lk7Ces-vIYhSjW2rOHk_IGn3ZGQE9gZ5oAC4wvYN51BRK9daz1927-4HPGw349IOkIzeb_nbB_35DsBBP9K8eqJ7dU5YvJtITcNjqDh-jfUlYFtYG1Rk74ptGnq0itom0HMKOwRWCL38YGGULwLv43UaJgQTTQ_cvlzAjD5oEIFVrxktJ8AP6Dt-PYXE3pxVi1Z3JIo8qrQlwF3WRcWJ8x9n7Ek2zwKxwWNTFDclEpqt26ASV3SHlCNVImjSjg8sumdGS5BOWxvf6iYswJZarLQJyOGG3PbOVmnsJ_k7Jw=m22
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Meu Primeiro Amor - Parte 2"  group-title="Unsorted",Meu Primeiro Amor - Parte 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Meu Primeiro Amor - Parte 2"  group-title="Unsorted",Meu Primeiro Amor - Parte 2
 http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Sal�o do Barulho"  group-title="Unsorted",Um Sal�o do Barulho
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Otario"  group-title="Unsorted",O Otario
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Salhttp://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Otario"  group-title="Unsorted" - O Otario
 http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amores"  group-title="Unsorted",Tres Amores
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amores"  group-title="Unsorted" - Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segurando As Pontas"  group-title="Unsorted",Segurando As Pontas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segurando As Pontas"  group-title="Unsorted" - Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Ultima Missao"  group-title="Unsorted",A Ultima Missao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Ultima Missao"  group-title="Unsorted" - A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Volta dos Mortos Vivos"  group-title="Unsorted",A Volta dos Mortos Vivos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Volta dos Mortos Vivos"  group-title="Unsorted" - A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kung-Fu Futebol Clube"  group-title="Unsorted",Kung-Fu Futebol Clube
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kung-Fu Futebol Clube"  group-title="Unsorted" - Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Heranca de Mr. Deeds"  group-title="Unsorted",A Heranca de Mr. Deeds
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Heranca de Mr. Deeds"  group-title="Unsorted" - A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Amor de Verao"  group-title="Unsorted",Um Amor de Verao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Amor de Verao"  group-title="Unsorted" - Um Amor de Verao
 http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ironias do Amor"  group-title="Unsorted",Ironias do Amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ironias do Amor"  group-title="Unsorted" - Ironias do Amor
 http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Peixe Chamado Wanda"  group-title="Unsorted",Um Peixe Chamado Wanda
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Peixe Chamado Wanda"  group-title="Unsorted" - Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kung-Fusao"  group-title="Unsorted",Kung-Fusao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kung-Fusao"  group-title="Unsorted" - Kung-Fusao
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Oposto do Sexo"  group-title="Unsorted",O Oposto do Sexo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Oposto do Sexo"  group-title="Unsorted" - O Oposto do Sexo
 http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bastidores de um Casamento"  group-title="Unsorted",Bastidores de um Casamento
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bastidores de um Casamento"  group-title="Unsorted" - Bastidores de um Casamento
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nem Por Cima do Meu Cadaver"  group-title="Unsorted",Nem Por Cima do Meu Cadaver
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nem Por Cima do Meu Cadaver"  group-title="Unsorted" - Nem Por Cima do Meu Cadaver
 http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amor"  group-title="Unsorted",Amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amor"  group-title="Unsorted" - Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Chamado de Xangai"  group-title="Unsorted",O Chamado de Xangai
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Chamado de Xangai"  group-title="Unsorted" - O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Paraiso e Logo Aqui"  group-title="Unsorted",O Paraiso e Logo Aqui
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Paraiso e Logo Aqui"  group-title="Unsorted" - O Paraiso e Logo Aqui
 http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Safados"  group-title="Unsorted",Os Safados
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Safados"  group-title="Unsorted" - Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Procurando Encrenca"  group-title="Unsorted",Procurando Encrenca
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Procurando Encrenca"  group-title="Unsorted" - Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Julgamento de Paris"  group-title="Unsorted",O Julgamento de Paris
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Julgamento de Paris"  group-title="Unsorted" - O Julgamento de Paris
 http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Paizao"  group-title="Unsorted",O Paizao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Paizao"  group-title="Unsorted" - O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Provas E Trapacas"  group-title="Unsorted",Provas E Trapacas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Provas E Trapacas"  group-title="Unsorted" - Provas E Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sob Suspeita (2006)"  group-title="Unsorted",Sob Suspeita (2006)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sob Suspeita (2006)"  group-title="Unsorted" - Sob Suspeita (2006)
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Swingers - Curtindo a Noite"  group-title="Unsorted",Swingers - Curtindo a Noite
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Swingers - Curtindo a Noite"  group-title="Unsorted",Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quase Ilegal"  group-title="Unsorted",Quase Ilegal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quase Ilegal"  group-title="Unsorted" - Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Secretaria"  group-title="Unsorted",Secretaria
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Secretaria"  group-title="Unsorted" - Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Balconista"  group-title="Unsorted",O Balconista
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Balconista"  group-title="Unsorted" - O Balconista
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Como conquistar uma mulher"  group-title="Unsorted",Como conquistar uma mulher
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Como conquistar uma mulher"  group-title="Unsorted" - Como conquistar uma mulher
 http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fido - O Mascote"  group-title="Unsorted",Fido - O Mascote
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fido - O Mascote"  group-title="Unsorted",Fido - O Mascote
 http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Almondegas 4 - Ferias de Verao"  group-title="Unsorted",Almondegas 4 - Ferias de Verao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Almondegas 4 - Ferias de Verao"  group-title="Unsorted",Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bolas em Panico"  group-title="Unsorted",Bolas em Panico
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bolas em Panico"  group-title="Unsorted" - Bolas em Panico
 http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Funcionario do Mes"  group-title="Unsorted",Funcionario do Mes
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Funcionario do Mes"  group-title="Unsorted" - Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trapacas E Dois Canos Fumegantes"  group-title="Unsorted",Trapacas E Dois Canos Fumegantes
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trapacas E Dois Canos Fumegantes"  group-title="Unsorted" - Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao e Mais um Besteirol Americano"  group-title="Unsorted",Nao e Mais um Besteirol Americano
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao e Mais um Besteirol Americano"  group-title="Unsorted" - Nao e Mais um Besteirol Americano
 http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Grande Hotel"  group-title="Unsorted",Grande Hotel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Grande Hotel"  group-title="Unsorted" - Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jogando com Prazer"  group-title="Unsorted",Jogando com Prazer
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jogando com Prazer"  group-title="Unsorted" - Jogando com Prazer
 http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Ultimo Grande Heroi"  group-title="Unsorted",O Ultimo Grande Heroi
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Ultimo Grande Heroi"  group-title="Unsorted" - O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Juno"  group-title="Unsorted",Juno
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Juno"  group-title="Unsorted" - Juno
 http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Branquelas"  group-title="Unsorted",As Branquelas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Branquelas"  group-title="Unsorted" - As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Casamento as Avessas"  group-title="Unsorted",Casamento as Avessas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Casamento as Avessas"  group-title="Unsorted" - Casamento as Avessas
 http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O ABC do Amor"  group-title="Unsorted",O ABC do Amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O ABC do Amor"  group-title="Unsorted" - O ABC do Amor
 http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bons Costumes"  group-title="Unsorted",Bons Costumes
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bons Costumes"  group-title="Unsorted" - Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Meus Quinze Anos"  group-title="Unsorted",Meus Quinze Anos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Meus Quinze Anos"  group-title="Unsorted" - Meus Quinze Anos
 http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Adoraveis Mulheres"  group-title="Unsorted",Adoraveis Mulheres
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Adoraveis Mulheres"  group-title="Unsorted" - Adoraveis Mulheres
 http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Julie & Julia"  group-title="Unsorted",Julie & Julia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Julie & Julia"  group-title="Unsorted" - Julie & Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="De Repente 30"  group-title="Unsorted",De Repente 30
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="De Repente 30"  group-title="Unsorted" - De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bruno"  group-title="Unsorted",Bruno
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bruno"  group-title="Unsorted" - Bruno
 http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cativeiro"  group-title="Unsorted",Cativeiro
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cativeiro"  group-title="Unsorted" - Cativeiro
 http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Corpo em Evidencia"  group-title="Unsorted",Corpo em Evidencia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Corpo em Evidencia"  group-title="Unsorted" - Corpo em Evidencia
 http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Beira do Abismo"  group-title="Unsorted",A Beira do Abismo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Beira do Abismo"  group-title="Unsorted" - A Beira do Abismo
 http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trair e Roubar"  group-title="Unsorted",Trair e Roubar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trair e Roubar"  group-title="Unsorted" - Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Enquanto Ela Estiver Fora"  group-title="Unsorted",Enquanto Ela Estiver Fora
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Enquanto Ela Estiver Fora"  group-title="Unsorted" - Enquanto Ela Estiver Fora
 http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Malicia"  group-title="Unsorted",Malicia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Malicia"  group-title="Unsorted" - Malicia
 http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sociedade Feroz"  group-title="Unsorted",Sociedade Feroz
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sociedade Feroz"  group-title="Unsorted" - Sociedade Feroz
 http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estranha Obsessao"  group-title="Unsorted",Estranha Obsessao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estranha Obsessao"  group-title="Unsorted" - Estranha Obsessao
 http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hotel Ruanda"  group-title="Unsorted",Hotel Ruanda
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hotel Ruanda"  group-title="Unsorted" - Hotel Ruanda
 http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Pantera Cor de Rosa"  group-title="Unsorted",A Pantera Cor de Rosa
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Pantera Cor de Rosa"  group-title="Unsorted" - A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Rosa Purpura do Cairo"  group-title="Unsorted",A Rosa Purpura do Cairo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Rosa Purpura do Cairo"  group-title="Unsorted" - A Rosa Purpura do Cairo
 http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Minha Mulher e Minhas Copias"  group-title="Unsorted",Minha Mulher e Minhas Copias
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Minha Mulher e Minhas Copias"  group-title="Unsorted" - Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Annie"  group-title="Unsorted",Annie
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Annie"  group-title="Unsorted" - Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mixed Nuts"  group-title="Unsorted",Mixed Nuts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mixed Nuts"  group-title="Unsorted" - Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Festa no Ar"  group-title="Unsorted",Uma Festa no Ar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Festa no Ar"  group-title="Unsorted" - Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Turma Do Barulho"  group-title="Unsorted",Uma Turma Do Barulho
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Turma Do Barulho"  group-title="Unsorted" - Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ricky Bobby - A Toda Velocidade"  group-title="Unsorted",Ricky Bobby - A Toda Velocidade
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ricky Bobby - A Toda Velocidade"  group-title="Unsorted",Ricky Bobby - A Toda Velocidade
 http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Superbad - E Hoje"  group-title="Unsorted",Superbad - E Hoje
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Superbad - E Hoje"  group-title="Unsorted",Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Feitico da Lua"  group-title="Unsorted",Feitico da Lua
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Feitico da Lua"  group-title="Unsorted" - Feitico da Lua
 http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mal Posso Esperar"  group-title="Unsorted",Mal Posso Esperar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mal Posso Esperar"  group-title="Unsorted" - Mal Posso Esperar
 http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Criminoso Decente"  group-title="Unsorted",Um Criminoso Decente
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Criminoso Decente"  group-title="Unsorted" - Um Criminoso Decente
 http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lembrancas de Hollywood"  group-title="Unsorted",Lembrancas de Hollywood
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lembrancas de Hollywood"  group-title="Unsorted" - Lembrancas de Hollywood
 http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="All That Jazz - O Show Deve Continuar"  group-title="Unsorted",All That Jazz - O Show Deve Continuar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="All That Jazz - O Show Deve Continuar"  group-title="Unsorted",All That Jazz - O Show Deve Continuar
 http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="os Meus e os Nossos"  group-title="Unsorted",os Meus e os Nossos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="os Meus e os Nossos"  group-title="Unsorted" - os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lua de Mel em Las Vegas"  group-title="Unsorted",Lua de Mel em Las Vegas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lua de Mel em Las Vegas"  group-title="Unsorted" - Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jogue a Mamae do Trem"  group-title="Unsorted",Jogue a Mamae do Trem
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jogue a Mamae do Trem"  group-title="Unsorted" - Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Produtores"  group-title="Unsorted",Os Produtores
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Produtores"  group-title="Unsorted" - Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O clube de Leitura de Jane Austen"  group-title="Unsorted",O clube de Leitura de Jane Austen
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O clube de Leitura de Jane Austen"  group-title="Unsorted" - O clube de Leitura de Jane Austen
 http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trabalho Sujo"  group-title="Unsorted",Trabalho Sujo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trabalho Sujo"  group-title="Unsorted" - Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rede de Intrigas"  group-title="Unsorted",Rede de Intrigas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rede de Intrigas"  group-title="Unsorted" - Rede de Intrigas
 http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Seducao Fatal"  group-title="Unsorted",Seducao Fatal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Seducao Fatal"  group-title="Unsorted" - Seducao Fatal
 http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Regaste de um Campeao"  group-title="Unsorted",O Regaste de um Campeao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Regaste de um Campeao"  group-title="Unsorted" - O Regaste de um Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Vigarista do ano"  group-title="Unsorted",O Vigarista do ano
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Vigarista do ano"  group-title="Unsorted" - O Vigarista do ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Seis Graus de Separacao"  group-title="Unsorted",Seis Graus de Separacao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Seis Graus de Separacao"  group-title="Unsorted" - Seis Graus de Separacao
 http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Homem Bom"  group-title="Unsorted",Um Homem Bom
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Homem Bom"  group-title="Unsorted" - Um Homem Bom
 http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Garota Encantada"  group-title="Unsorted",Uma Garota Encantada
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Garota Encantada"  group-title="Unsorted" - Uma Garota Encantada
 http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Saida"  group-title="Unsorted",Sem Saida
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Saida"  group-title="Unsorted" - Sem Saida
 http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Studio 54"  group-title="Unsorted",Studio 54
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Studio 54"  group-title="Unsorted" - Studio 54
 http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Ilusionista"  group-title="Unsorted",O Ilusionista
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Ilusionista"  group-title="Unsorted" - O Ilusionista
 http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Grande Jogada"  group-title="Unsorted",A Grande Jogada
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Grande Jogada"  group-title="Unsorted" - A Grande Jogada
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Duas Faces Da Lei"  group-title="Unsorted",As Duas Faces Da Lei
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Duas Faces Da Lei"  group-title="Unsorted" - As Duas Faces Da Lei
 http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caminho Sem Volta"  group-title="Unsorted",Caminho Sem Volta
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caminho Sem Volta"  group-title="Unsorted" - Caminho Sem Volta
 http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A festa nunca termina"  group-title="Unsorted",A festa nunca termina
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A festa nunca termina"  group-title="Unsorted" - A festa nunca termina
 http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Coisas Belas E Sujas"  group-title="Unsorted",Coisas Belas E Sujas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Coisas Belas E Sujas"  group-title="Unsorted" - Coisas Belas E Sujas
 http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Luta Pela Liberdade"  group-title="Unsorted",Luta Pela Liberdade
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Luta Pela Liberdade"  group-title="Unsorted" - Luta Pela Liberdade
 http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Cantor"  group-title="Unsorted",O Cantor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Cantor"  group-title="Unsorted" - O Cantor
 http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Femme Fatale"  group-title="Unsorted",Femme Fatale
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Femme Fatale"  group-title="Unsorted" - Femme Fatale
 http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Inocente Ou Culpado"  group-title="Unsorted",Inocente Ou Culpado
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Inocente Ou Culpado"  group-title="Unsorted" - Inocente Ou Culpado
 http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Sequestro do Metro 123"  group-title="Unsorted",O Sequestro do Metro 123
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Sequestro do Metro 123"  group-title="Unsorted" - O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Tango e o Assassino"  group-title="Unsorted",O Tango e o Assassino
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Tango e o Assassino"  group-title="Unsorted" - O Tango e o Assassino
 http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eu Sei Quem Me Matou"  group-title="Unsorted",Eu Sei Quem Me Matou
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eu Sei Quem Me Matou"  group-title="Unsorted" - Eu Sei Quem Me Matou
 http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Homens Perigosos"  group-title="Unsorted",Homens Perigosos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Homens Perigosos"  group-title="Unsorted" - Homens Perigosos
 http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouro Branco"  group-title="Unsorted",Ouro Branco
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ouro Branco"  group-title="Unsorted" - Ouro Branco
 http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stigmata"  group-title="Unsorted",Stigmata
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stigmata"  group-title="Unsorted" - Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Resident Evil 2: Apocalipse (2004)"  group-title="Unsorted",Resident Evil 2: Apocalipse (2004)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Resident Evil 2: Apocalipse (2004)"  group-title="Unsorted" - Resident Evil 2: Apocalipse (2004)
 http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Paraiso"  group-title="Unsorted",Paraiso
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Paraiso"  group-title="Unsorted" - Paraiso
 http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Mensageiros"  group-title="Unsorted",Os Mensageiros
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Mensageiros"  group-title="Unsorted" - Os Mensageiros
 http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caminhos Opostos"  group-title="Unsorted",Caminhos Opostos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Caminhos Opostos"  group-title="Unsorted" - Caminhos Opostos
 http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Informante"  group-title="Unsorted",A Informante
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Informante"  group-title="Unsorted" - A Informante
 http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Sangue de Romeo"  group-title="Unsorted",O Sangue de Romeo
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Sangue de Romeo"  group-title="Unsorted" - O Sangue de Romeo
 http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Simplesmente Alice"  group-title="Unsorted",Simplesmente Alice
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Simplesmente Alice"  group-title="Unsorted" - Simplesmente Alice
 http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sacrif�cio"  group-title="Unsorted",Sacrif�cio
-http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Inquilino"  group-title="Unsorted",O Inquilino
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sacrifhttp://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Inquilino"  group-title="Unsorted" - O Inquilino
 http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amigo de Caca"  group-title="Unsorted",Amigo de Caca
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amigo de Caca"  group-title="Unsorted" - Amigo de Caca
 http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aprendendo A Viver"  group-title="Unsorted",Aprendendo A Viver
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aprendendo A Viver"  group-title="Unsorted" - Aprendendo A Viver
 http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Solteira Procura 2"  group-title="Unsorted",Solteira Procura 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Solteira Procura 2"  group-title="Unsorted" - Solteira Procura 2
 http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Poder e Corrupcao (Dirty)"  group-title="Unsorted",Poder e Corrupcao (Dirty)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Poder e Corrupcao (Dirty)"  group-title="Unsorted" - Poder e Corrupcao (Dirty)
 http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8mm - Oito Milimetros 2"  group-title="Unsorted",8mm - Oito Milimetros 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8mm - Oito Milimetros 2"  group-title="Unsorted",8mm - Oito Milimetros 2
 http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Aprendiz"  group-title="Unsorted",O Aprendiz
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Aprendiz"  group-title="Unsorted" - O Aprendiz
 http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nas Profundezas Do Mar Sem Fim"  group-title="Unsorted",Nas Profundezas Do Mar Sem Fim
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nas Profundezas Do Mar Sem Fim"  group-title="Unsorted" - Nas Profundezas Do Mar Sem Fim
 http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Secretaria"  group-title="Unsorted",Secretaria
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Secretaria"  group-title="Unsorted" - Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Miseraveis"  group-title="Unsorted",Os Miseraveis
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Os Miseraveis"  group-title="Unsorted" - Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lawrence da Arabia"  group-title="Unsorted",Lawrence da Arabia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lawrence da Arabia"  group-title="Unsorted" - Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amigas com Dinheiro"  group-title="Unsorted",Amigas com Dinheiro
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amigas com Dinheiro"  group-title="Unsorted" - Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um homem fora-de-serie"  group-title="Unsorted",Um homem fora-de-serie
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um homem fora-de-serie"  group-title="Unsorted" - Um homem fora-de-serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao Sem a Minha Filha"  group-title="Unsorted",Nao Sem a Minha Filha
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nao Sem a Minha Filha"  group-title="Unsorted" - Nao Sem a Minha Filha
 http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Outra"  group-title="Unsorted",A Outra
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A Outra"  group-title="Unsorted" - A Outra
 http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Vestigios"  group-title="Unsorted",Sem Vestigios
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sem Vestigios"  group-title="Unsorted" - Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vamos Nessa"  group-title="Unsorted",Vamos Nessa
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vamos Nessa"  group-title="Unsorted" - Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Faces de Helen"  group-title="Unsorted",As Faces de Helen
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As Faces de Helen"  group-title="Unsorted" - As Faces de Helen
 http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amigos!"  group-title="Unsorted",Tres Amigos!
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tres Amigos!"  group-title="Unsorted" - Tres Amigos!
 http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Noiva e Tanto"  group-title="Unsorted",Uma Noiva e Tanto
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Uma Noiva e Tanto"  group-title="Unsorted" - Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mentiras e Videotape"  group-title="Unsorted",Mentiras e Videotape
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mentiras e Videotape"  group-title="Unsorted" - Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rain Man"  group-title="Unsorted",Rain Man
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rain Man"  group-title="Unsorted" - Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desaparecidas"  group-title="Unsorted",Desaparecidas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desaparecidas"  group-title="Unsorted" - Desaparecidas
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vestigios do Dia"  group-title="Unsorted",Vestigios do Dia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vestigios do Dia"  group-title="Unsorted" - Vestigios do Dia
 http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lendas da Paixao"  group-title="Unsorted",Lendas da Paixao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lendas da Paixao"  group-title="Unsorted" - Lendas da Paixao
 http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Rancho do Amor"  group-title="Unsorted",O Rancho do Amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Rancho do Amor"  group-title="Unsorted" - O Rancho do Amor
 http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Segredo Entre Nos"  group-title="Unsorted",Um Segredo Entre Nos
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Um Segredo Entre Nos"  group-title="Unsorted" - Um Segredo Entre Nos
 http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Oliver!"  group-title="Unsorted",Oliver!
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Oliver!"  group-title="Unsorted" - Oliver!
 http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Laurel Canyon - A Rua das Tentacoes"  group-title="Unsorted",Laurel Canyon - A Rua das Tentacoes
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Laurel Canyon - A Rua das Tentacoes"  group-title="Unsorted",Laurel Canyon - A Rua das Tentacoes
 http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Erin Brockovich - Uma Mulher de Talento"  group-title="Unsorted",Erin Brockovich - Uma Mulher de Talento
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Erin Brockovich - Uma Mulher de Talento"  group-title="Unsorted",Erin Brockovich - Uma Mulher de Talento
 http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="12 Horas"  group-title="Unsorted",12 Horas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="12 Horas"  group-title="Unsorted" - 12 Horas
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8mm - Oito Milimetros"  group-title="Unsorted",8mm - Oito Milimetros
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8mm - Oito Milimetros"  group-title="Unsorted",8mm - Oito Milimetros
 http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sete Vidas"  group-title="Unsorted",Sete Vidas
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sete Vidas"  group-title="Unsorted" - Sete Vidas
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hackers - Piratas de Computador"  group-title="Unsorted",Hackers - Piratas de Computador
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hackers - Piratas de Computador"  group-title="Unsorted",Hackers - Piratas de Computador
 http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Por Amor"  group-title="Unsorted",Por Amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Por Amor"  group-title="Unsorted" - Por Amor
 http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Povo Contra Larry Flynt"  group-title="Unsorted",O Povo Contra Larry Flynt
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Povo Contra Larry Flynt"  group-title="Unsorted" - O Povo Contra Larry Flynt
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Codigo de Honra"  group-title="Unsorted",Codigo de Honra
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Codigo de Honra"  group-title="Unsorted" - Codigo de Honra
 http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segundas Intencoes 3"  group-title="Unsorted",Segundas Intencoes 3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Segundas Intencoes 3"  group-title="Unsorted" - Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Garotas Selvagens 4"  group-title="Unsorted",Garotas Selvagens 4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Garotas Selvagens 4"  group-title="Unsorted" - Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sedutora e diabolica"  group-title="Unsorted",Sedutora e diabolica
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sedutora e diabolica"  group-title="Unsorted" - Sedutora e diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vidas Que Se Cruzam"  group-title="Unsorted",Vidas Que Se Cruzam
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vidas Que Se Cruzam"  group-title="Unsorted" - Vidas Que Se Cruzam
 http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Despertar de uma Paixao"  group-title="Unsorted",O Despertar de uma Paixao
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="O Despertar de uma Paixao"  group-title="Unsorted" - O Despertar de uma Paixao
 http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cada um Vive Como Quer"  group-title="Unsorted",Cada um Vive Como Quer
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cada um Vive Como Quer"  group-title="Unsorted" - Cada um Vive Como Quer
 http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As coisas impossiveis do amor"  group-title="Unsorted",As coisas impossiveis do amor
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="As coisas impossiveis do amor"  group-title="Unsorted" - As coisas impossiveis do amor
 http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
-
