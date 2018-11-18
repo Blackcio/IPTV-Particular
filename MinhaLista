@@ -1,1298 +1,711 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-35IwfKkPMeA/UGcpqAyNKJI/AAAAAAAAHAU/wtisLml331c/s1600/movies.png" pltv-name="Filmes" pltv-description="Lista IPTV de Filmes" pltv-cover="http://i.imgur.com/2hBcU.png" pltv-author="Fábio Assunção" pltv-email="iptv@faiptv.online"
-
-######################### LANÇAMENTOS 2018 #########################
-
-LETRA #1 #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/11/14/21/01/5912468.jpg" pltv-subgroup="12 Heróis (2018)",12 Heróis (2018)
-https://bobfilmes.net/hl/12.Her_is.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM_1532661101.mkv/12.Her_is.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM_1532661101.mkv_750.m3u8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/22/21/36/2868686.jpg" pltv-subgroup="15h17 - Trem Para Paris (2018)" ,15h17 - Trem Para Paris (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/15H17TRMPRPRS.mp4
-
-LETRA A #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/04/15/03/2133793.jpg" pltv-subgroup="A Barraca do Beijo (2018)",A Barraca do Beijo (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ABARCDBJ.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/28/19/57/1848786.jpg" pltv-subgroup="A Escolha Perfeita 3 (2018)",A Escolha Perfeita 3 (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/AESCLHPRFTA3.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/28/20/11/0687724.jpg" pltv-subgroup="A Guerra dos Sexos (2018)",A Guerra dos Sexos (2018)
-https://lh3.googleusercontent.com/M6Hec4WIJNCYu6TYpm3ihqBza6ccA8kBI0vHBI4jPdRdQj_kYF2UCNuGCkDrjDJkdr8X5wRV4ke7tIPjZtFh5tDmlOnj2L_U0wwOjNVZsjvUCqeS0xXISsQwvZK2RnL3eeJjxUmmbB8=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/19/21/1970542.jpg" pltv-subgroup="A Noite do Jogo (2018)",A Noite do Jogo (2018)
-https://lh3.googleusercontent.com/jExvlK1sUJituREoQplJ3gHPTZk2dwpLoiFbapFkF64qOHOJWMRHOOIgvSWza3UBsBqaYHjQwoiuYGS0HiEZJ73F2iYYligIRixhaiOBKw2PLd-cQXRk4q-D8z6LJX83IunWnrnJsoo=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/02/28/08/58/5406063.jpg" pltv-subgroup="A Sociedade Literaria e a Torta de Casca de Batata (2018)",A Sociedade Literaria e a Torta de Casca de Batata (2018)
-https://lh3.googleusercontent.com/wjV7dFJ5JY3jby07nsdym4xg-HD09WKer6Czeb50kR45ob7MgsqsXGxLv66xLwg39mKLr4wzpbaLBYWT9XgEIyOOpJ0QGyuHuTiwxMb1S0I68P8MaSoLdwEhz023QLYvqXyfbdu6Fls=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/18/11/56/136244.jpg" pltv-subgroup="Adeus Christopher Robin (2018)" ,Adeus Christopher Robin (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ADSCHRSPRRBBIN.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://media.fstatic.com/SnjPcRpQb1ZhcdmrhCkB1R5S2VU=/fit-in/210x312/smart/media/movies/covers/2017/11/-90251-poster-xlarge-resized.jpg" pltv-subgroup="Alvo Triplo (2018)" ,Alvo Triplo (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ALVOTRPL.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/18/17/54/3474993.jpg" pltv-subgroup="Arranha-Céu: Coragem sem Limite (2018)" ,Arranha-Céu: Coragem sem Limite (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ARNHCEUCRGMSMLMTLEG.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/03/10/20/40/514664.jpg" pltv-subgroup="A Pequena Sereia (2018)",A Pequena Sereia (2018)
-http://cdn.lhmtv.ga/filmes/apequenasereia-dub-1080p.mp4
-
-LETRA B #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://i1.wp.com/www.nerdtrip.com.br/wp-content/uploads/2017/08/batman-dvd.jpg?w=320" pltv-subgroup="Batman Vs Duas Caras (2018)",Batman Vs Duas Caras (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/BTMNVSDSCRS.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://occ-1-713-41.1.nflxso.net/art/788f4/d4a5bd485a4ed7ee626838ff7d3cd66777b788f4.jpg" pltv-subgroup="Bleach (2018)",Bleach (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/BLCH.mp4
-
-LETRA C #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/pictures/17/11/07/13/41/2024119.jpg" pltv-subgroup="Cinquenta Tons de Liberdade (2018)",Cinquenta Tons de Liberdade (2018)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20149&authkey=!ADfleAQzyd6JP0E
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/23/19/57/0001320.jpg" pltv-subgroup="Círculo de Fogo: A Revolta (2018)",Círculo de Fogo: A Revolta (2018)
-http://www.megafilmes.ga/alemao/vidembed/C%C3%ADrculo.de.F0go.A.R3volta.720p.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://shatelmovie.com/wp-content/uploads/2018/02/h4CrVSJO8G2xRFgkxjPX8LCLzCk.jpg" pltv-subgroup="Corrida Mortal 4 - Além da Anarquia (LEG) (2018)",Corrida Mortal 4 - Além da Anarquia (LEG) (2018)
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/342.mp4
-
-LETRA D #################
-
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/10/Constantine_-_City_of_Demons.jpg" group-title="Filmes | Lançamentos 2018" pltv-subgroup="DC Constantine: Cidade de Demônios (2018)",DC Constantine: Cidade de Demônios (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/DCCONSTNECDADEMO.mp4
-
-#EXTINF:-1 tvg-logo="http://denagy.hu/wp-content/uploads/2018/05/2615D2R-md.jpg" group-title="Filmes | Lançamentos 2018" pltv-subgroup="Deadpool 2 (2018)",Deadpool 2 (2018)
-https://lh3.googleusercontent.com/bVBjzsa5IlEGTRYUqyIvPxZVmlnb3QT4XNIEzo7CVpIE9lTykIyPjEWRjFVACWfb_fxXwbFEGiM2cMYkDn65GH6PLJ--ViuIP4UxTWHTTe5nC8b5sewiThAofh6y5--Rrhk70XPDGew=m22
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/4YWFkeIOvpdicrJjoeZDAxOnXRc=/fit-in/290x478/smart/media/movies/covers/2018/07/DCSHG-LegendsofAtlantisDVD2.jpeg" group-title="Filmes | Lançamentos 2018" pltv-subgroup="DC Super Hero Girls: Lendas de Atlântida (2018)",DC Super Hero Girls: Lendas de Atlântida (2018)
-http://nnn1.azureedge.net/RedeCanais/RCFServer3/ondemand/DCSPRHROGRLSLNDSDATLNDA.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/11/28/13/42/1568862.jpg" pltv-subgroup="Desejo de Matar (2018)",Desejo de Matar (2018)
-https://lh3.googleusercontent.com/ptqMgKhqFZsqVK0zgnpJZigzdncb_uGmiGXdr8uASe17P9P4SetMEE7izMmdwBb23EwW0VEOTpKrJ7cBsT2hzc4QUSfZLcWn64DOHbn_PDXgOUCHpjGA3RtOLUl16QmDiCbe5UnR8HI=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/03/27/21/48/236562.jpg" pltv-subgroup="Divorcio (2018)",Divorcio (2018)
-https://lh3.googleusercontent.com/YlCX723b5gGzuhNOZOn_5VA5Cy0AWWYRUruNUVeSffFT-4zrV8gQy-BiZm8yjiAOE1BMy3ejvjmBEFMmht2BS1II0L8QfbX-tRlL4uFtFQolwuMAe2hH3WXVBjKSeOaN-o1YQQFc9K0=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/02/16/31/2301283.jpg" pltv-subgroup="Do Jeito Que Elas Querem (2018)" ,Do Jeito Que Eles Querem (2018)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20177&authkey=!AElWGEARvQe5rxs
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/11/23/14/4213171.jpg" pltv-subgroup="De Carona Para o Amor (2018)" ,De Carona Para o Amor (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/DCRNOPROAMR.mp4
-
-LETRA E #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/27/15/44/0180183.jpg" pltv-subgroup="Esquadrão Suicida: Acerto de Contas (2018)" ,Esquadrão Suicida: Acerto de Contas (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ESQDRSCDAACRTDCNTS.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/06/15/34/1913647.jpg" pltv-subgroup="Escobar: A Traição (2018)" ,Escobar: A Traição  (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/ESCBRATRCAO.mp4
-
-LETRA G #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/08/12/20/1441171.jpg" pltv-subgroup="Gotham City 1889: Um Conto de Batman (2018)",Gotham City 1889: Um Conto de Batman (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/BATMNGTHMBGSLGHT.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/02/01/19/24/4433507.jpg" pltv-subgroup="Gringo - Vivo ou Morto (2018)",Gringo - Vivo ou Morto (2018)
-https://lh3.googleusercontent.com/mNgbsbcvHEPV9UiqO8fxzg2BGKX1kdLg3poUnMOYUYAM1eTXIK1KQRljAq4_K1S-vZZV0TfXfqpKFiTSiHKAaqCHgNJ8vhowVmMrszuk_GlZpQuPr8AXYcDbvH460ZmSlWwtnl4MB50=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://media.fstatic.com/rAX4vsWPu6huTWORi-R3Qs5vsj0=/fit-in/210x312/smart/media/movies/covers/2018/04/futureworld_2.jpg" pltv-subgroup="Guerreiros do Futuro (2018)",Guerreiros do Futuro (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/GURSDFTURO.mp4
-
-LETRA H #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/21/17/47/5103671.jpg" pltv-subgroup="Han Solo: Uma História Star Wars (2018)",Han Solo: Uma História Star Wars (2018)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20176&authkey=!AFtatQgxtRccsV8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/14/13/11/1751062.jpg" pltv-subgroup="Hereditário (2018)" ,Hereditário (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/ESQDRSCDAACRTDCNTS.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/08/22/30/2739191.jpg" pltv-subgroup="Homens ao Mar (2018)",Homens ao Mar (2018)
-https://lh3.googleusercontent.com/AXRu-B1T0eM_TX3njdjhYwQeuCuuN7s2sX5-FGvO-Ch_cPeo69xpnr2BycwGBuiaTsYMIHGQQDwEKl66xczUfpODKSGWuLQmiRX6zg2_gEoT3zgZ10H0c_k2hwN5VKAivF5ufsgJJiE=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/15/19/57/2102620.jpg" pltv-subgroup="Homem-Formiga e a Vespa (2018)",Homem-Formiga e a Vespa (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/04/05/18/50/2899336.jpg" pltv-subgroup="Hotel Transilvânia 3: Férias Monstruosas",Hotel Transilvânia 3: Férias Monstruosas (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/HTLTRNSVN3.mp4
-
-
-LETRA J #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/01/cover-51.jpg" pltv-subgroup="Jogada Divina (2018)",Jogada Divina (2018)
-https://bobfilmes.net/hl/Jogada.Divina.2018.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv/Jogada.Divina.2018.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv_1000.m3u8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/02/27/19/16/0695165.jpg" pltv-subgroup="Jogador Nº1 (2018)",Jogador Nº1 (2018)
-https://lh3.googleusercontent.com/5m-70FU1v-HTfm6AtsW-ktPUU49cOqpySaBvMzm4pJPMTGF_qIg4vQspWP6mnOfhUfAzBWoOvXjxH0XIxffo0BY42lKbH_IcfEmrrPwyJBT5ecgtj0OcxYVguYei_gl3UcYrvITk-Qk=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/11/28/19/03/5043910.jpg" pltv-subgroup="Jumanji (2018)",Jumanji (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/JMNJBMVNDASLV.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" pltv-subgroup="Jurassic World 2 - Reino Ameaçado (2018)",Jurassic World 2 - Reino Ameaçado (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
-
-LETRA K #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZTQ4MmMtNDU2OS00NGRhLTllMmItZDQwODZlNTdjYzQyL2ltYWdlXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" pltv-subgroup="Kung Fu Yoga (2018)",Kung Fu Yoga (2018)
-http://offload9240.filmesonlinex.co:88/filmes/s1/03/935.mp4
-
-LETRA L #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/23/19/55/0260439.jpg" pltv-subgroup="Liga da Justiça (2018)",Liga da Justiça (2018)
-https://lh3.googleusercontent.com/7fYtFKSyd_ffvrswbFerWySwgeen2XlHMS-XkQnKIFIYGPgEDXlA-g9EQ6xGXsTfOvEI21x4cSZbq-1DOUoCQP3QcSEdovc8xE4_uwRpAIHUaoDlmy-I7lX-QJqsO1f-9E6TJVDSelA=m22
-
-LETRA M #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/12/26/10/55/3921075.jpg" pltv-subgroup="Marido e Mulher (2018)",Marido e Mulher (2018)
-https://lh3.googleusercontent.com/iaTFbI04dZHb1szf6iIAhat8wZrzzq7WOp-0zOjpCS6VlSFi5pfUaG6oaYy6SOiHZP-S2JrBCuvLeQ7S-0eCYB_lL42nKgpieAbZDfiu9hpg5bHbiC--nq7oEca46UnoEL-iL_63CC8=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/23/22/51/4106375.jpg" pltv-subgroup="Mazinger Z: Infinito (2018)",Mazinger Z: Infinito (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/MAZNGRZ.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/10/04/46/5013486.jpg" pltv-subgroup="Megatubarão (2018)",Megatubarão (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/MEGTBRAO.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://i.imgur.com/7jQNSon.png" pltv-subgroup="Missão Impossível 6 – Efeito Fallout (2018)",Missão Impossível 6 – Efeito Fallout (2018)
-https://onedrive.live.com/download?resid=dcd69d948a75cc3e!20240&authkey=!AAyt61Zw2ZBPt-o
-
-LETRA N #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/08/16/01/01/2203504.jpg" pltv-subgroup="Next Gen (2018)",Next Gen (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/NXTGEN.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://media.fstatic.com/o3D9hjd4QNs9TU55fkK6KIr_Qrk=/fit-in/210x312/smart/media/movies/covers/2017/08/novitiate-2017.jpg" pltv-subgroup="Noviciado (2018)",Noviciado (2018)
-https://lh3.googleusercontent.com/asChPQ1KPy-UZJmzNorAd-lD-Bx0TeczrUPiuaVatqYh_NJ6Hf596D6of2yrh2dUQVs6PGOkhSH_Qf9xHHqKFgU4RuHN6YcQmdgLq28YG5KPjo5-Ub-nmNgwaOQLnmcbbg0ayOOqt68=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/19/17/28/4107004.jpg" pltv-subgroup="Não Vai Dar (2018)",Não Vai Dar (2018)
-https://lh3.googleusercontent.com/wO6c6roogVvWApixs2ZiyWlGUNLj3RThJC3KaApoF8qoLTx21K97dWEu1BrnfLcr2Sza5RCBEAgKsOsIoJPlPyGjuTMh-53c3Gnln2FHY05yhTNZMWvPsxumZ1fPiI_6cM2QD4z3ycI=m22
-
-LETRA O #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://wolverdonfilmes.org/wp-content/uploads/2018/01/Filme-O-Assassino-%E2%80%93-O-Primeiro-Alvo.jpg" pltv-subgroup="O Assassino: O Primeiro Alvo (2018)",O Assassino: O Primeiro Alvo (2018)
-https://bobfilmes.net/hl/O.Assassino.O.Primeiro.Alvo.2018.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4/O.Assassino.O.Primeiro.Alvo.2018.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4_1000.m3u8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/30/14/45/4953352.jpg" pltv-subgroup="O Passageiro (2018)",O Passageiro (2018)
-https://lh3.googleusercontent.com/WcVUdKBhum6ZRyfyiWo6CRKWp8qky7xDazey-mV2lF-DYAy5uep4X-ZMMCttlz7_dMNszLabvTAV0bgqqe_1lzS1zuYol6Z77JQ1sQ_y7IKKGvzQ1gIpcdLzhxYLLYkmFmEkOMBJuFY=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/02/20/53/3714024.jpg" pltv-subgroup="Oito Mulheres e Um Segredo (2018)",Oito Mulheres e Um Segredo (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/OITOMLHRSEUMSGRDO.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/01/03/19/24/3938254.jpg" pltv-subgroup="Os Farofeiros (2018)",Os Farofeiros (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/OSFAROFRS.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/13/53/5015999.jpg" pltv-subgroup="O Pacote (2018)",O Pacote (2018)
-https://lh3.googleusercontent.com/nqcoQRh6_m-2M_PpTh9dMeOqX-mjAZozDjc-vUW_eXnGARaM9QpOdmThsZEbopjoBisj8NRZE2N70qRdpCIjzGRwz1h4y2bbPA2g81fh-wqaGGFYcOXouD5sKVs_8GqFS4H4Is4jNhU=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/10/26/17/22/1128520.jpg" pltv-subgroup="Os Parças (2018)" ,Os Parças (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/OSPRCS.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/16/03/2548006.jpg" pltv-subgroup="O Rei da Montanha (2018)",O Rei da Montanha (2018)
-https://lh3.googleusercontent.com/3QGo4-Uqp0vAFBTJlMo8kMtj1QmTGsgx8uoyjb5vzessnz3JSygD4gAkAssQdnTAP0DzR8D7qibtPUTfyB8KL8L9_p6GI0zBnoCszwfMi3cnlOJswG3CKp4G1Mxtvzs5VOHwGB6OakQ=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/26/13/59/0136384.jpg" pltv-subgroup="Operação Red Sparrow (2018)",Operação Red Sparrow (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/OPCRDSPWR.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/22/15/02/4052942.jpg" pltv-subgroup="Os Jovens Titãs em Ação! Nos Cinemas (2018)",Os Jovens Titãs em Ação! Nos Cinemas (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OSJVNSTTSEMACONSCINE.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/04/12/20/25/5720930.jpg" pltv-subgroup="Os Incríveis 2 (2018)",Os Incríveis 2 (2018)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
-
-LETRA P #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" pltv-subgroup="Pantera Negra (2018)",Pantera Negra (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://media.fstatic.com/adXqeoaUbX_dVdkYV4KLhHCaIcw=/fit-in/290x478/smart/media/movies/covers/2018/08/50af744df51e80928660ce13050721c9e294afa0.jpg" pltv-subgroup="Perdida (2018)",Perdida (2018)
-https://lh3.googleusercontent.com/YPNfS76-hpfQWXP6tpM6o1Fa6_TMyBRaBy6IF372Yp5TpSMGccSCVZpWVEIyT8tFjWI37tblUToTbEYoGzPoiCJaiufXA7ht-OLpJ92xkpC4wGutzitlIuMmWDc5bKjWCtE7rNn5XfI=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/01/tbrzHlnE8dNpllLWEe9bwDGNzLe-min.jpg" pltv-subgroup="Professor Marston e as Mulheres Maravilhas (2018)",Professor Marston e as Mulheres Maravilhas (2018)
-https://bobfilmes.net/hl/Professor.Marston.e.as.Mulheres-Maravilhas.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv/Professor.Marston.e.as.Mulheres-Maravilhas.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv_1000.m3u8
-
-LETRA R #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/05/19/50/5994305.jpg" pltv-subgroup="Rampage - Destruição Total (2018)",Rampage - Destruição Total (2018)
-https://bobfilmes.net/hl/Rampage.Destrui__o.Total.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM_1530927909.mkv/Rampage.Destrui__o.Total.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM_1530927909.mkv_750.m3u8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://i.imgur.com/j3kql5t.jpg" pltv-subgroup="Roubo Sem Saída (2018)",Roubo Sem Saída (2018)
-https://bobfilmes.net/hl/Roubo.Sem.Sa_da.2018.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM_1525736659.mkv/Roubo.Sem.Sa_da.2018.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM_1525736659.mkv_1000.m3u8
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/05/16/12/03/5770902.jpg" pltv-subgroup="Rota de Fuga 2 (2018)",Rota de Fuga 2 (2018)
-http://server2.cometa.top/RedeCanais/RCFServer3/ondemand/RTADFGA2.mp4
-
-LETRA S #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/15/22/44/1387430.jpg" pltv-subgroup="Sicário: Dia do Soldado (2018)",Sicário: Dia do Soldado (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/SCRODIADSLDO.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/07/11/19/56/4132437.jpg" pltv-subgroup="Sierra Burgess é uma Loser (2018)",Sierra Burgess é uma Loser (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/SERABRGSEUMLOSER.mp4
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/14/19/27/420850.jpg" pltv-subgroup="Star Wars - Os Últimos Jedi (2018)",Star Wars - Os Últimos Jedi (2018)
-https://lh3.googleusercontent.com/AkmTZEKpWjII7KyHpdBdFSdDctRBusrU-I1_eMYWgVSWcl7R9LUsy4oqAV57yDRDMiZ7W2yMKJH1F85YTIgamlvOvcrQtl3PV_5HHFWkCft15trYxO1gayjK4D465D4hdePvtH0Oz7s=m18
-
-LETRA T #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/02/16/48/5307336.jpg" pltv-subgroup="Tal Pai - Tal Filha (2018)", Tal Pai - Tal Filha (2018)
-https://lh3.googleusercontent.com/w5P3zl9p_gAPnSLW-sTbrQuL_JzGSM6FJzcv1iXbJFLWY32APjRGoADY6q0AOTr-FqKC3QyEJJy8tSveAG2Ql5Vt5D_pWdLNucrZgkRdmzlSEQhSHbyWDiPwWeKtnzhvGfNqs9UMazg=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/27/18/53/2045777.jpg" pltv-subgroup="Te Peguei! (2018)",Te Peguei! (2018)
-https://lh3.googleusercontent.com/DVgXKZmwwyXzYmKFS10yVgvVFN_SvlfUfPrqHRnGHyWfmTaHhPdEMrB2YfSaLI7hdhRnlYxpH7PQW7jm3tVlOJ_pryEDDzUdFbLxuVkytvp6rU-LF61pXs16NJV7m6MCKGKWQpVkB6Q=m18
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2018/02/tomb_raider_ver3.jpg" pltv-subgroup="Tomb Raider: A Origem (2018)",Tomb Raider: A Origem (2018)
-https://bobfilmes.net/hl/Tomb.Raider.A.Origem.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4/Tomb.Raider.A.Origem.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4_750.m3u8
-
-LETRA U #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/11/22/19/49/5668766.jpg" pltv-subgroup="Uma Dobra no Tempo (2018)",Uma Dobra no Tempo (2018)
-https://lh3.googleusercontent.com/DBBsSy0tRqMMNLYo8U0WYtMxM0yQzxJI0fyWqOfHGcD86bet4RKlMT8zxGSunQ8iGtIxtTej4XYuUzEPE187i7rBzNeNcrbibB6UVYTDvOC9xs-etZVjQTVqCaV2CJHXRAgbtf1t72A=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/05/19/47/3982132.jpg" pltv-subgroup="Uma Quase Dupla (2018)",Uma Quase Dupla (2018)
-http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/UMQSEDPLA.mp4
-
-LETRA V #################
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/07/15/33/3572871.jpg" pltv-subgroup="Verdade ou Desafio (2018)",Verdade ou Desafio (2018)
-https://lh3.googleusercontent.com/nkEvxFxPxpvJ1wF7ByXyvGNzTGrqNNFqeAcrjdr04EP39hBGxXqbU3GVUoubIC23H1dOqE0-QtXPiq-whzv3kmo6Aawya5WLM4kB9djvZx2pKdNzPy-T8x-uViF3MENfF0Xs1fWHIDw=m22
-
-#EXTINF:-1 group-title="Filmes | Lançamentos 2018" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" pltv-subgroup="Vingadores - Guerra Infinita (2018)",Vingadores - Guerra Infinita (2018)
-https://lh3.googleusercontent.com/2NBvjAQm8wabdHl8hbz_LVLKugM_0X8vqHbstySTMXVr_ZWbwg0IC0TlUSq2pTntVEo1iRijBZDazcm2NP1HjGLVFKGvXmD9sXm6Klss_QcfU1J6a0Vtabmhjm9Kwq7yXlmON59QXYY=m22
-
-###############################################################
-
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429" pltv-subgroup="O Ritual (2012)", O Ritual (2012)
+#EXTINF:6103, O Ritual (2012)
 https://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851" pltv-subgroup="Menina Ma.com", Menina Ma.com
-http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/x/n6/oy2lf_tnl_210x118.jpg?ts=20150325003622" pltv-subgroup="O Contrato", O Contrato
-http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/u/56/rv1lf_tnl_210x118.jpg?ts=20141111004527" pltv-subgroup="A Janela Secreta", A Janela Secreta
+#EXTINF:5754, A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/5/16/qp1lf_tnl_210x118.jpg?ts=20140710001508" pltv-subgroup="Segundas Intencoes 3",Segundas Intencoes 3
+#EXTINF:5112,Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/o/yl/49ayb_tnl_210x118.jpg?ts=20140406185151" pltv-subgroup="Na Companhia Do Medo",Na Companhia Do Medo
+#EXTINF:5886,Na Companhia Do Medo
 http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/w/il/r46wb_tnl_250x141.jpg?ts=20140406030608" pltv-subgroup="O Codigo Da Vinci",O Codigo Da Vinci
+#EXTINF:8927,O Codigo Da Vinci
 http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/j6/uwulf_tnl_250x141.jpg?ts=20140405082848" pltv-subgroup="Rios Vermelhos",Rios Vermelhos
+#EXTINF:6350,Rios Vermelhos
 http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/56/bw1lf_tnl_250x141.jpg?ts=20140930164826" pltv-subgroup="Sem Vestigios",Sem Vestigios
+#EXTINF:6062,Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg?ts=20140406232025" pltv-subgroup="Desejo a Tres",Desejo a Tres
+#EXTINF:5714,Desejo a Tres
 http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/sm/epfyb_tnl_210x118.jpg?ts=20140826224642" pltv-subgroup="Red Corner",Red Corner
+#EXTINF:7339,Red Corner
 http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebc2d95586.jpg" pltv-subgroup="Comportamento Suspeito",Comportamento Suspeito
+#EXTINF:5024,Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://br.web.img3.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/94/02/14/20296120.jpg" pltv-subgroup="Mulher Solteira Procura",Mulher Solteira Procura
+#EXTINF:6475,Mulher Solteira Procura
 http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://portal.julund.com.br/wp-content/uploads/2010/07/Quando-um-Estranho-Chama.jpg" pltv-subgroup="Quando um Estranho Chama",Quando um Estranho Chama
+#EXTINF:5222,Quando um Estranho Chama
 http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://bocadoinferno.com/wp-content/uploads/2013/08/Estrada-Maldita-2007-4.jpg" pltv-subgroup="Estrada Maldita",Estrada Maldita
+#EXTINF:5449,Estrada Maldita
 http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/01/Lenda-Urbana-3-2005-5.jpg" pltv-subgroup="Lenda Urbana 3 - A Vinganca de Mary",Lenda Urbana 3 - A Vinganca de Mary
+#EXTINF:5589,Lenda Urbana 3 - A Vinganca de Mary
 http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/8e/Stigmata_film.jpg" pltv-subgroup="Stigmata",Stigmata
+#EXTINF:6131,Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/bd/Quarantineposter.jpg/200px-Quarantineposter.jpg" pltv-subgroup="Quarentena",Quarentena
+#EXTINF:5357,Quarentena
 http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://www.gazetasetelagoana.com.br/wp-content/uploads/2011/07/identidade.jpg" pltv-subgroup="Identidade",Identidade
+#EXTINF:5404,Identidade
 http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://pipocacombo.com/wp-content/uploads/2012/01/A-beira-do-Abismo-331x480.jpg" pltv-subgroup="A Beira do Abismo",A Beira do Abismo
+#EXTINF:6142,A Beira do Abismo
 http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/08/thumbs/c70156bb5addc6ac3cdc57d3a691c7b3_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Amar, Trair e Roubar",Amar, Trair e Roubar
+#EXTINF:5768, Trair e Roubar" - Amar, Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg" pltv-subgroup="Cativeiro",Cativeiro
+#EXTINF:5082,Cativeiro
 http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://www.pluhma.com/locadora/capas/6289.jpg" pltv-subgroup="Corpo em Evidencia",Corpo em Evidencia
+#EXTINF:6053,Corpo em Evidencia
 http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg?ts=20130429233115" pltv-subgroup="Enquanto Ela Estiver Fora",Enquanto Ela Estiver Fora
+#EXTINF:5148,Enquanto Ela Estiver Fora
 http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://www.blogsoestado.com/emcartaz/files/2012/10/Estranha.jpg" pltv-subgroup="Estranha Obsessao",Estranha Obsessao
+#EXTINF:0,Estranha Obsessao
 http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg?ts=20130714165629" pltv-subgroup="Hotel Ruanda",Hotel Ruanda
+#EXTINF:0,Hotel Ruanda
 http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images.quebarato.com.br/T440x/filme+malicia+jequie+ba+brasil__6FFD2D_1.jpg" pltv-subgroup="Malicia",Malicia
+#EXTINF:6413,Malicia
 http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Suspense" tvg-logo="http://images-br-am.crackle.com/1/e/am/3bdyb_tnl_210x118.jpg?ts=20130828194004" pltv-subgroup="Sociedade Feroz",Sociedade Feroz
+#EXTINF:0,Sociedade Feroz
 http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/v/96/731lf_tnl_210x118.jpg?ts=20141222172154" pltv-subgroup="Bruno",Bruno
+#EXTINF:4893,Bruno
 http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/g/f6/34ylf_tnl_210x118.jpg?ts=20150319123206" pltv-subgroup="Casamento as Avessas",Casamento as Avessas
+#EXTINF:0,Casamento as Avessas
 http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/n/f6/w2ylf_tnl_210x118.jpg?ts=20150319114847" pltv-subgroup="O ABC do Amor",O ABC do Amor
+#EXTINF:0,O ABC do Amor
 http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/a/56/lq1lf_tnl_210x118.jpg?ts=20150319144703" pltv-subgroup="Juno",Juno
+#EXTINF:5762,Juno
 http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg?ts=20150225004527" pltv-subgroup="As Branquelas",As Branquelas
+#EXTINF:0,As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg?ts=20150226222223" pltv-subgroup="Bons Costumes",Bons Costumes
+#EXTINF:0,Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg?ts=20150225004008" pltv-subgroup="Julie & Julia",Julie & Julia
+#EXTINF:0,Julie & Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg?ts=20141215203848" pltv-subgroup="De Repente 30",De Repente 30
+#EXTINF:0,De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg?ts=20141111004517" pltv-subgroup="Meus Quinze Anos",Meus Quinze Anos
+#EXTINF:5447,Meus Quinze Anos
 http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg?ts=20140407230223" pltv-subgroup="Adoraveis Mulheres",Adoraveis Mulheres
+#EXTINF:0,Adoraveis Mulheres
 http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/9/l6/zjwlf_tnl_210x118.jpg?ts=20140407114709" pltv-subgroup="Lembrancas de Hollywood",Lembrancas de Hollywood
+#EXTINF:0,Lembrancas de Hollywood
 http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/_/d6/i5vlf_tnl_210x118.jpg?ts=20140406222056" pltv-subgroup="All That Jazz - O Show Deve Continuar",All That Jazz - O Show Deve Continuar
+#EXTINF:7369,All That Jazz - O Show Deve Continuar
 http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/v/96/a41lf_tnl_210x118.jpg?ts=20141222175917" pltv-subgroup="Mal Posso Esperar",Mal Posso Esperar
+#EXTINF:0,Mal Posso Esperar
 http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/d/4m/d9fyb_tnl_210x118.jpg?ts=20141117183313" pltv-subgroup="Um Criminoso Decente",Um Criminoso Decente
+#EXTINF:0,Um Criminoso Decente
 http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/4/8l/t7cyb_tnl_210x118.jpg?ts=20130818173213" pltv-subgroup="Os Seus, os Meus e os Nossos",Os Seus, os Meus e os Nossos
+#EXTINF:5286, os Meus e os Nossos" - Os Seus, os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg?ts=20140407051244" pltv-subgroup="Os Produtores",Os Produtores
+#EXTINF:0,Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/2/d6/g4vlf_tnl_210x118.jpg?ts=20140406173834" pltv-subgroup="O clube de Leitura de Jane Austen",O clube de Leitura de Jane Austen
+#EXTINF:0,O clube de Leitura de Jane Austen
 http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg?ts=20140407221240" pltv-subgroup="Lua de Mel em Las Vegas",Lua de Mel em Las Vegas
+#EXTINF:0,Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg?ts=20140530223520" pltv-subgroup="Jogue a Mamae do Trem",Jogue a Mamae do Trem
+#EXTINF:0,Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg?ts=20140623175915" pltv-subgroup="Feitico da Lua",Feitico da Lua
+#EXTINF:0,Feitico da Lua
 http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg?ts=20140405171459" pltv-subgroup="Eu, Minha Mulher e Minhas Copias",Eu, Minha Mulher e Minhas Copias
+#EXTINF:7035, Minha Mulher e Minhas Copias" - Eu, Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg?ts=20141117191914" pltv-subgroup="Annie",Annie
+#EXTINF:0,Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg?ts=20140806022041" pltv-subgroup="A Pantera Cor de Rosa",A Pantera Cor de Rosa
+#EXTINF:0,A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg?ts=20130911200444" pltv-subgroup="A Hora do Rango",A Hora do Rango
+#EXTINF:0,A Hora do Rango
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/q/im/7odyb_tnl_210x118.jpg?ts=20131025161222" pltv-subgroup="A Rosa Purpura do Cairo",A Rosa Purpura do Cairo
+#EXTINF:0,A Rosa Purpura do Cairo
 http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg?ts=20140405153323" pltv-subgroup="Mixed Nuts",Mixed Nuts
+#EXTINF:0,Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg?ts=20140405112550" pltv-subgroup="Ricky Bobby - A Toda Velocidade",Ricky Bobby - A Toda Velocidade
+#EXTINF:0,Ricky Bobby - A Toda Velocidade
 http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/f/gl/rnbyb_tnl_250x141.jpg?ts=20121128184759" pltv-subgroup="Superbad - E Hoje",Superbad - E Hoje
+#EXTINF:0,Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg?ts=20140826224640" pltv-subgroup="Uma Festa no Ar",Uma Festa no Ar
+#EXTINF:5187,Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg" pltv-subgroup="Uma Turma Do Barulho",Uma Turma Do Barulho
+#EXTINF:6138,Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-az.crackle.com/profiles/channels/100000114/BrowserPanelChannelBackground_300x169.jpg?ts=20121026110620" pltv-subgroup="O Ultimo Grande Heroi",O Ultimo Grande Heroi
+#EXTINF:7857,O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://br.web.img1.acsta.net/pictures/210/211/21021105_20130718205428458.jpg" pltv-subgroup="Kung-Fusao",Kung-Fusao
+#EXTINF:5968,Kung-Fusao
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://mlb-s1-p.mlstatic.com/o-oposto-do-sexo-christina-ricci-dublado-14695-MLB72322752_7734-O.jpg" pltv-subgroup="O Oposto do Sexo",O Oposto do Sexo
+#EXTINF:0,O Oposto do Sexo
 http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg?ts=20130817045430" pltv-subgroup="Ironias do Amor",Ironias do Amor
+#EXTINF:0,Ironias do Amor
 http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/S8FQSfNxFBI/AAAAAAAABbI/dH4bsgNcf9o/s1600/Um.Peixe.Chamado.Wanda.DVDRIP.Xvid.Dublado.jpg" pltv-subgroup="Um Peixe Chamado Wanda",Um Peixe Chamado Wanda
+#EXTINF:0,Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg?ts=20140414192334" pltv-subgroup="Bastidores de um Casamento",Bastidores de um Casamento
+#EXTINF:0,Bastidores de um Casamento
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg?ts=20140729190051" pltv-subgroup="O Chamado de Xangai",O Chamado de Xangai
+#EXTINF:0,O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/x/n6/ry2lf_tnl_210x118.jpg?ts=20150325000719" pltv-subgroup="Penelope",Penelope
+#EXTINF:0,Penelope
 http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/d/wl/recyb_tnl_210x118.jpg?ts=20130517224205" pltv-subgroup="O Paraiso e Logo Aqui",O Paraiso e Logo Aqui
+#EXTINF:0,O Paraiso e Logo Aqui
 http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg?ts=20130817042719" pltv-subgroup="Nem Por Cima do Meu Cadaver",Nem Por Cima do Meu Cadaver
+#EXTINF:0,Nem Por Cima do Meu Cadaver
 http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2011/08/thumbs/9996069dd3b97c0eba9618a25df8cf08_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Adeus, Amor",Adeus, Amor
+#EXTINF:0, Amor" - Adeus, Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/31/46/19874221.jpg" pltv-subgroup="Um Amor de Verao",Um Amor de Verao
+#EXTINF:0,Um Amor de Verao
 http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://www.zerozen.com.br/video/otario01.jpg" pltv-subgroup="O Otario",O Otario
+#EXTINF:0,O Otario
 http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://static.cinedica.com.br/capasm/6188.jpg" pltv-subgroup="Tres Mulheres, Tres Amores",Tres Mulheres, Tres Amores
+#EXTINF:0, Tres Amores" - Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://2.bp.blogspot.com/-p8Vo6FUVnmM/VCAvlsAQQ1I/AAAAAAAAIcM/eOIBHh2W-_Q/s1600/Meu%2BPrimeiro%2BAmor%2B-%2BParte%2B2.jpg" pltv-subgroup="Meu Primeiro Amor - Parte 2",Meu Primeiro Amor - Parte 2
+#EXTINF:0,Meu Primeiro Amor - Parte 2
 http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://belezamaquiada.files.wordpress.com/2010/06/salaodobarulho.jpg" pltv-subgroup="Um Salão do Barulho",Um Salão do Barulho
+#EXTINF:0,Um Salão do Barulho
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg" pltv-subgroup="Segurando As Pontas",Segurando As Pontas
+#EXTINF:0,Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg" pltv-subgroup="Kung-Fu Futebol Clube",Kung-Fu Futebol Clube
+#EXTINF:0,Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://www.cranik.com/images/mrdeeds.jpg" pltv-subgroup="A Heranca de Mr. Deeds",A Heranca de Mr. Deeds
+#EXTINF:5798,A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://2.bp.blogspot.com/_G0ydGjcQI_8/TUBfZ4ec2EI/AAAAAAAABZ8/WqXoi1kA-yE/s320/image002-758252.jpg" pltv-subgroup="A Inveja Mata",A Inveja Mata
+#EXTINF:0,A Inveja Mata
 http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/c745267dc4124ef799f15d070008660a.jpeg" pltv-subgroup="A Ultima Missao",A Ultima Missao
+#EXTINF:0,A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://www.autobahn.com.br/filmes/a_volta_dos_mortos_vivos/screen01.jpg" pltv-subgroup="A Volta dos Mortos Vivos",A Volta dos Mortos Vivos
+#EXTINF:0,A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Almondegas 4 - Ferias de Verao",Almondegas 4 - Ferias de Verao
+#EXTINF:0,Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/j/l6/1dwlf_tnl_210x118.jpg?ts=20150319084339" pltv-subgroup="Bolas em Panico",Bolas em Panico
+#EXTINF:0,Bolas em Panico
 http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://static.cinedica.com.br/capasm/10283.jpg" pltv-subgroup="Como conquistar uma mulher",Como conquistar uma mulher
+#EXTINF:0,Como conquistar uma mulher
 http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/d/wl/tecyb_tnl_210x118.jpg?ts=20130517223307" pltv-subgroup="Fido - O Mascote",Fido - O Mascote
+#EXTINF:0,Fido - O Mascote
 http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg" pltv-subgroup="Funcionario do Mes",Funcionario do Mes
+#EXTINF:0,Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg" pltv-subgroup="Grande Hotel",Grande Hotel
+#EXTINF:0,Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142" pltv-subgroup="Jogando com Prazer",Jogando com Prazer
+#EXTINF:0,Jogando com Prazer
 http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg" pltv-subgroup="Jogos, Trapacas E Dois Canos Fumegantes",Jogos, Trapacas E Dois Canos Fumegantes
+#EXTINF:0, Trapacas E Dois Canos Fumegantes" - Jogos, Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg" pltv-subgroup="Nao e Mais um Besteirol Americano",Nao e Mais um Besteirol Americano
+#EXTINF:0,Nao e Mais um Besteirol Americano
 http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg" pltv-subgroup="O Balconista",O Balconista
+#EXTINF:0,O Balconista
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935" pltv-subgroup="O Julgamento de Paris",O Julgamento de Paris
+#EXTINF:0,O Julgamento de Paris
 http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg" pltv-subgroup="O Paizao",O Paizao
+#EXTINF:5585,O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411" pltv-subgroup="Os Safados",Os Safados
+#EXTINF:0,Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg" pltv-subgroup="Procurando Encrenca",Procurando Encrenca
+#EXTINF:0,Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg" pltv-subgroup="Provas E Trapacas",Provas E Trapacas
+#EXTINF:0,Provas E Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg?ts=20121126180437" pltv-subgroup="Quase Ilegal",Quase Ilegal
+#EXTINF:0,Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://www.logicafeminina.com.br/wp-content/uploads/fetichesecretary.jpg" pltv-subgroup="Secretaria",Secretaria
+#EXTINF:0,Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg?ts=20131029012940" pltv-subgroup="Sob Suspeita (2006)",Sob Suspeita (2006)
+#EXTINF:0,Sob Suspeita (2006)
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg" pltv-subgroup="Swingers - Curtindo a Noite",Swingers - Curtindo a Noite
+#EXTINF:0,Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg" pltv-subgroup="Trabalho Sujo",Trabalho Sujo
+#EXTINF:0,Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://blogdoheu.files.wordpress.com/2010/02/tres-amigos.jpg" pltv-subgroup="Tres Amigos!",Tres Amigos!
+#EXTINF:0,Tres Amigos!
 http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Uma Noiva e Tanto",Uma Noiva e Tanto
+#EXTINF:5605,Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg" pltv-subgroup="Vamos Nessa",Vamos Nessa
+#EXTINF:0,Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg?ts=20150319121122" pltv-subgroup="As Faces de Helen",As Faces de Helen
+#EXTINF:0,As Faces de Helen
 http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg?ts=20140407184313" pltv-subgroup="Encontros ao Acaso",Encontros ao Acaso
+#EXTINF:0,Encontros ao Acaso
 http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg?ts=20140406014615" pltv-subgroup="Sexo, Mentiras e Videotape",Sexo, Mentiras e Videotape
+#EXTINF:5999, Mentiras e Videotape" - Sexo, Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/w/96/b41lf_tnl_210x118.jpg?ts=20150226222527" pltv-subgroup="Vestigios do Dia",Vestigios do Dia
+#EXTINF:0,Vestigios do Dia
 http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg?ts=20140407115042" pltv-subgroup="Lendas da Paixao",Lendas da Paixao
+#EXTINF:7970,Lendas da Paixao
 http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg?ts=20141027193137" pltv-subgroup="Rain Man",Rain Man
+#EXTINF:0,Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg?ts=20140407115036" pltv-subgroup="Desaparecidas",Desaparecidas
+#EXTINF:0,Desaparecidas
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/q/sl/wbcyb_tnl_210x118.jpg?ts=20140407013733" pltv-subgroup="Sem Vestigios",Sem Vestigios
+#EXTINF:0,Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/r/im/apdyb_tnl_210x118.jpg?ts=20131029010328" pltv-subgroup="Secretaria",Secretaria
+#EXTINF:0,Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg?ts=20140407203352" pltv-subgroup="Os Miseraveis",Os Miseraveis
+#EXTINF:0,Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg?ts=20140405171055" pltv-subgroup="O Aprendiz",O Aprendiz
+#EXTINF:0,O Aprendiz
 http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg?ts=20140729190057" pltv-subgroup="Nas Profundezas Do Mar Sem Fim",Nas Profundezas Do Mar Sem Fim
+#EXTINF:0,Nas Profundezas Do Mar Sem Fim
 http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://molhoingles.com/wp-content/uploads/2012/03/lawrence-da-arabia.jpg" pltv-subgroup="Lawrence da Arabia",Lawrence da Arabia
+#EXTINF:0,Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg?ts=20140215040928" pltv-subgroup="Nao Sem a Minha Filha",Nao Sem a Minha Filha
+#EXTINF:0,Nao Sem a Minha Filha
 http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/p/wm/6ufyb_tnl_210x118.jpg?ts=20140929173900" pltv-subgroup="A Outra",A Outra
+#EXTINF:0,A Outra
 http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://famososnaweb.com/wp-content/uploads/2015/01/amigas.jpg" pltv-subgroup="Amigas com Dinheiro",Amigas com Dinheiro
+#EXTINF:0,Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://www4.cinemaemcena.com.br/gabinetedokas/wp-content/uploads/old/homem_fora_serie.jpg" pltv-subgroup="Um homem fora-de-serie",Um homem fora-de-serie
+#EXTINF:0,Um homem fora-de-serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://amofilmes.net/wp-content/uploads/Segundas_Intencoes_3_DVDRIP_Xvid_Dublado.jpg" pltv-subgroup="Segundas Intencoes 3",Segundas Intencoes 3
+#EXTINF:5112,Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img1.acsta.net/pictures/14/03/19/20/14/334055.jpg" pltv-subgroup="Garotas Selvagens 4",Garotas Selvagens 4
+#EXTINF:5372,Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/32/95/19874376.jpg" pltv-subgroup="O Povo Contra Larry Flynt",O Povo Contra Larry Flynt
+#EXTINF:0,O Povo Contra Larry Flynt
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg?ts=20140624185200" pltv-subgroup="Codigo de Honra",Codigo de Honra
+#EXTINF:5983,Codigo de Honra
 http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/sedutora-e-diabolica_cartaz_220x283.jpg" pltv-subgroup="Sedutora e diabolica",Sedutora e diabolica
+#EXTINF:0,Sedutora e diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://4.bp.blogspot.com/-16x-byBGFd0/Tfj3HfwnIFI/AAAAAAAAAMg/fVE5ZwJV4sc/s1600/five+easy+pieces.jpg" pltv-subgroup="Cada um Vive Como Quer",Cada um Vive Como Quer
+#EXTINF:0,Cada um Vive Como Quer
 http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103791_000_p.jpg" pltv-subgroup="As coisas impossiveis do amor",As coisas impossiveis do amor
+#EXTINF:6148,As coisas impossiveis do amor
 http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/24/19874302.jpg" pltv-subgroup="Vidas Que Se Cruzam",Vidas Que Se Cruzam
+#EXTINF:0,Vidas Que Se Cruzam
 http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148" pltv-subgroup="O Despertar de uma Paixao",O Despertar de uma Paixao
+#EXTINF:0,O Despertar de uma Paixao
 http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/17/45/19872769.jpg" pltv-subgroup="Por Amor",Por Amor
+#EXTINF:0,Por Amor
 http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://guiadoscuriosos.com.br/blog/wp-content/uploads/2014/02/MPW-13543.jpg" pltv-subgroup="Oliver!",Oliver!
+#EXTINF:0,Oliver!
 http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://www.omelete.com.br/imagens/cinema/artigos/laurel_canyon/poster.jpg" pltv-subgroup="Laurel Canyon - A Rua das Tentacoes",Laurel Canyon - A Rua das Tentacoes
+#EXTINF:0,Laurel Canyon - A Rua das Tentacoes
 http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/rancho-do-amor_cartaz_220x283.jpg" pltv-subgroup="O Rancho do Amor",O Rancho do Amor
+#EXTINF:0,O Rancho do Amor
 http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://static.omelete.uol.com.br/legacy/imagens/cinema/artigos2/um_segredo_entre_nos/poster.jpg" pltv-subgroup="Um Segredo Entre Nos",Um Segredo Entre Nos
+#EXTINF:0,Um Segredo Entre Nos
 http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg" pltv-subgroup="Erin Brockovich - Uma Mulher de Talent",Erin Brockovich - Uma Mulher de Talento
+#EXTINF:0,Erin Brockovich - Uma Mulher de Talento
 http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png" pltv-subgroup="Sete Vidas",Sete Vidas
+#EXTINF:0,Sete Vidas
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg?ts=20140613195929" pltv-subgroup="Hackers - Piratas de Computador",Hackers - Piratas de Computador
+#EXTINF:0,Hackers - Piratas de Computador
 http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://www.menupeliculas.com/Content/images/portadas/7644_portada.JPG" pltv-subgroup="12 Horas",12 Horas
+#EXTINF:0,12 Horas
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/11/thumbs/02054b78c67dc7d29227e41714ccc8b6_jpg_290x478_upscale_q90.jpg" pltv-subgroup="8mm - Oito Milimetros",8mm - Oito Milimetros
+#EXTINF:0,8mm - Oito Milimetros
 http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TTzF5UqPHuI/AAAAAAAAFO4/0i8SLCRjChY/s250/8MM%2B2%2B-%2BOito%2BMil%25C3%25ADmetros%2B2.jpg" pltv-subgroup="8mm - Oito Milimetros 2",8mm - Oito Milimetros 2
+#EXTINF:0,8mm - Oito Milimetros 2
 http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/28/18/19873882.jpg" pltv-subgroup="Caminho Sem Volta",Caminho Sem Volta
+#EXTINF:0,Caminho Sem Volta
 http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/c/qm/55dyb_tnl_210x118.jpg?ts=20140215040200" pltv-subgroup="A festa nunca termina",A festa nunca termina
+#EXTINF:0,A festa nunca termina
 http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/04/thumbs/929fe571609821c83d5907ea5deecf24_jpg_290x478_upscale_q90.jpg" pltv-subgroup="A Grande Jogada",A Grande Jogada
+#EXTINF:0,A Grande Jogada
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/46/96/20258667.jpg" pltv-subgroup="As Duas Faces Da Lei",As Duas Faces Da Lei
+#EXTINF:0,As Duas Faces Da Lei
 http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg" pltv-subgroup="Coisas Belas E Sujas",Coisas Belas E Sujas
+#EXTINF:0,Coisas Belas E Sujas
 http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/s/im/cpdyb_tnl_210x118.jpg?ts=20131029003846" pltv-subgroup="Femme Fatale",Femme Fatale
+#EXTINF:0,Femme Fatale
 http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/3470bed8b6e18f07dbe29c40602e81c3_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Inocente Ou Culpado",Inocente Ou Culpado
+#EXTINF:0,Inocente Ou Culpado
 http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/9/0l/qscyb_tnl_210x118.jpg?ts=20130626020853" pltv-subgroup="Luta Pela Liberdade",Luta Pela Liberdade
+#EXTINF:0,Luta Pela Liberdade
 http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://1.bp.blogspot.com/_We7_bc6rARk/TCz5R29j02I/AAAAAAAAJaQ/wXCoI-BIzzk/s1600/marcas.jpg" pltv-subgroup="Marcas do passado",Marcas do passado
+#EXTINF:0,Marcas do passado
 http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg" pltv-subgroup="O Cantor",O Cantor
+#EXTINF:0,O Cantor
 http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/k/ol/w0byb_tnl_210x118.jpg?ts=20130222042219" pltv-subgroup="O Ilusionista",O Ilusionista
+#EXTINF:6536,O Ilusionista
 http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-filme-o-resgate-de-um-campeo-dublado-14365-MLB212187990_2182-F.jpg" pltv-subgroup="O Regaste de um Campeao",O Regaste de um Campeao
+#EXTINF:0,O Regaste de um Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg" pltv-subgroup="O Vigarista do ano",O Vigarista do ano
+#EXTINF:0,O Vigarista do ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://cinezencultural.com.br/site/wp-content/uploads/2009/08/rededeintrigas.jpg" pltv-subgroup="Rede de Intrigas",Rede de Intrigas
+#EXTINF:0,Rede de Intrigas
 http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/seducao-fatal_cartaz_220x283.jpg" pltv-subgroup="Seducao Fatal",Seducao Fatal
+#EXTINF:0,Seducao Fatal
 http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://eovideolevou.com.br/imgProduto/70303_f1.jpg" pltv-subgroup="Seis Graus de Separacao",Seis Graus de Separacao
+#EXTINF:0,Seis Graus de Separacao
 http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/t/am/sddyb_tnl_210x118.jpg?ts=20130912034254" pltv-subgroup="Sem Saida",Sem Saida
+#EXTINF:0,Sem Saida
 http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/21/59/19873197.jpg" pltv-subgroup="Studio 54",Studio 54
+#EXTINF:5579,Studio 54
 http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/8/sl/ydcyb_tnl_210x118.jpg?ts=20130429232410" pltv-subgroup="Um Homem Bom",Um Homem Bom
+#EXTINF:0,Um Homem Bom
 http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/x/n6/qy2lf_tnl_210x118.jpg?ts=20150325003111" pltv-subgroup="Premonicoes",Premonicoes
+#EXTINF:0,Premonicoes
 http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Drama" tvg-logo="http://images-br-am.crackle.com/1/z/n6/zy2lf_tnl_210x118.jpg?ts=20150325002801" pltv-subgroup="A Ultima Profecia",A Ultima Profecia
+#EXTINF:0,A Ultima Profecia
 http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Fantasia" tvg-logo="http://images-br-am.crackle.com/1/w/h6/57vlf_tnl_210x118.jpg?ts=20150319074354" pltv-subgroup="Uma Garota Encantada",Uma Garota Encantada
+#EXTINF:0,Uma Garota Encantada
 http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Fantasia" tvg-logo="http://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg?ts=20150319151355" pltv-subgroup="Simplesmente Alice",Simplesmente Alice
+#EXTINF:0,Simplesmente Alice
 http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/8/16/5p1lf_tnl_210x118.jpg?ts=20150319135628" pltv-subgroup="Sacrifício",Sacrifício
+#EXTINF:0,Sacrifício
 http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/j/l6/ydwlf_tnl_210x118.jpg?ts=20140407063858" pltv-subgroup="A Informante",A Informante
+#EXTINF:6702,A Informante
 http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-o-sangue-de-romeo-gary-oldman-14575-MLB95378491_5724-O.jpg" pltv-subgroup="O Sangue de Romeo",O Sangue de Romeo
+#EXTINF:0,O Sangue de Romeo
 http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/93/75/92/20275887.jpg" pltv-subgroup="O Inquilino",O Inquilino
+#EXTINF:0,O Inquilino
 http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://4.bp.blogspot.com/-rvm54VwSzGI/UBN06wq9OFI/AAAAAAAAIN4/zgohwGDAVmU/s250/filme+mulher+solteira+procura.jpg" pltv-subgroup="Solteira Procura 2",Solteira Procura 2
+#EXTINF:0,Solteira Procura 2
 http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://dvdefilme.files.wordpress.com/2012/08/dirty-o-poder-da-corrupc3a7c3a3o.jpg" pltv-subgroup="Poder e Corrupcao (Dirty)",Poder e Corrupcao (Dirty)
+#EXTINF:0,Poder e Corrupcao (Dirty)
 http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://megapix.img.estaticos.tv.br/cache/cartazes/amigos-de-caca_cartaz_220x284.jpg" pltv-subgroup="Amigo de Caca",Amigo de Caca
+#EXTINF:0,Amigo de Caca
 http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148" pltv-subgroup="Aprendendo A Viver",Aprendendo A Viver
+#EXTINF:0,Aprendendo A Viver
 http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/c/qm/75dyb_tnl_210x118.jpg?ts=20140219012906" pltv-subgroup="Caminhos Opostos",Caminhos Opostos
+#EXTINF:0,Caminhos Opostos
 http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg" pltv-subgroup="Eu Sei Quem Me Matou",Eu Sei Quem Me Matou
+#EXTINF:0,Eu Sei Quem Me Matou
 http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/6/8l/27cyb_tnl_210x118.jpg?ts=20130904015547" pltv-subgroup="Homens Perigosos",Homens Perigosos
+#EXTINF:0,Homens Perigosos
 http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/29/50/19874017.jpg" pltv-subgroup="O Sequestro do Metro 123",O Sequestro do Metro 123
+#EXTINF:0,O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/76/63/19961328.jpg" pltv-subgroup="O Tango e o Assassino",O Tango e o Assassino
+#EXTINF:0,O Tango e o Assassino
 http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://1.bp.blogspot.com/_7HNyPzlnadY/StUnB_XadjI/AAAAAAAAAT0/FJVkgkUJoPo/s400/60secondsdvdvs2ja7.jpg" pltv-subgroup="Ouro Branco",Ouro Branco
+#EXTINF:0,Ouro Branco
 http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-original-do-filme-paraiso-14505-MLB3104010334_092012-O.jpg" pltv-subgroup="Paraiso",Paraiso
+#EXTINF:0,Paraiso
 http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/9/16/6p1lf_tnl_210x118.jpg?ts=20150319135935" pltv-subgroup="Os Mensageiros",Os Mensageiros
+#EXTINF:0,Os Mensageiros
 http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg?ts=20150407194405" pltv-subgroup="Turistas",Turistas
+#EXTINF:0,Turistas
 http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg?ts=20140414192627" pltv-subgroup="Stigmata",Stigmata
+#EXTINF:6131,Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg?ts=20140828000203" pltv-subgroup="Resident Evil 2: Apocalipse (2004)",Resident Evil 2: Apocalipse (2004)
+#EXTINF:0,Resident Evil 2: Apocalipse (2004)
 http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/r/16/68wlf_tnl_210x118.jpg?ts=20140407152126" pltv-subgroup="O Albergue 2",O Albergue 2
+#EXTINF:0,O Albergue 2
 http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg?ts=20140407054512" pltv-subgroup="Jovens Bruxas",Jovens Bruxas
+#EXTINF:0,Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/_/h6/tcwlf_tnl_210x118.jpg?ts=20140407045421" pltv-subgroup="Evil Dead - A Morte do Demonio",Evil Dead - A Morte do Demonio
+#EXTINF:0,Evil Dead - A Morte do Demonio
 http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/10/07/20/11/210244.jpg" pltv-subgroup="O Albergue",O Albergue
+#EXTINF:0,O Albergue
 http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://2.bp.blogspot.com/_yDXkSU18DUc/SwfehPM4UsI/AAAAAAAAABo/4QykdqJ5zJw/s320/GRD_lenda2.jpg" pltv-subgroup="Lenda Urbana 2",Lenda Urbana 2
+#EXTINF:0,Lenda Urbana 2
 http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://cinepop.virgula.uol.com.br/cartazes/silenthill2_2.jpg" pltv-subgroup="Silent Hill: Revelacao",Silent Hill: Revelacao
+#EXTINF:0,Silent Hill: Revelacao
 http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/s/ml/pkayb_tnl_210x118.jpg?ts=20140406162015" pltv-subgroup="O Grito 2",O Grito 2
+#EXTINF:0,O Grito 2
 http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg" pltv-subgroup="Christine - O Carro Assassino",Christine - O Carro Assassino
+#EXTINF:0,Christine - O Carro Assassino
 http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/t/am/uddyb_tnl_210x118.jpg?ts=20130912035430" pltv-subgroup="Brinquedo Assassino",Brinquedo Assassino
+#EXTINF:0,Brinquedo Assassino
 http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2333_Kalifornia.jpg" pltv-subgroup="Kalifornia - Uma Viagem ao Inferno",Kalifornia - Uma Viagem ao Inferno
+#EXTINF:0,Kalifornia - Uma Viagem ao Inferno
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg" pltv-subgroup="Nao Adianta Fugir",Nao Adianta Fugir
+#EXTINF:0,Nao Adianta Fugir
 http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://2.bp.blogspot.com/-gpoIzH_d9nw/TeKj6reaCZI/AAAAAAAAJvs/yJTkc-QPJuo/s320/o+principal+suspeito.jpg" pltv-subgroup="O Principal Suspeito",O Principal Suspeito
+#EXTINF:0,O Principal Suspeito
 http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4b/Rec_poster.jpg" pltv-subgroup="REC",REC
+#EXTINF:0,REC
 http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://1.bp.blogspot.com/_l1HtIw7ZdA0/Sy9MpO-3MDI/AAAAAAAACEo/0iHKWEUXlns/s400/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.jpg" pltv-subgroup="Tentaculos",Tentaculos
+#EXTINF:0,Tentaculos
 http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://images-br-am.crackle.com/1/q/4l/yucyb_tnl_210x118.jpg?ts=20130626021755" pltv-subgroup="Torturado",Torturado
+#EXTINF:0,Torturado
 http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Terror" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg" pltv-subgroup="Vestida Para Matar",Vestida Para Matar
+#EXTINF:0,Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg?ts=20140405033900" pltv-subgroup="Feitico do Tempo",Feitico do Tempo
+#EXTINF:0,Feitico do Tempo
 http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg?ts=20110917104501" pltv-subgroup="Anjos da Noite: A Evolucao",Anjos da Noite: A Evolucao
+#EXTINF:0,Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg?ts=20141222172140" pltv-subgroup="Hancock",Hancock
+#EXTINF:5544,Hancock
 http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/w/n6/j9ulf_tnl_210x118.jpg?ts=20140405171038" pltv-subgroup="Fuga de Absolom",Fuga de Absolom
+#EXTINF:0,Fuga de Absolom
 http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/z/n6/v9ulf_tnl_210x118.jpg?ts=20140405174313" pltv-subgroup="Dr. Fantastico",Dr. Fantastico
+#EXTINF:0,Dr. Fantastico
 http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/h/om/lffyb_tnl_210x118.jpg?ts=20140623175138" pltv-subgroup="Supernova",Supernova
+#EXTINF:0,Supernova
 http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg?ts=20140406004625" pltv-subgroup="Starman - O Homem das Estrelas",Starman - O Homem das Estrelas
+#EXTINF:0,Starman - O Homem das Estrelas
 http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg?ts=20140407010437" pltv-subgroup="Herois",Herois
+#EXTINF:0,Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://3.bp.blogspot.com/-yC451wGpQYc/Ua_7UrelWzI/AAAAAAAAAL8/KdwTr1j7_mU/s320/Resident+Evil+-+O+Hospede+Maldito.jpg" pltv-subgroup="Resident Evil 1: O Hospede Maldito (2002)",Resident Evil 1: O Hospede Maldito (2002)
+#EXTINF:0,Resident Evil 1: O Hospede Maldito (2002)
 http://d1qdy21hsivmmk.cloudfront.net/movies/residentevil-dub-720p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg?ts=20140216050223" pltv-subgroup="1984",1984
+#EXTINF:6632,1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg" pltv-subgroup="Contatos Imediatos de Terceiro Grau",Contatos Imediatos de Terceiro Grau
+#EXTINF:0,Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/01/02/19871066.jpg" pltv-subgroup="Equilibrio",Equilibrio
+#EXTINF:0,Equilibrio
 http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/e/ee/Existenz.jpg/200px-Existenz.jpg" pltv-subgroup="eXistenZ",eXistenZ
+#EXTINF:0,eXistenZ
 http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://bastidoores.files.wordpress.com/2010/12/skyline-poster-20102010.jpg" pltv-subgroup="Skyline - A Invasao",Skyline - A Invasao
+#EXTINF:0,Skyline - A Invasao
 http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://images-br-am.crackle.com/1/j/4l/1wcyb_tnl_210x118.jpg?ts=20130723012745" pltv-subgroup="Violacao de Privacidade",Violacao de Privacidade
+#EXTINF:0,Violacao de Privacidade
 http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ficção" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/55/85/20414472.jpg" pltv-subgroup="Resident Evil 3: A Extinção (2007)",Resident Evil 3: A Extinção (2007)
+#EXTINF:0,Resident Evil 3: A Extinção (2007)
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg?ts=20150327002552" pltv-subgroup="Espiao Por Acidente",Espiao Por Acidente
+#EXTINF:0,Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg?ts=20150325001658" pltv-subgroup="Ong-Bak - Guerreiro Sagrado",Ong-Bak - Guerreiro Sagrado
+#EXTINF:0,Ong-Bak - Guerreiro Sagrado
 http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg?ts=20141222170718" pltv-subgroup="Triplo X",Triplo X
+#EXTINF:7444,Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg?ts=20150225175910" pltv-subgroup="O Homen Sombr",O Homen Sombra
+#EXTINF:0,O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg?ts=20140406101230" pltv-subgroup="XXX2 - Estado de Emergencia",XXX2 - Estado de Emergencia
+#EXTINF:0,XXX2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg?ts=20140407231429" pltv-subgroup="Replicante",Replicante
+#EXTINF:0,Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg?ts=20140407231628" pltv-subgroup="JCVD",JCVD
+#EXTINF:0,JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg" pltv-subgroup="O Forasteiro 2",O Forasteiro 2
+#EXTINF:0,O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://www.assistirfilmesdublados.com.br/wp-content/uploads/2015/01/Anjos-Da-Noite-3-a-Rebeli%C3%A3o.jpg" pltv-subgroup="Anjos da Noite 3 - A Rebeliao",Anjos da Noite 3 - A Rebeliao
+#EXTINF:0,Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://3.bp.blogspot.com/_YJ5kgB-UVT8/S0xiMvxGOGI/AAAAAAAAAZM/JoLWl4lmYCI/s250/eu+sou+espiao.jpg&w=166&h=250" pltv-subgroup="Sou Espiao",Sou Espiao
+#EXTINF:0,Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg" pltv-subgroup="Assalto Sobre Trilhos",Assalto Sobre Trilhos
+#EXTINF:0,Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-excesso-de-bagagem-alicia-silverstone-14215-MLB88858427_559-O.jpg" pltv-subgroup="Excesso de Bagagem",Excesso de Bagagem
+#EXTINF:0,Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg?ts=20130429224803" pltv-subgroup="Vinganca",Vinganca
+#EXTINF:0,Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg" pltv-subgroup="Horas de Desespero",Horas de Desespero
+#EXTINF:0,Horas de Desespero
 http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg?ts=20150331003545" pltv-subgroup="Ação",Redline: Velocidade sem Limites
+#EXTINF:0,Redline: Velocidade sem Limites
 http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/RDLNEVLCDSMLMTS.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg?ts=20131121023127" pltv-subgroup="Haven",Haven
+#EXTINF:0,Haven
 http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg" pltv-subgroup="Agente Indomavel",Agente Indomavel
+#EXTINF:0,Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg?ts=20140219014649" pltv-subgroup="Guerra ao Terror",Guerra ao Terror
+#EXTINF:0,Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://comprepelanet.net/oscommerce/images/FantasmasDeMarte.jpg" pltv-subgroup="Fantasmas de Marte",Fantasmas de Marte
+#EXTINF:0,Fantasmas de Marte
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg" pltv-subgroup="S.W.A.T. - Comando Especial",S.W.A.T. - Comando Especial
+#EXTINF:7040,S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg?ts=20130301124935" pltv-subgroup="Crash: No Limite",Crash: No Limite
+#EXTINF:0,Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://static.cinedica.com.br/capasm/6147.jpg" pltv-subgroup="Mergulho Radical 2: Os Recifes",Mergulho Radical 2: Os Recifes
+#EXTINF:0,Mergulho Radical 2: Os Recifes
 http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/92/09/53/20180406.jpg" pltv-subgroup="Hooligans: Furia nos campos",Hooligans: Furia nos campos
+#EXTINF:0,Hooligans: Furia nos campos
 http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/q/mm/h0dyb_tnl_210x118.jpg?ts=20140116232555" pltv-subgroup="A Era da Escuridao - Mutant Chronicles",A Era da Escuridao - Mutant Chronicles
+#EXTINF:0,A Era da Escuridao - Mutant Chronicles
 http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/09/thumbs/caes-de-guerra_t23736_jpg_290x478_upscale_q90.jpg" pltv-subgroup="Caes de Guerra",Caes de Guerra
+#EXTINF:0,Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg" pltv-subgroup="Conquista Sangrenta",Conquista Sangrenta
+#EXTINF:0,Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-original-do-filme-desafio-radical-devon-sawa-14507-MLB3055191906_082012-O.jpg" pltv-subgroup="Desafio Radical",Desafio Radical
+#EXTINF:0,Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://2.bp.blogspot.com/_qzW5Q7OTOqc/SZxSF5WUsOI/AAAAAAAABjg/NagKJ2gZaPM/s250/divisao.jpeg&w=166&h=250" pltv-subgroup="Divisao de Homicidios",Divisao de Homicidios
+#EXTINF:0,Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/2e/Godzilla_%281998_Movie_Poster%29.jpg" pltv-subgroup="Godzilla (1998)",Godzilla (1998)
+#EXTINF:0,Godzilla (1998)
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://3.bp.blogspot.com/_lK3IcXkTsJQ/TOqFdtjmT4I/AAAAAAAAAS8/Z64IHFH46uY/s250/gfh5nbv.jpg" pltv-subgroup="Cacada sem Treguas",Cacada sem Treguas
+#EXTINF:0,Cacada sem Treguas
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://user.img.todaoferta.uol.com.br/C/J/XT/VGRGK2/bigPhoto_0.jpg" pltv-subgroup="Honra e Coragem - As Quatro Plumas",Honra e Coragem - As Quatro Plumas
+#EXTINF:7875,Honra e Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg?ts=20121126181406" pltv-subgroup="Impacto Mortal",Impacto Mortal
+#EXTINF:0,Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/87/Karate_kid_part_iii.jpg" pltv-subgroup="Karate Kid 3 - O Desafio Final Filme",Karate Kid 3 - O Desafio Final Filme
+#EXTINF:6740,Karate Kid 3 - O Desafio Final Filme
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://4.bp.blogspot.com/-9Tx7A1GJjTA/TcBiYXYYF_I/AAAAAAAABco/K0fs2f2CdkY/s640/matador%2Bde%2Baluguel.jpg" pltv-subgroup="Matador De Aluguel",Matador De Aluguel
+#EXTINF:0,Matador De Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://www.saudadeeadeus.com.br/images/colecionador_ossos.jpg" pltv-subgroup="O Colecionador de Ossos",O Colecionador de Ossos
+#EXTINF:0,O Colecionador de Ossos
 http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://4.bp.blogspot.com/-YjVYBCmC86A/Ur9jJsvT7VI/AAAAAAAARsc/axm5DzjE4T0/s1600/O+grande+anjo+negro+poster.jpg" pltv-subgroup="O Grande Anjo Negro",O Grande Anjo Negro
+#EXTINF:0,O Grande Anjo Negro
 http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/s/am/pddyb_tnl_210x118.jpg?ts=20130912022729" pltv-subgroup="O Guardiao",O Guardiao
+#EXTINF:0,O Guardiao
 http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/o/im/wrdyb_tnl_210x118.jpg?ts=20131119184818" pltv-subgroup="O Guardiao 2 - Retorno As Minas do Rei Salomao",O Guardiao 2 - Retorno As Minas do Rei Salomao
+#EXTINF:0,O Guardiao 2 - Retorno As Minas do Rei Salomao
 http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/o/im/vrdyb_tnl_210x118.jpg?ts=20131119184648" pltv-subgroup="O Guardiao 3 - A Maldicao do Calice de Judas",O Guardiao 3 - A Maldicao do Calice de Judas
+#EXTINF:5409,O Guardiao 3 - A Maldicao do Calice de Judas
 http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg?ts=20130723012026" pltv-subgroup="O Legionario",O Legionario
+#EXTINF:0,O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg?ts=20130304183010" pltv-subgroup="O Senhor das Armas",O Senhor das Armas
+#EXTINF:0,O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg" pltv-subgroup="Os Reis de Dogtown",Os Reis de Dogtown
+#EXTINF:0,Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/682096_1.jpg" pltv-subgroup="Red - Aposentados e Perigosos",Red - Aposentados e Perigosos
+#EXTINF:0,Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg?ts=20131121020104" pltv-subgroup="Risco Absoluto",Risco Absoluto
+#EXTINF:0,Risco Absoluto
 http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Rocky_Balboa_2006.jpg/250px-Rocky_Balboa_2006.jpg" pltv-subgroup="Rocky Balboa",Rocky Balboa
+#EXTINF:0,Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg?ts=20130626022523" pltv-subgroup="Ruslan - Vinganca Explosiva",Ruslan - Vinganca Explosiva
+#EXTINF:5890,Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg?ts=20111102095941" pltv-subgroup="Soldado Universal 3 - Regeneracao",Soldado Universal 3 - Regeneracao
+#EXTINF:0,Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg?ts=20130429223858" pltv-subgroup="Tempos de Violencia",Tempos de Violencia
+#EXTINF:0,Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://2.bp.blogspot.com/-w8tq3EXTCCY/TaZEosyEriI/AAAAAAAAAQU/-YGCuojAmNA/s1600/Um+Ato+de+Liberdade.jpg" pltv-subgroup="Um Ato de Liberdade",Um Ato de Liberdade
+#EXTINF:0,Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://mlb-s2-p.mlstatic.com/promoco-dvd-viciado-em-sexo-orig-raro-14184-MLB227102488_3468-O.jpg" pltv-subgroup="Viciado em Sexo",Viciado em Sexo
+#EXTINF:0,Viciado em Sexo
 http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg" pltv-subgroup="Vou Te Pegar Otario",Vou Te Pegar Otario
+#EXTINF:0,Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Ação" tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg" pltv-subgroup="Wasabi",Wasabi
+#EXTINF:0,Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Policial" tvg-logo="http://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg?ts=20150319150738" pltv-subgroup="O Nome do Jogo",O Nome do Jogo
+#EXTINF:0,O Nome do Jogo
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg?ts=20150319043936" pltv-subgroup="Greta",Greta
+#EXTINF:0,Greta
 http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg?ts=20140925193105" pltv-subgroup="Como Se Fosse a Primeira Vez",Como Se Fosse a Primeira Vez
+#EXTINF:0,Como Se Fosse a Primeira Vez
 http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg?ts=20140407052527" pltv-subgroup="Atraidos Pelo Destino",Atraidos Pelo Destino
+#EXTINF:0,Atraidos Pelo Destino
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg?ts=20140406144501" pltv-subgroup="Tres Mulheres, Tres Amores",Tres Mulheres, Tres Amores
+#EXTINF:0, Tres Amores" - Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg?ts=20140430214737" pltv-subgroup="Persuasao",Persuasao
+#EXTINF:0,Persuasao
 http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg?ts=20141113192534" pltv-subgroup="O Melhor Amigo da Noiva",O Melhor Amigo da Noiva
+#EXTINF:0,O Melhor Amigo da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg?ts=20130817044800" pltv-subgroup="Nicholas Nickleby",Nicholas Nickleby
+#EXTINF:0,Nicholas Nickleby
 http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg?ts=20140625202855" pltv-subgroup="Africa dos Meus Sonhos",Africa dos Meus Sonhos
+#EXTINF:0,Africa dos Meus Sonhos
 http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/t/am/vddyb_tnl_210x118.jpg?ts=20130912041715" pltv-subgroup="O Segredo de Brokeback Mountain",O Segredo de Brokeback Mountain
+#EXTINF:0,O Segredo de Brokeback Mountain
 http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg?ts=20140827233900" pltv-subgroup="Pegar e Largar",Pegar e Largar
+#EXTINF:0,Pegar e Largar
 http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg?ts=20140929194144" pltv-subgroup="Funny Lady",Funny Lady
+#EXTINF:0,Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://amalgama.blog.br/imagens/101/casamento-de-rachel.jpg" pltv-subgroup="O Casamento de Rachel",O Casamento de Rachel
+#EXTINF:0,O Casamento de Rachel
 http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" pltv-subgroup="Apenas Uma Vez",Apenas Uma Vez
+#EXTINF:0,Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Romance" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/62/19874342.jpg" pltv-subgroup="A Jovem Rainha Victoria",A Jovem Rainha Victoria
+#EXTINF:0,A Jovem Rainha Victoria
 http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Documentário" tvg-logo="http://images-br-am.crackle.com/1/d/wl/secyb_tnl_210x118.jpg?ts=20130517223448" pltv-subgroup="Primeira Descida",Primeira Descida
+#EXTINF:0,Primeira Descida
 http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Guerra" tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg?ts=20140827235501" pltv-subgroup="Lagrimas do Sol",Lagrimas do Sol
+#EXTINF:0,Lagrimas do Sol
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
-#EXTINF:-1 group-title="Filmes | Guerra" tvg-logo="http://images-br-am.crackle.com/1/3/v6/01zlf_tnl_210x118.jpg?ts=20140530224248" pltv-subgroup="A Guerra de Hart",A Guerra de Hart
-http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4 
-
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/95/17/19870450.jpg" group-title="Filmes | Policial" pltv-subgroup="Caçadores de Emoção",Caçadores de Emoção
+#EXTINF:0,A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4%20
+#EXTINF:0,Caçadores de Emoção
 https://ia601609.us.archive.org/11/items/cacadore32wwqwqeqed/Ca%C3%A7adores%20de%20Emo%C3%A7%C3%A3o%20Al%C3%A9m%20do%20Limite%202016%20Bluray%20720p%20Dublado%20WWW.THEPIRATEFILMES.COM.mp4
-
-#EXTINF:0 tvg-logo="http://4k17.me/wp-content/uploads/2016/08/Na-Pr%C3%B3xima-Acerto-o-Cora%C3%A7%C3%A3o-BluRay-720p-1080p-Dual-%C3%81udio-Torrent-Download-2016.jpg" group-title="Filmes | Drama" pltv-subgroup="Na Próxima, Acerto o Coração",Na Próxima, Acerto o Coração
+#EXTINF:0, Acerto o Coração" - Na Próxima, Acerto o Coração
 https://lh3.googleusercontent.com/9wa8Jzl-1wIXc5GNYiFy3S7hNAoxdj2iJAcQw36yS0w7C3njYgsdCsdL1n-Lk4KEE6X8d9WuNWZSXl1l40bW3jLN6Zg3LGirVWX7A__qQCes-Ygi7F0y_eMhE019IjF6sBCUbJjwhYH80SpbvLvtjfAFSau88Ofm7TRNXZhiSMajq7ojSD83EW7-jIWiGqHDh08OdboYX2leRntyPnHGjDwQzz4qhmrPKyHvO_NCVYj1KQJSNWNfYxI9-9E4yOUgKxATa5pBjpH6CVpRLxHiLrdLk-vdWw1D3AsyPvY_4mcxLCHuyJh-tO9Y-JdgtyxWNIQovatQ1qccNBaDWUHsWzknX7lsdeDNvT-Up7wgijPuNlZPHsIdxGPFcAh9wp0H6-9Yjds3hHbkV1ub7XX3E2YCUm_Fa9BJZ2djlrpatL9etPJMzK6bsaIxCHDPsH4FQKMZEgVL6glLMHK9So0X6fACEfNec90m0Osv6V60Qk7b6RjjEbaeoQUGC8RW3_C0nKz5TrHA3vOro3fzOV9D-5Fca7c-IeKquyVKR9G0clfBZ5FMYNWtoRZ1uNzkG9Sh1AwdJ7Rh0KKnyheTebTWYSctV76B9wITMIWqx5rJAEqmnnS3tGoJpTmkna_5naa6lUee4C5l3Gkw_GYMdLV1Ey2nLju3dBkOSgIM-4Db3I3B-g=m22
-
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/76/32/19961293.jpg" group-title="Filmes | Terror" pltv-subgroup="Abismo do Medo",Abismo do Medo
+#EXTINF:0,Abismo do Medo
 https://lh3.googleusercontent.com/QSDED6bHehMYqAN9IFoOwQH7He8p-QusugOYZSnFySQ6MVso9jrfopdyWqb6Q0gAF6Xr8dE41CXitai6IyeMJ_x0tj3LJYlpA34UwSH97wG-8gRl_eptskg-3BALNVwrQ3htLdiH7c5WbWY_CYulrNlBcc6VbAovxKkEJo2gFkqCRBfAxd13jS45WGKnkb460_l-IIAcOSGSCPZAr899dRjossS7eYjRAHJzPA3pNQAzwhGfUTuknuwgXwlQ7-y3Gv7wE0L1N_Q2x17PhhGMAzFy9l6DTGNoU7u1Jrp7Tfi1OmDUQJSwZioGNW_g1eQ5HTLRL_gO2ivvvdLxia-rWmrTxq_C0S5NT286GX-7sGabw6J4DJ2CH0JMkXzT0b-XP5cjbhlOwyd_Q65bsljgMgDfRbMIR0Lz0WTUGYBVDu3UeejKTHxpzjprS3YBNsSnhovx1DK2H5qilS-eB9st5_raGQ6G3GCXlNT-6RdxG__072PRdMiXa1TRtL_Eo5rIHtrNPv4f5HGcOdLcWFP2uwckKCtewkKH4mAjWJF5qiJip8QlxEAR9KEV29ebBamxACwuNdI64hw3O-kJ4Kyb9N_Sby1FxfOIixzRLW4aNRplGoz5sAEXKz0uvGrt8ycXabl2kmEPITAqIXLAMBVknl4APZuIdc65weKg5lQ-t9uGUg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Romance" pltv-subgroup="A Ultima Música",A Ultima Música
+#EXTINF:0,A Ultima Música
 https://lh3.googleusercontent.com/tJdyYAwGBXf0s95mmcNF1Jn4c1lMxd-LWHIntL2F6QmRx0Q7Y1zQUst-NCqo1VNDIg16uXXl7GJmOQIeW9vP_NCQZ7EGwYFKmefR_Q8TjJlVazGWj52tHkZwKGMM7RdNgFBtf_1GVnoVDxJrPgzA4iWDywT-E3hzjuASczDngnWmaNh3ulySTkRo4Inm5sT3-yieDT3zGqTtsUrAxe3BXnwljQVhnjUVawABjjIz4CkZ5ZzpU6a1ahb-Tn9JBG0gqsXd3gYCwagfC6ZGvsrBeXIDSmE9mkX9D_2kwgSaXXdcJism46rCYVJHireQD-7YYyuKUVGwmMdXn2DMQncfm4tZ0TdIKbUTo_KW8y-TKXRAq-viWyT8XGJ9w1AaDPlBdLffUbpMeEMpYgJormdbI9xxciPetZXzSuRo7sPRTjtYrtSi5UDd2l1nAybuPcuXpUrM6dsdyr9WSKu3EJxseek-TZPyDeIlbwp-HBBkzG_UKtJ8LTfa84tNPptEvBsLh4PjaVqVX3K1BkyVwRAKcuDSS5QcD6xCjL1dHCRQvJ7hIiWNvueJAbtji27X3dDxwz5T7znZndBZveyAMG02US9FfRfpeErLkfrJ_1B_Qnlzk0DJ1h5B_wupCfwXzTp0W9OQr87W7DK_wepYvWGhigqHy8dA_8vhja-s89GYIlolig=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Divergente",Divergente (2014)
+#EXTINF:0,Divergente (2014)
 https://lh3.googleusercontent.com/62wy7uY3C0fGQzgur-3u1NkP449KkWWJfe6sd3FEff_4zuYuHbYI3RPriaWsHnfynwHu3xZ6Wgag-P8wcmb4b6w700MoNY5CvGbHmPR3qjszdTABKpUxkPPJtSqbSkp-IHMr2YJihNMwVTnNH7xM0BXnHb0MmSZki0BFxhyWfHauWQ0E3VwWCd1dOSN2IKEvaP4GP6NPMYxbe7iQ82F-Xs4NR-Igso67UVq2ekSdkqERgsLrf7tLtRy5ub9k4Ju0P5iSQKAIXHwDJlyAfTbi2xj_1iGw3Hn1TPfF8dO5CyVjrLvCYqnXj9nFNxkI5T85cCfRpKVK6iebn9ReKPhdjp-9kltr-WeByiUd1LWHWO3KRwfn-xhghhLIq-LCDdVQVmXgUtJPdR1p9eWCIIRZEGbRbyb_4fNYDwQqeWqDcmgtlpb6ueuMF2nTtGBYmetvS21ra_7fpJeIDo9scHpJCbWtiTxrSEydkXODOJnKdeV-9fJuLHxJ0Kr26eYeQ8brzYWs4sk_27CABtBACBK2Q9NwfuA9t3iGzr5GyQsaa8JtJynTeJz7n4Pw9wN2IzPlTmfN_FzvuhFTY3uNdYe3v4ZV7ff579HlLNv2gvFxXWWS9_1h9Ol0Xd77IJI6ozvEKCr4lk0Y9RziVT3kTTmzpfS07iL_c-__6uLKaVIHRTFgjg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Suspense" pltv-subgroup="O Exorcismo de Emily Rose",O Exorcismo de Emily Rose
+#EXTINF:0,O Exorcismo de Emily Rose
 https://lh3.googleusercontent.com/7p1QbphUiZpm9WM7BdD2522K_FlIW8O2dDkcO8eZvzOn3ve8ovuJfGa4Om9imFPWmD4ExdratuATETICDJ6Bu2y1aVnyEJxtltKk__p7VZJaQYtIQtZZM3HopxXBe8vhOUJToOU6I3JsYcyMslVWG6tE3t13gwLdYzzm23qo_am0u1w9B7qEF0lP4s8EriotoDdRJYYyBOyLPLvUxtrDJhwyfxytImHK3-6mndYUr_fWKKTJDD6kGjI8yxQAttjR8vFZLuD9CkZiONE4_UUzNh-p0HsItBePrEVMl6KrvJlRrlslEevj-5pKBy77Qg_v8v6uEDDfGQabkJtvZbI-2QPhQ03y7rxypLM6xNFdU-0hM8qFGaZHC95wpyTQlzV1rgaP780eyFJOxx1QepBir1MtMrBXoFkfCQlTfNOafEy6dJO6VmXNBp84uL2Y3w8da88IXVZvQBGEM8UZBQQHpNZWdHWLhvWChArXw6NV40SwiXRdwBcgBnQdmSE2uZreJoegmEVBggzZAP1oO6trsDRt-x3v5o5LLo2Mmuf6aZrYGSAvX8FPMoGV91Uq41Mi0XlwvrMuSUBJWMomRdfzO250mNjbTV__apFbXP3E4OqDz15bghOKl7snIbtUyMlxtBsC0x98iSJ-_ZAPFt35_lvmKRaAbrOTEVojAy0mC1jGVA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Ouija - O Jogo dos Espiritos",Ouija - O Jogo dos Espiritos
+#EXTINF:0,Ouija - O Jogo dos Espiritos
 https://lh3.googleusercontent.com/UhHfyZHFHJQdUHy4PM5XfAkloQBuKUei5qd58m1vVev60jOizIMvQRf3ojTtfdw_Z6oZvD7GTW6n60dnSFHBb1DHQ5o6V7Sj2Wmya-58jt-tSi0lvAj0WcXD09UqA-_N2sT4uD0Mysyr-TwBTA7eFDgQczcjIhfXx8QpqD2Nro3wt0HoICc-dZTNgSprmI7-lrc6J2hXYR8NYE33qd9TEJj6AEegGPogzCE3Evb4G3tail2PBCB2R5jCWOkO6Q2XCIrA503YocBo8hyljbuu5IzfXi6Ax4N3xVN6099r2PRV2zo5ku0LlLAfJNZNBNKsya70lL1DvyQNF5Hk7ogVqrA7GSRoYO7RhnMfvzeOhpMFJBpNuv33Hb7fOK5h76rZbw2fPmj3pVRrew3S9SV-Yj9ApNQVpzd3UlWuQrGdNW0niGI9V93sE8faDKEVGLP48dr7mXmseRnYFtuzOZymQSaibO2N2-R8ZDC7HiIpGVycdZEDHZinIQv94d810yH_jF_dc1ymqBPuERkQNQ2mTh-hgT7Sp4uhEzKkUvrTMo8JY9YaNDL06Quiwpsn6cA6VDV5gzATBwcCpCetdv-23tFcPxbKPgXbC4viOHjUf34PP5QwK0D9ZmUKvbo6e0eEAdyHwoiJNDpZdN8gP122nlCeqmgN6qBJB5hNv3r5k6bnjg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Amizade Desfeita",Amizade Desfeita
+#EXTINF:0,Amizade Desfeita
 https://lh3.googleusercontent.com/bFRDTFcgLkUrt9_BmyzLW8wkhFVCzLbVnqpPl5_eQjz7FTYtxbt-ozPTHRvgBA4n6M8PEnU5a2f2MzVZRADwdO6tdyTWTWRWVZaPBGuhG2SM45G79gpky_aBRUmb4SLmng1zLM_9IfrpUEPV0riDfTKSv7JqbWaxCMJu-b33RSNe_kRAXuOpVEsSm7ErbyODBKI6YSbN1bNDtycRpLCOY65WKqOIAilhsXFLOyyEmjkkdZ0BqrbAtLTwSKDve3EUibYbClOljGwdTuJg5wG-ij5EbwVutdSgItCfI4L_jB8xQ9FHA2XJ_Zv9HoN2IEwZ23wOFrJfVPini9kBTs1FGOY1h-1BtrD_I74bz5MCrMavO9b_aP1NgT0MVYY9uN2x_dT_Lk7Ces-vIYhSjW2rOHk_IGn3ZGQE9gZ5oAC4wvYN51BRK9daz1927-4HPGw349IOkIzeb_nbB_35DsBBP9K8eqJ7dU5YvJtITcNjqDh-jfUlYFtYG1Rk74ptGnq0itom0HMKOwRWCL38YGGULwLv43UaJgQTTQ_cvlzAjD5oEIFVrxktJ8AP6Dt-PYXE3pxVi1Z3JIo8qrQlwF3WRcWJ8x9n7Ek2zwKxwWNTFDclEpqt26ASV3SHlCNVImjSjg8sumdGS5BOWxvf6iYswJZarLQJyOGG3PbOVmnsJ_k7Jw=m22
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/ac/d0/a5/acd0a5215c04a82b3dce9d5c3a7459df.jpg" group-title="Filmes | Documentário" pltv-subgroup="Missa do Vaqueiro - Agroquima",Missa do Vaqueiro - Agroquima
+#EXTINF:0,Missa do Vaqueiro - Agroquima
 https://lh3.googleusercontent.com/5FPn2ejr9xHpUwuEianvjnXX5RaAJUwAQg0tMiukknyeFV9VOiLNdgVZfJjHaDKGuqJ2icEdbWVnvwHZ_yM3WOCQLkiB2TPEPa1LF7UDHwTy32hiZJZo7G67KTozRZD_21UZMX_h23l3ooWgSfo424vKl17-SWGL5Gz7rzTmGSNkcC6uVibvWaMAuV7MyQpf7Zn570BYYsm-iYZdE9zM9ua9e7O2j5Cf8hVSe0nWuB4Lfk1kzORyXN1fz0-oSKAtqvUg4273qO6cg-mOK5sH9M6ZD-SI1QUvv1PUBp529S-0M2EHvI7l252THJbvK3UTC7xCQOwESpXtigCQVgnDpyk-uOtr42GcNTewIB9L22hI-4Q3NHboAQb0JvQqReIu90xLbsSFE-dCKRD8jPEOjM03jHkwqK1iTpoB3HEkOKrmOIIrGjIen3uTfICvJAWG53CDD8q9pReoq9Qk2qVerS7w8qOnYWf2XQ-8y7EHvM4mDtBYZ7DI4ssWZO8FNFSXsh7phFsJuhxmuv7GmxzRnrfD8QmddAa1aBsLvAQ4q1CtpBBXpL1cxJ6-6mYmDGS9M6oFmw1WC3T9NlV3l0QLUSiQOUw_gzXVPGvxFBQ2ET2eMD13npzRI3f-4ZUmLf9LJyeIeGYd7R_DuCfBJ7Wsr7h9iHgfZAX-_cYuy_GpSGNV1w=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Lion: Uma Jornada Para Casa",Lion: Uma Jornada Para Casa
+#EXTINF:0,Lion: Uma Jornada Para Casa
 https://lh3.googleusercontent.com/mK243jJUGccZqvuJo_BMCiwgLysj3QihcxrbZyThizbL43bzVHDWMNrK_GAPXyq8moToZhDd5t-6mR_MEMEpTHt4Xmf7eQSlc-L27wAveoPXzuvpmrrEvMPR9gMy7xplRMGQ62mo6bRR-9ElME3YaxHVx5ut2cTGYtCLOJoiOCiUQnE85MoXJ4DDCZo9cVZFkxZeJokcjGt7I1szVEE5izrUZYze06VyN7oIBIGlaeH1OTLBbPtGVNEukdAayZprENGJoz2HU7Jd15woqRgTF6o9d8D3mFRVJswJD8ErvTJgTMxoJ3ry7nf4pWiLoOx3oANjUsMY790vL-r85yRzM5z6UotcE7aWS-k5RS7Rs4Bs-7a4mzIDLH-3VML4HnGUFmCPIM0QdD03PTtmvUCmZE0fa6AgP9r66KMjaSR5eythiMMFrYNyXCELavo9OVNa0caFm1ptqNLD12eFWJpSuPVYlA3PvXp638UK00pyCAv7pJ5XYFxxzMDgnHVUs2rxhW7xMzo54vrxvW2CYqtj_RMEADjtHEnCNXYYBYK6VUy5oRc4fslUH82uIsp6vWbnq4sEf3w0qOZx_2czWWo-p3mZo8epqVzHL5BKzFAZChIwqfu-pORCdrHl6ZCD1qyK8dw1LZrRD-kmnO88qUih4-ykLRflswavYi5nwvFJTbM4Yw=m22
-
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_210_280/pictures/16/02/25/14/48/047345.jpg" group-title="Filmes | Aventura" pltv-subgroup="Oddball e os Pinguins",Oddball e os Pinguins
+#EXTINF:0,Oddball e os Pinguins
 https://lh3.googleusercontent.com/jfJM8JVKUiGRnlSnr0sSadsOuxWz2HztZlG4lRZGwHHDCXwduMmqEUgSvSjC4bI8e8nOBUfd00vm9TJ9S7_laJ3REiRWy_TIFk_oxOiVYBshHBXwIvqFkoGO22uxtCIKKIvN7s7evVxalCOxcpCVt4NW_HobqamDPgNX4NSUlsLdjL3ptbILizpzqUuwhqMh711Ll9ANvpyRKiDcQnxw2Cg7VIAx0NGUyNALJ8eLsiFinGOC-NgoGfBN4ZZJVrHv2m1BKegYc57BDGGYeR5isMRNzNOHXcY_RVbih4KK1Y02QXyaDCrNY-GWqOD5rGC5KCHi0sWbSaqes9jydX-rFVTL3Tf8BqoIcRwo0F3RjPczRT0SywiMGV0YYz1LkabywRFZqrLYCa3WxGk1VvIx-4ulOO9KGNV8Q0YEaNeVTAYiodQDu4m7eJnHt5IioYxxEc7si6Y8XmjzIpfvuEtz_DV75iqjkpcZXFlMKpKDsbtEaVVPgAroJ4Z1-k3J3xPfZbigHM62zFSb6YQha04Fr4IxO2TAFrsK1B7thyP8rAUAN7T3XTaF6n4SQ1cXTDyiI_iN58903mpEo7mYEv8ANtaLoDMymLsgSgfF9-DPpcDXg53SVM8-2sHP-V6_QnQdSrPg3k6CeXqiX0qyXVQ5p8JyWr0NzDGdhSGwQPaa5AWfPQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="O Filho Eterno",O Filho Eterno
+#EXTINF:0,O Filho Eterno
 https://lh3.googleusercontent.com/i1jg8rdtjqZmzk8_Uy3B1dEZR-lcDbwyKN4nug9Zj1o08feI_3HCoB8u2zf4QumT4luQUn1VyBF39FIbMMTbW8aqXoYuulHsHmki2yPgpIpevPx8yjt0GCtAfLH3G_PIUIcVF3jDdAyLK9-P-O8hdvJq72G2ZSstFy-Q5UUh77cfSE51ovGt0lQR55bCnaY17xtSu17XAXCzZLDF8Y4LQdz3OKQrhqBAy4Cg4dYiLH8MIzmUXdcPOSNOvX6V4F9DK6Px-uIQy8WFqBGrBlZsKzxNDy3Zyx7Xtuq8vvCpUd2MfZRZpFLzTyRoDA9w7RWbyUz3jrtiBmH-Ybvzs6E3pEWb1RAFwgIZH7KL69xnQrcNRsmVxiQ4jPAmkqsc_9BvyxMBXi2CUiLpIhyjEUeZzXMkkgZb5-Sx6YkhU1EEmw120mCKVn-uSD9KxxbV_DlJ_aZ6SJHXYtsCldcb7W-4GBzs6ZuUeacJKdp9yO_dgCK4VYdTJQKinN8ShYhQFoEnqLJOiuTzYjOyr7ZeDbLGGI5G5zZ94-eEaHxYIkw-X3zEto5U3v8fT-Y3KTaEg3olmTs1vAdLJ9NvXYLMCMK2biADqJ9pdTvSAoqOmn2JN8uRM0KiVeCUfD2sNUiZdPptXsm7r-OUC4-oo7AL7SpO4nmBY_cfXKe05c4ESKfJuo2CHg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="13 Minutos",13 Minutos
+#EXTINF:0,13 Minutos
 https://lh3.googleusercontent.com/PGwfvNQJpCe30AmAnvBw49XGu8QCXCR5M9WLHv-ofGlWkX97fpM7pozEugz0gx4o8JXDgFq1VXZA0rjzbnJ_a3Bo5S2YRh_FUVe3z4rujE2PbvzQ2GoZfonNC8uTQSEXAW2qBn8b0e51hbbiv0Smy_lGwfIYkX0xdYjvMOgeEmIGZxl72u31J7oTrqV8hWYa_XymPdud5p_lA7YF3g5YeC5WasV-yGJuPRL1HYqhzLDyCCB6HCff3pKgdXXPNUnxcu-8qadF0tcoO9G4j9_vWAidGl-Lw-MtkcAtbI1LbhGQKWqYlYxrkiEetnbDwt_onJjcGkTq81ofgDChqLnZ6q5WMTBqZo4jDPa2odAc79Z-g1Qjy6UktnjMxtv_ZwWqG6-rsWgllD3t6WShnQSjdV1ITOMnfd44_h_MVH0bsXcPbCQXRarjRZa0gvkS4Bj2a6QivyfvRBkLTrSNC68oxJHf2suVJC8NnSY3icRKm0IWxIj1RvBpcgTU_JEQzEUcSvYGDQtJw_AoXIzqcFQmb9TjeSGTSkMOPtUhtf5FopUhgPoifKh_GFkVzcuRvcSstCFbhKzssNjKnmWBpY9Vn_ep-ltWzNFxOJZ8Wxpv3HQMC6ZthqJJCjr2eotVvuGK93tvTGowg-h76XGzKCaPsqfd7T_vsusd3k2rN8p5uuy4PA=m22
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/Xs70KNb.jpg" group-title="Filmes | Animação / Infantis" pltv-subgroup="A Bailarina",A Bailarina 
+#EXTINF:0,A Bailarina 
 https://lh3.googleusercontent.com/esHWZTzfFBP9Hhzfgb4slcOCp51U81axbhus4QFsKy6SsHUxyn9X90ZLxWd4YbdBXDvCVefznxy2F1NL8KhgaJtM9VneucdW3_HETghm2w456OSAM31vom3jIzpwgYBdbQHKs1tNU-1uTluxp3y9wryHDPZ9fltoPqAbb1wFblnV6VXmKu6Hr6Sq1_paxQQNyxsZ3HbEgW9b9oQ4dwBZGG79n9jfO8yueAKz_xy54BgvqBsEBM9gDSw1L6MCzEBhhjDqmqLqJWuSbCRdQ_afm4Yg9ncD_kHagJdPS7Eaup7bL4OQ2kRrysxJJW3ZSr_cR78l8R_2Vgu7U2zlhRgwECcCTbuhYMptKm7arCiovKvCB-GbV1H4OUj9hoN-IqFSSmXwhlwg_1V6YDt5arfeKFlajmOZ3uX34Xn2UmJPBYW-8cvjRGzDxSKXF16iyttQSc3eDZ_x5Pry5egGl8ylxraZcrdInKT9puZPGF49p0MKef7WAKpKDZhRhRyfBHpRgJBInyIHEm1sOYjnp41HUHkPyQ-5tt2cuZwtnZ3ADQe6X-UtiVrSmF0A6DKkAqe8yXZHWItpbrX5zYZeyiUcJuQsTG1Vu3L8pUo-q8up_akB1dwuARIO8dbd-oM8FQ7DZzDRNoOcTBRPVSM20HXdPOThy-2erO8E-pmkJQlM0x7ksA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="300 - A Ascensão do Império",300 - A Ascensão do Império
+#EXTINF:0,300 - A Ascensão do Império
 https://lh3.googleusercontent.com/9ClnrOPFTW2bObxTbg7aoqZX3vKW5Ctb2n9kJMP6csTt4KbzT_B5AeYkBapXZjzK9FRPu3_LAfWTAv-ZBPNnmgpfTgjXlrxEmvjyfLk1YUXZvnxJq88EoDq7xOe6dPREJx3nTIOeHcoNKPQotYzmadcuDJ6zLqU68Ojk9b2UwkUqQxc2OnG2TPBoZ_XkfBBf_QQUpzkpryryPwr0bfG_4KeVKeCrLqHXUN9BaXR44T7SqRcRt9oRB-ceJsJEfkHU1X9ZI4SEfoNSRuADAK37WmLOjBIJ14Fy9Ask90048Kj2XdZJ46SqdKsiN9UIQQwgCbn16IU9O4RdgGVP2opl0lK_qXkzzCkHYDoXFAGAL1JnG3zbpP2JIOIxPxt9K5EX0dpORCzZFenGSpRRWoo3u_5JNkDV9BiXdeiB45ahdl9O2rmI43nHu4vjb6PRQQnzEl4s3KJ-ifOiqSvPzRG1eLcFiFgvH9BMXhMVolDj1YCjOS1QuT8ujbytnNmIU-rtV1vCZAlu7AuRrQAq8OZEejOL2A_iuylJ4EUn_DEUrGbZCY_jz2r7Ts-5GwfjH5DRWRkBh3ucivq-b73eK7c2DUfwLxnbDbfT6rwBLe8uksKV9FB32DkC4amXKbtutBSmRHlSe3c-jOgokzZGeUQzsWR9dad6qVOMFHKtSMg6Tsv7Bw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="8 Mile - Rua das Ilusões",8 Mile - Rua das Ilusões
+#EXTINF:0,8 Mile - Rua das Ilusões
 https://lh3.googleusercontent.com/NZGo_0zKTn48TaJt6xpeMVYQfSAmPDKQIBkLDh9MSg0MGXGcmvy383moAVz7kxkiuENWEG8dym6cTCTVHqJtV5P0R92xe-SJB2f-Vxcvn4JwGn8NwqSFKqTuUqU5PiqUm8Mv9FUbvnex4GY08AA176sSh3eTG24qBr2vSdIRH4q8f6i5tb8fq9NZ9YP0q_63RXNBbwtW8W4PewdezaEneKZpqNLWVq-1G4b5KayPmFr0e1O6GBMToSMzeSrzA7OgCr9TTcDxDB92WWe-424ueoPfJS2jlxb0Dh3A5qzVMPY870cExzXCgOrUBOkMUZB7fSqePdkmpnpehn7kqgF5txsVnscvN-mhBcFm9pWVjVi7hZUSYlYQcRXjif74FYJHJRQ9HoX4N8CYtQ7KS4Ho8z7p3hPXS6l-p_YGLV1pGB70sC0j4WR_qH0EEGY0gScfSLovNqONvfTwdZkk-BTTvkzY9_X474ZU1LzcA1VipPnkkMxUGo5y71tlqIQJhVe9iXm-kq7Y5dxPLHPd5hiDjK2w_wYQfKL-Dk4YlbxwAOHS6cEUt__9zigo5QrrUhX2CPvdaNd9ZDbl26qOH6sDuqE6_qyeWl4XSSyQSS3RRMOjxKpm-_hR0JkN86sfKlvBKsVaJJwqHFAjk8p2TFMCJ9-UXrcG1ZvnLgOoNf1MxI6b8g=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Arraste-me para o Inferno",Arraste-me para o Inferno 
+#EXTINF:0,Arraste-me para o Inferno 
 https://lh3.googleusercontent.com/BxuOl_qOcO68I1yXLbl6xTr3Jd_CwaqEZALfHqJ6hnP7afcP69tcjVAI8KLX_-C7bFFofP4TVa00Oi0o--gjFGN5zrCi1pzf2YIXrxyVJ2n-YAjD2a3iuYCZTr5eI1Cm-BJW2glmYczqqqiDpvav7e0jgabghoiVab5eHH6JZFJXa746RXW_U1sa7uatw8xYAve_arI5fvfSdc6-Ar-aNsR4MKeL37IJR8d9WynFRY0U4dRyTU5ohbyqi_Bzbkk3Ijt_jpV2IMDbj1uasG0sW2cya5NYWsYV65PifQY8Fr0TeoNdTj6O0P6nNBVMGAVs0-aGglh8lF1yN5fAmppXsTr5hhs7QnGhltQMX96Qxkn8WqNEvSOTqeIfNY4WJ7vNMJ1W6jE7VH8TBD45yF6KjS4rcghwD7ESsfGhmsmsPHwtY9Kx28zbP5PWNOKQLhUygBYMrAQm4e4YAooIU3ml6EjTsf1GQTzMLClj-kld9lyzgEePKyKsh_z09jJejq2TNhkc_Pq1rmvmNLOlgstgJ_Xekze9RsDQNpQnT9Jf34KgDMBO0igB98DiMgC1lv4rE6QLXTy4Yg_LoIQcaXvMOTidECwWjRBhQnpvwqcF1t3IDtaOl7Eb1RffJ8m7Mw9pVTfR3QqhSmss1hs59Qbkov0uWsRWWpGE29aZBgER-QQ2fw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Comédia" pltv-subgroup="Eu Fico Loko (2017)",Eu Fico Loko 2017
+#EXTINF:0,Eu Fico Loko 2017
 https://lh3.googleusercontent.com/9yBI6w3OxyQ6Wt10wvTqYXDcaLLYuw0KAfqc86Q7tsY-GD-w8u3GOotHKZ0NVJiumPFqjonuDLe4BBeB9BhDYJR_yQsF6fld01g5FvE6pRQc5zK7EJoE03EMATLEXYvNBibtjJgbGHyx0in-eriWa46U5ePDy_GR-X2oknTN6uEOBIYZIgEaeSSViEMHtZ97aitTaTovF32dsp4uzpHxJ51wBYLoi6vwZ_YXZBPW47T3Pw9tQ8sYO2dTBnWbx2RJMK_QGkYKf2Js94JarQ6W1lKd_n47RK4_hwDuakJIeYG2PMgvCx36eVIDITxD-wqyFtd1MKsNhlKrjz7uPtbGwf6ZHLIwmegRnnK9y89as29J02-t_ySxh7xbuOAR8kmWek9q32DHKAZAyZCeqIs15wjxt8fMqpRSVQOs0_Aa8-K7nmV3GKJ91Vrtv7k4bqVlwNKJ2KJSBBW8bR7dqdtKLtCeE1O3h0nEDlucln-X9T0LXts9MQO_2M3Vw0JLWDpX4asxE3o56wGcOeZG65p8kmtcvNYdmvc_S64CUGE1sGkaZqeJzSilEobNdKHxrC-nAa-PU1Z97f0ZOQBZmMledoMNOGpOzwbEiEGK64lJlFLMA_1XvTAsdljHQB3bPvbQocUVQzyE4MjOZbro0NzpzTtjnpfWf0mVLiW2g-jZ8SfVIg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="Spirit: O Corcel Imdomável",Spirit: O Corcel Imdomável
+#EXTINF:0,Spirit: O Corcel Imdomável
 https://lh3.googleusercontent.com/0SIwVTvpbfcenWcnVc0B4g5L0yWVnRTyya2vMrEFqJZNP9B8itTdzweqBYFAAaq55RYAu51-Q1BuQy8GOdKg_eXFn-2jCDNyyt-El_lKftjCJXrQhnZvtXc8oh9BroYpN4Kh4LG8usxc4x4920ex_kmlHwk9Q5K5KWiWfOH7wwIBKybiL8UeoUr011LijstJHJnjLXfPCyWnuuQprzR5vu5nM9CIJBifgSwscWkOIWKLEKDSjbOzKBob9Y2a5qe3CpzTEI1Gz-vF35E2kaCtN5XE2ybRkJs9uUZAXcd0zUmw8w81HtK-LKhbwx6IfWlSdH3q7E3ivP9Z8gUt0qmm2yRDcKNYwZnU1LX33HFohdmmA1kmR3qhG0vtjUCygsIIG-8LSwNJQzhbAp4Da7rV2VsPdPi_3vE8L-OKB8YNCALrBqyKbWiiQFhydc0OvgqBjQaydsVaZjx7F7VJfJZEZYUYacH2qj9vG15xFegqwSWyCDV7r8I3JwrqAqNgnASwJsjirA4DY9wtApjZuHuY4vs4L87jGEFpWg5Okp0-IRCogSeTjMU2lbrWL1I4s8p4wZ_xvq-y1XKNZG3nkEQ0xrC15HQln1SonV937HDr46rtALJDi4FOkZpWJ96AVHoCBZ0PfrDDOP580XlNI5zG5ogGVuu_keZ8L8SjRHBnZe7Kcw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="O Gato de Botas - Preso num conto épico",O Gato de Botas - Preso num conto épico
+#EXTINF:0,O Gato de Botas - Preso num conto épico
 https://lh3.googleusercontent.com/B49rMtfL5tX-mBBTKri9F9IfxYo4Jr36_wQ5Yitb8bxybgjx_hvVp8bImj9vYGWeCIdIM28I0eFjqpI8KYtrWudXXSi7v1-ojCe625Mzk78KUvqQfx7TgBsp_RJoqgWEZ5KY6HgfXXXODwSjI6IG_s0fxcY-cz6Mtfnqlx0be9EJd6gr8DPsyKfHFj3TUwOmHlvZzGP-zaiPORSs1hEXNGVHs1eXETSZ-RC1mqkimWSXSpJWiihFD6LjDS-cE9SepCk3aitvFeljmVfh6NfbwbraJnY54Z-gYHnlC0VinbIizX2XWX1JqKnQRPG21Ah-EE3YcYxiaYHaYNeGAgasFUSfqLxIUn31C0ukS0ZR25dlEV3QTkQlXPq1gtI0Qwlypb-VWHm9pu0QoRFXc2OdzioMhOJdXFXg1fbCZZ_5_gwc_HJFqgDDq8EOoLdw-iXxByAGdiGIin8wiW4pmrK3rqQvUy0DgmnoTVzPPEgdRBrclaOsSN6jE2kTveywbaBS-BsRxUdkRzKrrn8H3ibNhNNPnhzGx9a1W5d0VK1uUrjDwBwOaNbEnqxusk38kohtFgBcKDGPFXzffm2BU1uF2QyJ4rkn0zVH9snEByUg6uvL_ki-rhiV5GKgydeVPOyQBPdsZnym31B3jKlxoLkdqL9QkGou6EuD7jA42KF7NTdXHw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Romance" pltv-subgroup="Beleza Oculta",Beleza Oculta
+#EXTINF:0,Beleza Oculta
 https://lh3.googleusercontent.com/_AhX7B2VO7NNlQ6qyVXF3Z9m4W2K2G_ahGQ2lnCAob3gj76sWrWOodo9n7CdubQR80YzWhY3ireOWnHpEZckNzLWmcobtYRkxRc1Akq8c0gVNvn4YH_YURUGxSOezRuRk6WA9y_wWkebVPRYnZkhHEgOa_QYvS7N55sX2FEhsIGtQOO-x3bprs-JAPym39zTv0tqDrEiTAu2xLpbcH64vFzUjxlXY9E4tzHJA78sqsgt6l5SqVFGzuL7eMmzqz4nBCoQSstW2NIMGVaia2kbY9amMduD01JQA8q3iSA1I-XWCI_n48MLtFEGimB5Lslaawq-TUlrAK5lmP_XnCR1FPhCvH9Izukld_k-ro8ZeQ4KHOYdY1Q7tGtcF_XBrdtEIvtnbhZC_AB_zIWyFSykmf0KXPqd8k-5TJ8r2B2ioTVjqnCt-4WtMhKghal1pptrwvd6bg7Ts_nC-DSDy_yER2oKGByi_nCxpEdyyLllubvXZvEVm32gFxJmOj9__16oBQpHz1zOr3iw5ME1By0bzhImidL9VQgPz_wZ-raGvrQFjWiKOUQyAodHlfle9gv7j7R5iwbtZPsskx2daJjYNwl6UsY7miKzTj91OzAKakHrWiIlEzF77MagpX0RMlOgwttAsIeWksQW9dnh3Fvu2Qm2T_B_Bzjwr_peraMu49EhiA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Mãos Talentosas: A História de Ben Carson",Mãos Talentosas: A História de Ben Carson
+#EXTINF:0,Mãos Talentosas: A História de Ben Carson
 https://lh3.googleusercontent.com/fRVsDFgFlWcmLqNO-K2KFzLuUhZT4f8AM1WtddaQ09_D1NNsTccB9tYGk7EI4mqIls2k7cKGqsmI2Ja_REH85AmP8_NeenCtp8ApBMCDVgBefomp4EKoF2NYMPrVeF7hnH99z5LxzGOIMj9z5dqF2sjE9CSP0aQemWcJ42kBvjLgrYarSe88uRwkkUrh07vXB3RVnG58oU5u1Qhif7srmrWUhmHgz01PuH9Q3UedSMUtvUiotDduNONcyY3gA3yPzVoMqOe1M4Kh8t2Iun7euwslI6-r4zHvPfnQaJNcEkRqbBG5JWCocnhmPziCLt1ny7iFv4CsGyZa2RXkeXawtLDgFOHujCQuJJkHKPTEbhy89Lw3MIc0wFNjeTD0rQzJ68Khv-MkcE0-0wlpj_sG8tkGUJXROuUa1Om79i3d1rYh1IaJrjw7wpZahKr7IvO4X2JyRIIhpfyNLYjhhyNK7ZPisRwcrabOlJQNGe2X7R8r8hGjwRHjijyvTn-1t2ecZS921NUmWIJiVZ2x8sUYWT36LyBsiv0xJ3V3JnNWywZTdAqb9bVtUXEGlB_tObHpAajanpqYZKgWAXmOkzkhFBjHLuUgF1RmCbuu_YG37zDaGqmhW92TSgS8kzxUCIgibs0OMPXc8K23unwMEYYyrdkgE5_C_LMAAjIk4vCUE14z9Q=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="Diário de um Banana 2 - Rodrick é o Cara",Diário de um Banana 2 - Rodrick é o Cara
+#EXTINF:0,Diário de um Banana 2 - Rodrick é o Cara
 https://lh3.googleusercontent.com/jg4g4MYOdYNWVmQzBUOlps7tAtal85j_igX1BzbTYcdZRx5Fg_8TRG8WdoFJNVt4QUW8JX-96iczxgVYNpgUyz8BCk0oX_pt7qZCdxoz4OAG2mHYRh-rot02qRAq4NTOaGarg1buvgV5Zv2LakMC-WV-mPgJ10Rd6DrOJy4tn1SbtG7Vih09cRCMTG5XB-Jp3q9ZoAtpv8MhP-BZCGGoweXmm67JUZtY3sYnSjzkJZFRjZCC458bIGE9KEhZtBq2UBQ4LSjPBmqGrrX_aQpI8hpNQDe39S3fJPS0iXsSqbLZxVYU0-jCfW73ESi4V8FQxIoom5ijIOVM8r17CRnRem32s3eTTQUBE6JC1_dgtGJzwdXO-Lw3agW1AWKcvYlAkySCWhix-usAOsIx1Jt8IlB_KCq1euJQO-Mx-bPBJo3CrI_4GoelBvjgLuswgUNuYAZ7jSkdnK-saRhZ29UAV9Xn1AYGc5QqykMITrAIKSsNcZwkn4-WaoR80Nxe7GvwBvBe0TV2vTcbKFt_mKs_wp2hp_8LhElkpsMhTXjS_j8KQ7Da6x-E0g01aiIoPa_4Wd0ELA16BBYDpaFCprf2MA1-RtGv8vxSbpOJDVTMA35Wb6iGtAeZWOhbaiXDFxiI8T7XerYwSOKdcFCKUppeGCW5-JQleMW6cG5aVJvr5qDVvg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Estrelas Além do Tempo",Estrelas Além do Tempo
+#EXTINF:0,Estrelas Além do Tempo
 https://lh3.googleusercontent.com/NerKcLxR77zPSC6W1OY052GIO7maJZ8L-ftarHhZg66JZIoSOZhmkjIJ1yJv8f15CBanZXR_5J9qYs6AwgKGjhgobRQlMwalMoLfXyBh7yaZJLFG1HWSvQD34ODGRTOsWQBbELlO31PLDZ_ZDnOcddMS0rpoST0wpVs8n35TQsOjKnR4JsHN20kdpOMXSqNlPpKJbXrcvyqfD0mqWpV09VphgluTw7uU60cczZYZg7o7AjafvWtowWvUrW48p88-dNY24l_0jWdK4kPL1Au7zuQhzzL7R5gHqsB-i-bF2Bp6hS_k3rUQAdArAGv52IwGGAqhM7paL11kKUuwG_CV6XFgWtyjpW0-IFt5TaEE4Y20a4K8PBz7c1sDV9zJby_1rpbxn8aoOjH5R7J3lFsfcGQIQZXM9g5JyZRdaxa5nMxodnS65-mpQR9tPvw7eJInY1TPeXqFX_nq00r6Pu8tq7lvUia7ErIC5_P96PVmvTpHA5h4BVOBMq_s1Y11RFSz6sRcdWFnGx-eVBSeuWmcX9dh0gOPuFf5uCr_xRiGRrXdks088atsGK1SYJSdOTMCxSIoIgU79RD8k7GjPJkPLIIj35EZ_jzLnF_4AGUybvcqshf5trMYoPrjl_E9FWGDsf0Rc8Zw4su_DNM8cc6Yof4J8qsYu_kL2Ct8eJrvi1unQw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="Dragon Ball Z - A Batalha Dos Deuses",Dragon Ball Z - A Batalha Dos Deuses
+#EXTINF:0,Dragon Ball Z - A Batalha Dos Deuses
 https://lh3.googleusercontent.com/NLclAL6jfYIpV0sUOSYPcxLrvdX6YGJN4YlxXsH733ojkfBrw8csx3JAVgdYYxWpbdls0-6H0KKIZaeREgsyq25AyLxU4rVWViTl3jGzGc4KAsJ1U523gzquWu_bnOVTna9IShdL5EKdyt7eH3G0bejyxGe0NrHwKiOJtrTftrDI8IS_rcr4R7_8b5tihBcg2eUSFiNvff7lmjGCKY3IxrfyENl6HJyjF7cyGYU3T6f6LiRFEi56506CvL8sUymcrQn8o_B8mpPpDm28TGiQw3pIpY5cvOaCD5Y1AvlWtpf6YeiiblmzoUuLalcjyfkusPpYDBEsb8uV7qJWYsKjcEBZn8f9MvuJAkPyf6bn5vzdW-eaWx5n5uNN9FJ5KnRp3cYKoahPISb7dmtVYmkxvGCvqWIqLAe_HtcOJPOY4F5L2QypK6UrIJ-WYs4RQyrl7N0JzsOlQnVXxr4hzXqOjY0aZeqc9IIiH_7iJgXse-KAR5aBCBP4gTWAxLqcZzQ3xyg-ObP9TM1F8wbr5sc6JHHDKXH8IFPspeAarfEbew8g6FnznYwj_7nGUynm9bHo67-4vD3w5t-7cJSo8DQOEHnusLhGGt3FXwbxigpZmyqDRLGFx0F3oGhtERCWVXYNDcbC28sXM9Dv6MKUEXeaa5dg7v3csJ_yWK1YJ-3EutfXtw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Assassino a Preço Fixo",Assassino a Preço Fixo
+#EXTINF:0,Assassino a Preço Fixo
 https://lh3.googleusercontent.com/l9O4tk7usBHcrWoG0FYcuC0xhAJ-BgIT3KzupTbu_Dfh713oL5qEyuRWB_QJNZ9CmR_T1IcfhCKKIhPjoTDtFYfS25-7XTkpE2qObXwO1VXMhzX_bIlEe4pHXQMr9_hetnxLrZrKX2aywvhLpgqwm2GNThr4LaAGJKK-uWZRm3U_kbZRyRKS718T2C3vfZleInWP4pMMQrfSqMapb1amLPx8dp8W-1ZOM36d78_9Cl6joUZB0hKg31OiweoBn3ZPVO4gR7p3uEJGGqgfeeLJJwYb48XtljFcchlOgUT_mI753hq3EJJ-IaPt3aY0lVk9gAgb0mDKjRDLuO3YcO2O6OsCiPxPjakAh8wgeYrI_d1W6ZLXp4ZA7b20igHPMsmHAz3XmHYRw9Iv28WERagy42UalodVAwTq3sMjKP12TcwB9ZgPOhDMQxK0zUtIanLxsYNBbE7DmPlOd_ECzUKMwWLpK776laWA_yq_2fFp0U1mNkHbLU9RB1sgGckxaEDvaElxPn5yAqo3qa-41QNdqCZHS1CgY_6xEOWc-cvBp1txvYc5grcyV1SxgTQ1m-upue3r_bcXcUQfDA4xPz4b9w0hCi9Rn9JpuybGa_0p-vxrfpRz2E4fYzTnfSlWHul4MxU_-_3aakU3A_GoqRKLg3Yga1LIOdIdCKwmJY9E3wW2YQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Atividade Paranormal",Atividade Paranormal 
+#EXTINF:0,Atividade Paranormal 
 https://lh3.googleusercontent.com/5wP0cxbxzlPGiH8ZOLZzdRjBgQniClSr2K1NzWCWWTnJp92hAKP17XmOPaNruMiWHiLYa5H1cuqSwXE3Bl98ki5Jp1_BSJPEIXbCUV66jmEH2xymDp2BWEUNj8lVTK67qMPA3fDc5-ZjWHAvfQRB-zJn1BtG5ZqfL8up0C4nXJ-XNvBUrWFbgR-ELppK1b1mcJjZxIvbfRgcjbmuiGJWFFtbG2D672pJk1vX2-FCYZiti5nkzzIT26J2HFZUcILkQndJkMZMjXt4_AeeMsPc5t-D-UQ23Wgd9dLwP_62d0dKW2GNbC7gb3WEXHVZlzxyyEXrb2DN5C4gr2ueJzhor1zdTVgHeJ7fBhoKMDQy7admgjnpbZZVJ_XgaRNn-2i6AhvhuJETSvvATfQJACJ70kgUGDUuM_rocHliZly8JLMjCwAASaay4qxkaSBe31L56Ayf-agDJA4TJ4_WcrC0-l__8wyBvzc7u2IFZDAneaNCylflQIWLswbHREWa6TOI2qm3a9Os4zZppz-TwH3RmGUSLTYKt4zwdH21C3IvNdZQuJTcFoQfeJMqoomOuV-4PuQzKJYAUqARzy8DxlHt_iM08qV05jrmFwGD9u7hXfDltYuLITP1hzs9f0qyJptrg9eNXWQI_pkhEA6QmWJ8DN1iGc-8UDiEzLlR0ExGFg=m22
-
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/04/13/12/50/468162.jpg" group-title="Filmes | Comédia" pltv-subgroup="Colossal",Colossal
+#EXTINF:0,Colossal
 https://lh3.googleusercontent.com/RWqg8e0ELKx9Jt9mfWXBs9SyCdBwEq0T0SaVlZ81rhY3cyE1nE5JaCvHutyzrDta8sxcDXw1WVGMAbq_hlzaC64tw2aVc0jhgO0aEYdAfftjfD5RPXB6xxFYV08HiRDG67hLQC4MONRuBd5VE70cFn0933__8yhr20V0j_JSrGCrMt0Yev_TMK0pEDYxSvJb1J0eVVFDaSzXLbVQTR1dGmKvih2u5phY-yyOnaLVOd-RmjWjUFlxVzQPsdYLEHLnqhDTFIycE1Avj92G5tQWAg-QimZn5FkQudUGFwSm0osrlYkkICzzqDDBuNrMd8MJdxflqiG0tZlHEEvdLzMNpExh2JnVn9lcugxmVAJx3iBNHku71FhtEU9-QwWowvPwUq3NsenPfP9uOfNj8WC3gomvbEBi8waSnx91C7LTTEeyOJXAhmNEAQBdj_gxwUpeXj7sLoIhx74Of45TSpzAFLR-meTIafDgUfvfLnuCgPP80w5JFHhP0w2mNeH9bv_NW2iNf26xVz1SyXLRyp-LDk_rHvSJFwu8SCBz61ZnUE18DqvE80Uj1PK2nBRYZpAYFcP6kpcLyTX7Svr0sAnC1qjETF-rdnNC3y3coeQnVFqB-fJjOK7cyWWR51RzX8k3r0vfB0B9nZdZpS1w1yqMoZv19h1j0EmyLuKln0eOJA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Capitão América: O Primeiro Vingador",Capitão América: O Primeiro Vingador
+#EXTINF:0,Capitão América: O Primeiro Vingador
 https://lh3.googleusercontent.com/tGswvUWjGLiXNNUyigxqe66j2CPfc1udQsRXfmgWSVVOJS6lvPyXJ4kXqIbzEMrZ43fU_SdU_UGCng-lsV5TIxBQuxj09WACVHNzdTf9nTmYWCa45rtUELBEWhilgivrrAjPyU0os54stY8JEGbu7VIdxmB6ZzN0gVfGngF2e9S4cr9sJ7ShWfGzQAK0tD430iqyti70KcYpRvdchUceCmSaouAgd2REojRACeqFRZP5pcEF4i0ru-xNnxATIkwwsuPtWUK3poc71-dh511vs2GqwZWVZRf8ulzjC_YQarqtSrG5znUww-tZsiuX1a3uy-Ftz3152OwusUz2h5RiKCr87uLujZfQSyNVPzEDGEJ2HW-OC6R0BerjJr52DaPEjuP2SUpiP1t4v8MnW1YycRlNF12-y-6L4tUbAAEAN9rcR4DvR1Y_zFFYVIvFS1j2xqlcj4GSzHGwT1W_Ps8A04BErzUHc0De-ubxIjmhfRh8QirH0GsKGJsb8oKAPAPgVq9TXpn-M3U3le_3ItnC8tRLOdxiumQsQFrbDV627CtaTVFDfBiUTpwaYy-1cYM_65_ByU1qfmBd4pISJIau9sG_elhyx7d0I1Yy_FqcuPk96frwhwvLs23Hx2q7mlUVO59bsTzfvltDsoustWPW2ZiHOYCpkP5a4bQ573hHfw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Batman - O Cavaleiro das Trevas Ressurge",Batman - O Cavaleiro das Trevas Ressurge
+#EXTINF:0,Batman - O Cavaleiro das Trevas Ressurge
 https://lh3.googleusercontent.com/n_jFBwp16KAF_jxTcsfP5Cj9M29gsq77OtoYXBsEOXiHAe_057FFGutYRsUFxIQl9MpwRTAItgl4RfBYMMa9WJE45uE3MdyI2dKNeVTTXfXwy0j7dqGec9LbbAGLitBjr5Ly-iKFBT1LNt3uoaChGtXKs8u_oAO2PJbwL6naS3efX2TXGtdDif9_k8GUjTL1pyyxOduPvlogJes_DXYo9sDTRc3eewtfQgnwo_glf_lx53q0T4tR7_zqAXKCIWLe1JMag0T3MSlxaDykOG1Gz_xD9ykrHs7ntpahUJ1jZclFU-RRBlzB9TYnFNdao1-YcKAUC8JNVpgzYOTCJmp3o_qsdQgjjgIrY4GmyKuCT5rI9OBnDaknLk3-cNbGOiDB7H-JwQeHrM-8bNShb39Uda7PJYngpqco4VlJpAGUkcyn-hk59aet-_uLSE3IoGby1VuBqPSpujWvHVQEv38_OnzaUc36FLVYySjtRtR6Caj1L5LJgJPdC7Q_HdZ0JPbgza5gBdtD459U1z3ttyyLgnL5B5lhcFpaatd4a-1DfGK8ZMqSfWCXLo-2xDXj0FXVRBnqF8sYwvAtQCr2fFHeH2iRDdRTMkCWJQL1_9MajstLLhJ_Z8B8_xShm_Z9I3SlDGXuSp6d2Ki_8td6i9PAmi6oBEMGrfFpolvRWnNj-w=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Ouija - Origem do Mal",Ouija - Origem do Mal
+#EXTINF:0,Ouija - Origem do Mal
 https://lh3.googleusercontent.com/G1egFfZBZJJUxq8WGWWyRCgvQnJ7Q-xPX_2SPLgLi60b1xueki0xOFmARgYD51DvaVuljMiBAIA_N8uH7MAq_c5s292TIIzj1QxtUIpbKAayAgsklk70CwqHdnssx_DTkfery7xD0Wurx_GuygyZACAkwSzd4XQHnoJQ81xjyYo-CXDH4G5FeEdUBO15HoNZcQh-ZUDt1SISm3Khk7Dt2jWj0maKyJnVmuL6kHT8SYgJ7e5M2rupOhESzsLciTbTVGuSVgQ5tlxfuG05yJcAF6wmD4WKkZVM00C_2ITFntPqK5K-Dp5_uYSBSycoICDxlWuX2VgBCXglNtN4PWWgvDIh5udorBWC7na59qoPtEN5jZlmQS2SQ_dRJNAOGLT0z2ezgdd_szHjkG0VZzbxbU5r1O7Ui2DCrRckDqbQRFZtRbksT1IK8KTMgHebSBA7ZhWYaEnNw1NSlF802b_-W9BQIkII-oouU8ojg-9-PeZBwamJGic6xsCIUjdbX51EdqmncAq18oCc68gqWXApiRTqe4Uh9r4St_8LH0KYmsJWm9YCgFTGjzvYNT3OMP8LWVjpPkySkpe01VsdVD6HNkeEb4JhSa8oI8pT01QfkGoEUI_ov_irMuKrssNEZRzeSzXuJnNEn6sy8xxJ7xaDLQjx1-CyMcfJ2dwKbSH6uQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Fome de Poder 2017",Fome de Poder 2017
+#EXTINF:0,Fome de Poder 2017
 https://lh3.googleusercontent.com/9mSGdZBPRfRmUGIAygJd8ycZ3k6WIi9-MG8CepEc0IsoyVwyF142nblH6HnSGMe_Pmnh34ALk_2BymtV6-HVd-CUHOCYbx55t9KZmIIwh6xMhfMUqNn1VrvwDTQrFpUNav3KpAycTqITvkwwdy-pgTyHCOuPQMlZCg7Xr2MVQ8-VvreHfkw2jgfpCU6xApE8XAwiXva_LzjpiWs0BH7GPor_JnX38OXrzjFPPQ5KDTUXs86DSBwf0BHiOwUU5CHfNI-2-tmX_kvaNT3ogVRa0is9hq_8I4yhUj_RL6zlsgNlUxwzBlgP61-TjZlNW79xsYZUw216Jz3kn0Xg1jxzELX1ZNdc3Pb80QRqKnYWyiopoEOvcD2VF4H0BWx_WFyWLbHlxAMs8uN-rLMlt3QnBULtE7Oehx-p90TQio-tchMUVBLfDMidEUbf7NNaRjRGjOpJayjlMg0F3pRQ1-7ECuEPHQ_D_1sF_PccPG3diNVLZ0xXdd00w2kXoMgs8grzJ51PfrtqS2tH6UaVAJv64vsdgPqyJhMbqjpECm8HQcuMoJw-ymEnjQ7R0AxCEDb0jXRGdMRjPBLTqcIwahiMCCHkt0pigj_yoLQ9G90OpcS_z5P_3nCxrJ_Qac8jGvt5Ju3YCpgI1ISwYY4wciG9rPnqn3mu6tzqoo5NefZRgQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Triplo X",Triplo X
+#EXTINF:7084,Triplo X
 https://lh3.googleusercontent.com/MI4I2KCOI4QHk5YjYLn3_6ueYVk2HtlTdg_Ic09MmQL3KfzRZJTtPXVEhh7yrM4MBH8xQdUFN8o3tEqIh5Bu5rfosb7OAFBVfl0k5G-h2AvgJPWpRXAF5MdQcYgXKGgdVIXBgiCYN21z_RJSlbk2aMXepxsN2pJ5dRRqp7t_95KmlAWD-lgiyK184H0VM8254JWO9XQemWO-yELQAYegz2tvRSmVejxOuMMBriH2KkxmiRNksGd9IiFLGbswfzmmSj-WbF_PeNDxOh3Z6DlmaA-pQwMC3vTdnVRnuK9iy8G3kpiJJoISFzb_RxaBFJ8SjIGydzsguOacOVkAT8xWJ8uqesr4DC4PsGiKUlvnp_mJKVmC_dkhaUQFGxpIe-xVpvmrDC2a8J9tU73WKBsoXUH7aCz21g1a-P6z7TKvMU2fEbxxwXzEmnXlt4ZT9N25CVuQniPNTEbtFzDeaja-JUU4g54-DLkhmX168hE_Jo4Kl8dN1Wgyaj1bjIG35tgIkMnkyUA7MbcOcjP-LdpBc9ngOeTxzDB3DVWlEDtFOdWCnZMKDgeujTFOWg8TYZMiQkP6XGH5DIqW4tnUSP1DBc3BefNK0BW-g-9WnKhKCfQprelEfjZl8mfBiWSdhRsn4ztBJj9BBZOS_9wufTvnfBTwkUKayAaEwfmGO2YiNw=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="O Espaço Entre Nós",O Espaço Entre Nós
+#EXTINF:0,O Espaço Entre Nós
 https://lh3.googleusercontent.com/uNMlEJiW8h2KDRmRMmkwKKX2Wn3HIebmBN15XrAH7N0q0O8zuHwIuckE3ejUfiy8TyCnFR0ATNxqm9Ql2iYPz1tU_5B0XE0rtRRyLZk_Hr2NBZ9CLVOHS13rfPMzBEb4_5r7xC9KYkXRKxkMjfgtQutW2Sbo7NIRH1plOwoot24XFNk2d4IyHE78b-jKBDTqLoyLJLJPPr0Uk7lYKvg4M4x7uwJptqAnON6bYg_t8irIH7QlH0SgNXsceJXpEd_1R5XUmxaHPDnxz2QyB2723EEZLVjsH3nwZuVeEmMB5ssNa2NfsYVipSPTlZUB-kyVgptMl1Guend7c0qgydBXY8mMdCV3vZUvV8ik8DPoexWffq1rw1kYxgUZs442RZObYPfpu7iu7UWCbE2YycC9p4cHsYXr_cd85TV7F2Bf1gpIOAjVHLo8y2gpJg_5UL64k8Gsvt4njETbbjy0nd0T3Rp_W6PD3dNS7-pe5KcWGGLCNCceuJ9VGVMmKZmpU8Ky0FYgMDHCrJj7ZhKtNqiy0Fhrnx83iYFElrBUAqbM-znSTKpwd1UeY_J3r51RRk9ASfVntTmAM-HjNXwqQHvOLG6JboxMnb2gs3Ag9HW4tm0GaT9cv1cN5mnIKqIv7Bbv4Zkd3LS0HPwQqq72TQyubGwzuw4DhQljSz5txIhKdQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Suspense" pltv-subgroup="Anjos e Demônios",Anjos e Demônios
+#EXTINF:0,Anjos e Demônios
 https://lh3.googleusercontent.com/0xai3WEvx-2U5rqPoGbsB96JxKxAPkFRoCZ3A2iyRHNaJaOU2rzEkzmV3FV6kqZGRFQb2gjY6_S9TeGHqe1vBjK27uk1BDnyg1JU2E7brdkkGnIyDykkm3uqryul78_zltO3sQXL9n9W8vCJcXF-sUsvh6P889zEBn0JMivlhCPwIAnegQ_xlSqmWScnuLvr9RyAC3DZQd72BD43AwNxt8k3X47vAXuqNu-WpX7dp5xjmoAZ4T2C_D19zQcssi6ta8cX9vjyl-TXQjvil-IRY5bJlmMTjTFgZX0UwqU1lq6CblXcXqJI3lkIsmnucJr9_VCApLrTeNmdewhpcrYVt1K-WUVSanRKIL7Q0AkkRQCV3Qo4VkILr2bzfGL4b_QIRJ79tWc50cLDWbCNev5pvDT_zqxqF-zPbqJweQaFOk5Qdz0oBDXKYl3GaGmcmNxUBh_yCHUN122wgZxoN1KpvIhaid6X7J-8jRUBbtYkwjRtgUPkvcOAztbkjjx6NvYBGzqPTpN5X_SRt6BAaDECXWyt_1uWWA15b25z-z-9l8bmSHWkUtaBPlDVD1cMvON6AdHWyd9-mdhBCSZBaS9qdFk7C7kXbijWMGmU_3Ns0U5ei3dfyySzJxGtG_wRPwp4XeaMiFpyZrq3Yn_lUiXnt_7LFXbCp5CZboMUASrX8Q=m22
-
-#EXTINF:0 tvg-logo="https://media.fstatic.com/Owa1ffjWGMjPNoPo5jMz5Vk78l8=/fit-in/290x478/smart/media/movies/covers/2017/04/660x440-documentales-devils_bible_a.jpg" group-title="Filmes | Documentário" pltv-subgroup="A Biblia do Diabo",A Biblia do Diabo
+#EXTINF:0,A Biblia do Diabo
 https://lh3.googleusercontent.com/KAayyj3CQdwR1pvY-ffeK7is2jfk1n85eubCFSklit9CvScfN3LDgEiU3A4dpkzA1cg8bQiKeEdJ0zJkS69011r2uJALKl3LNwYVpifeB7PisME1M6FWdDxXY2GMqy_Gl41oC7cAn23XwiwYjCZ8fM208jetkNecMQeLvIJVE9vXVgoxjB3QU4dD9TBIB7dJoqzfionC_Pvd_QMbtCV16BnrVUjeszVjSLcmOJ5h2ZTKt-tUQ3EeyZKZ3Hi-DLYSsXbElxO3j_EnBsjBNOFxw9yRNupCDRpxUX3nR2nz9prEF0DVxtM1e4Ny9NBMFXE9Z80nsmPQinZhxOE-blZzusZneN18p-xX_zWFHwOt68W7PuKOx0amtqSDGyCJL-bQpQUa3KdthuSkbsxzS0opv65M8hTwkTqZCuspla65alTtfymCpIdX0GYBnj1t1LNJmJeoYqZOid98AEak2wgujWaJQnShqC4szxevArHqPoGm2ile8amJqIEkMcJqJRNXXTi06mW0l6zPMcMTAydYyrvYmKprOfBcPvVmfMcgk-3gttOT9igZDbYl_M7xcCV6Sjo2UFDH0IJtCPARJrYv6SEZOTvs-WXNuhdViSqziy_1rQDGli2iJgLPbNL-ZgCHl6UziA7k-bnXsD5fbgGoUR_WkW6ZTR8FrtFEogb6xA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Invasores",Invasores
+#EXTINF:0,Invasores
 https://lh3.googleusercontent.com/fLUVJat106JyzM7dQPVsfx_ycE6veJvU9RU08-4YTbVWZZNX9DJ2NoqSYeAFTrQ43YEf4cwrzfS3qg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Encurralados",Encurralados
+#EXTINF:0,Encurralados
 https://lh3.googleusercontent.com/h64MNd0L4SPlv6O3PlBvKvG933s1JmdGLOjrife9hksdesbEJff7sCUBLJuOko8F1qMHUt55xbbaOg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Suspense" pltv-subgroup="A Sacada",A Sacada
+#EXTINF:0,A Sacada
 https://lh3.googleusercontent.com/6WsXgQ28eeWNlyeWD01IUUuBc8ANKAuS4QpcRMDL_OA9xNHZLECPEMRRRumRsQeaZsaoSJhUg3YycQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Código de Honra",Código de Honra
+#EXTINF:0,Código de Honra
 https://lh3.googleusercontent.com/2_d6q8Zt2WDxicaaCiRIPQbFWi71jAyG35yPlC6btTaDwd8SS1ZctiVB8YMIITHwRGfr7FXnZILbQA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="American Poltergeist",American Poltergeist
+#EXTINF:0,American Poltergeist
 https://lh3.googleusercontent.com/j2RRpsNFHTaVPiSUgyMmyFEucWE8QvIcqH6URhWvjhEAv3qXODgmYTf4gcLfA5MHJu4otETRPBWzXg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="A Juventude",A Juventude
+#EXTINF:0,A Juventude
 https://lh3.googleusercontent.com/Ax1UgVQKRSRJOxwLD0nQ2jcfSm8OrXixQduy_y-ktAcMjFQbRhq9Uq-Jq4SlzwtjoGE0fQYfimWXMA=m22
-
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/11/13/14/46/341047.jpg" group-title="Filmes | Comédia" pltv-subgroup="A Grande Aposta",A Grande Aposta
+#EXTINF:0,A Grande Aposta
 https://lh3.googleusercontent.com/x9hAxV9u9AnRaB-jOK6S4isB3QFwMyn4bw7O9UDNCp3TuHtHbhwVDXdb0ak98YllBTYVvDlxIPY8aA=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Diablo",Diablo
+#EXTINF:0,Diablo
 https://lh3.googleusercontent.com/QCal_oFmNkCbGOG9_AY8yt78qtFPpxTVHhaKkUuHymfB4BrMxCmvXfJSsdNvt7SIhHV9zDeK8-5N2g=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Perseguição na Floresta",Perseguição na Floresta
+#EXTINF:0,Perseguição na Floresta
 https://lh3.googleusercontent.com/0eNKgDoEptynm4-fBrOxd3-xUjbQPH4pMzMFt_-2JcDBcdhWP8c-ig17vv6HnVPVtqzeSazR58kIVg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Cherry Tree",Cherry Tree
+#EXTINF:0,Cherry Tree
 https://lh3.googleusercontent.com/AgO1BtNMwzfmkttfL4hOwfWqKr-As8fW-eH2IyOzi8hl-lkUfhWWnoUDTpsluctSlBP5p-dTsPkWYw=m22
-
-#EXTINF:0 tvg-logo="http://www.megatorrentshd.com/wp-content/uploads/2016/11/capa-criminosos-e-anjos.png" group-title="Filmes | Faroeste" pltv-subgroup="Criminosos e Anjos",Criminosos e Anjos
+#EXTINF:0,Criminosos e Anjos
 https://lh3.googleusercontent.com/3u7XWxnPbRK4BlTnNLBvonsk49-ynwUrwGV39g-v4-Hfrxqv8vSQL4dbBbGRldNSL1MGwy_AfDvymQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Fúria Cannabis",Fúria Cannabis
+#EXTINF:0,Fúria Cannabis
 https://lh3.googleusercontent.com/QNkckupIGes3cRmmqaaMY0m2cKmgNh_5325gimKXq58ZCxzc59GkxqbU6wDcTbHAyOD9kAnvG8wCPg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="Floresta Maldita",Floresta Maldita
+#EXTINF:0,Floresta Maldita
 https://lh3.googleusercontent.com/l-WBLY2LAB63DxSMTKxEUj5evg--RJaNJdR8dQVRYPQYo6Mu3kBoCSTsVYgnNIMWg7Bml9Wn1Wn-Xg=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Suspense" pltv-subgroup="Grito de Pânico",Grito de Pânico
+#EXTINF:0,Grito de Pânico
 https://lh3.googleusercontent.com/5pYcI-OFysW6z9pwSADcvOLjZSAlmIw85CdzXx8Z8FYpfS8B2sJjC03br6GwnxgDGKZVoCdf4oLS_Q=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Herança de Sangue",Herança de Sangue
+#EXTINF:0,Herança de Sangue
 https://lh3.googleusercontent.com/MKPlyHT4wgmrNSsXDZQfdhabBjMyrLxafzcO4wejDKoR5hnePbxBY9EHU57u1W645QeRrExdEvl14A=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Terror" pltv-subgroup="v",American Poltergeist 2016
+#EXTINF:6188,American Poltergeist 2016
 https://lh3.googleusercontent.com/bojn8V71IUtWdselbOO3ldZ0Erf2o2o3PaeWo62SPmAhH_DnJFzQ_0XWyrRwjqv7A-1ZLGbrFMuG9Q=m22
-
-#EXTINF:0 tvg-logo="http://megafilmes.org/wp-content/uploads/2016/09/Parceiros-de-Jogo.png" group-title="Filmes | Suspense" pltv-subgroup="Parceiros de Jogo",Parceiros de Jogo
+#EXTINF:0,Parceiros de Jogo
 https://lh3.googleusercontent.com/z24aZIWXkXnLH1ExvvVhHI1Apg5cGXtiFeHyvhZz5Y2M0Me6XT5L31A-pdEEqWG5c5IEiijxYNU=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Uma Noite Real", Uma Noite Real
+#EXTINF:0, Uma Noite Real
 https://lh3.googleusercontent.com/vUnvYLhYeuc6Pu8xn2c_vb-a0hnk-SmghqYpTqDgQf7mmZWbrehDK0UMThq_l6uugje3mX-hI74=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Suspense" pltv-subgroup="O Tratamento", O Tratamento - 2016
+#EXTINF:373, O Tratamento - 2016
 https://lh3.googleusercontent.com/j6wuDWgZsOAH22tPGFZz6LO1yIe8xumtqWDQ1p_SzLju-yEWNiVuFEbd7Wdkqh_4dcEgVkknNhU=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Um Novo Desafio para Callan e sua Equipe ", Um Novo Desafio para Callan e sua Equipe 
+#EXTINF:0, Um Novo Desafio para Callan e sua Equipe 
 https://lh3.googleusercontent.com/DmA0kDy4ys4zW7Xg5XC2UgKI3_SKsqdOrTmf0JFFRDhDwq7s3scFVudKkW_xtrm_mOTErC6GLiudkw=m22
-
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Siege_of_Jadotville_Netflix_poster.jpg" group-title="Filmes | Drama" pltv-subgroup="Jadotville",Jadotville
+#EXTINF:6469,Jadotville
 https://lh3.googleusercontent.com/ZIVYTeThiNWx1VCRNoKBnnqgUz5DX2rVxpRfZiQzfaPCm1jE4rgSF5-h-wI1IslKTrt98NA2BiQ=m22
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="Hércules (1997)",Hércules (1997)
+#EXTINF:5592,Hércules (1997)
 https://lh3.googleusercontent.com/JYGQuADooP9O9-fmnEz3o8tojxLmeQXPrSJ7i578ckBhznK3HuP94nMApdcvE4BWfDaYzcE2zHmBgUeK-ytri0Fh8MxecJ3XMvNZsUtLnDZqFeVdPGBcH5-G5KLyjp5LlSs0VbqNXRYtkPvtnIyKR8MOgDS7ji9qdJcpdGhnZ7n0pnH2xNOlWqmJzsIj95kt0lczByd07R3rQeypiI-slOVXq4rJZTcst4sA0NEa5buWejRT_Y8jTUrAPFynF7z1nxWiMbgdO5Y_T4joT8NQum7MD6Bv7BHSlOTBXf9PBqUQc5yw-MJYBIZBFP8xQ_jplnP3hWPETjcGWFlP4X3wky0-SV1NjjeKnI_8owXp2L5tf3U8anLXO1UbUAcG3MnDE_1wvsPFBhX21zsfJzYSupoJenkQuGbdH8wrd5vtQieNEkvKaV2JPh4MdqUB_faF6YIAfChbawtwufduLxC4cpsT5ccLQ4YVAny74A6AcPP7085NrKje8_gOBXdG-dqnRJm7qPMBYkWIXqd64iaJs32i-o_zt2Zmed4ntzuJWQWTrwHq01jbXBteXt81pdvwgZPtU9CrPdeXWblrKhk86tjrjNx1kUSAskwHP_AqDf1ERMslyL1nmbZsob3HjFHaImr8fSWitdjWyyP0Pcn8bxxL3HKe9rp1K_bQf9AC5WFcSQ=m18
-
-#EXTINF:0 tvg-logo="http://www.filmesgospel.com/images/conteudo/med/130.jpg" group-title="Filmes | Drama" pltv-subgroup="Corajosos",Corajosos
+#EXTINF:7760,Corajosos
 https://lh3.googleusercontent.com/ndaED76er2dVScy__9Lp3fovgtEQp76EiF8OdoPcPkqIu_Ydr6NFO22-3CWnErfeXf_Y7tmg5tpu-ykNCtz1dhzEz_yINPPtknL-7Cd33ppRNfGaObcCGFi998CcDlldf1W34DKmWrATHJr17SkAXcsgj-5pVSUH1t4-bW4S3iDrRxdAIcD88yumsdF98QmezMBMxUImiIuIq7ZGRhlYcYde4FMAzIBxfX2Rzi_o05flNqm3F0vKi6w-rHAUK8YrjLOGyHGGvmCoai_mCc3ziSmExz0KshuiU5yXWE8L28VwYi1Gsbbotb0yaJy_GbQiZG1Ydckp608HeAbkaX07NzhNhJcS94sCnykRnPW8K6IqvOBh5cmA6Z670K5VIxmzw6x5Y_AOrJ8Psl4-nd0G7LveuepFSERZH78Zld99vuWboy29e7IKsLpXBS9EIJMy5lvp6cx2xFCYi-dFAgahXQhkMr9M_KkQnCxagMg3EzYfN-W23AxXMMXSUGVPKiZoZc6_bV0hWv_GJMCfboH9COQzXgFltJVvq7yy-3OfP1EZs_adBf5okxqkHBXgr4a3Tjf1XlIBR9SB8wfP2XhDrC6XMbtZ_rIONhhN6mo6PPTvm-tz5d8u1W2-_qNn8FBC1jk_uN6xtNVwvmJUgvR4Zhlf3NGyWj5RyUg4hSLAcet_lQ=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Animação / Infantis" pltv-subgroup="O Pequeno Principe",O Pequeno Principe
+#EXTINF:5458,O Pequeno Principe
 https://lh3.googleusercontent.com/xx50HeIwowRkcD8s7QbeuIWy5M-VCtxUr4jsMjefIZyZEDDUjgZoOglOT_Vkz-rnpGOUeQGHj3BfGQ2WCM-rCOSjijgH0FPrw1QlY_R1_-z1dpoFVISzGskhQAkvM0OoaP2Glv2_Z5f6SaYZNEEtr4-ove0L7_55EbtHMOAm81Ucmm2YcalFI-UQaVmQlmD8k2bcGPX2AsOdGr-kVD-vAYTE9No2ZL9VUOwLq3LPnHGHakIyVc_uEs0RW0WYp2eKiSmWzicCy0eP3UK3LBbQEIHhnXj95g5BeNvE_QPT8EGx-6O_WqYag_lbYM_whaKsYNNDB0qPpFV5UHd7XnRZZpe5AEBuq52cEEka4FoPJtiFhRzxKpWJAhdT997rsNS2P5qitjFFvBVM9dPO625BblFs8E0rW6Z53QsWE6iihEeLEvx-hW2059sII8-P9pUVX2lJul-bTXJhA-DXa1suaM8nYWmLM7f4O5s9KXmsIYwRUUFBlrioNyMuVdGOM6wY4VRYT5_ljlclPK4haYSsPCsIX-wED-Pbj3UfJb5osGNy_anmSlh5tAZ6LHaRFt5Xqw6oDhuaHlDDiVW1pdhfL0kOhzr8cXuuhIKcD5Fm8mIYNM8_UwLKGtAZjVoseIgE3P8ecVJZ2DiLi0b2tYCjdru_E0dFrD7cYcHzVHSVDMZFwQ=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="A Cabana",A Cabana - Legendado
+#EXTINF:7954,A Cabana - Legendado
 https://lh3.googleusercontent.com/AWASQo1Qf3ilaUmzO0p93PQumm5jTBKEq9QnSdiedEFVSsBKjBzIiFMSzJM506ewZCKzkh-Xb3peAjadSiRCYUIP-CUargbtdeQviUA20kzBGKkzdvNMGPDeiotjIkPUOFv0Gt0a_FrhFbN-JmLfd1f-dexkH4Q2uZrEde8KDeeh67tHSMWpR7IJTDQ0507V8GXNyMFu884o0N7ftSup50umxkfSltSvLdGLKPQkaTIRrcbyDi91ReewGIE7261WhO7Nvb7gnEOSvbsD0VrBrZF1ajXbJMndoiPBonF9cog8sOa3nkO2MTb9hKPAmCvOlinbgBV8J8c0nqivCEVH_A9flmKaTflR647FF9JrWQwECGmP3v-7HsDibHnpfPZWhXs9ZlhRn9Rvx_4Z_JMG9Q2A1yGhULSdpXuFZToEdbdBZLe-9doe_vRDII3AIZNS6BHCH6sXLCHwm6OnE59xPr1Ykp5LSqKXteAuZyUF0tagQ_Fjg9r7E9HmQZ3lGSlC88wnu__TKdAiAi-DTv6D9vH-zCQQ3g6SBEoyX5PKg8Zdjo2FdlxYEd-aUai_Va-aEmZDRPwroKlDAaWT_5Hr2Q_IrXwgQHL_dsGEvVnEpHybLleSASnxc_xDQyIN8hW9EhphGl2q5IQXhbIKb42i4NDZQRkjXRCQgEVXWTvOPqQidg=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Documentário" pltv-subgroup="VIDA DE VAQUEIRO",VIDA DE VAQUEIRO
+#EXTINF:1156,VIDA DE VAQUEIRO
 https://lh3.googleusercontent.com/Noc_i_dfridau5vS0Erkwk3TboG17BdZ_5EyRS2u32aAgY3yLYMf27m2jgKWfVduDg8do6f2kD6-cjfRqnb9k1n9rReKmiqaYtKRVh5WNkbeaXo9CoQ8akGiGEMtn90RL5g21rgzyQ06jSh9fWoPOEnvWlxlKNmF_VQJSMqIdVy_qmz0ym-mz5DhkhpIcTLiermW1u2T4cl-bNPtIQhVHHgmt-F4s6RYiUWKybrF5aDXsWXoqGa_6Ffx4NZzFohfFSeIjuCnVW7MEg8zypz1LSONwj0bifXcFgx0cWaQwF6WfnKwC_1BFznYoZk6U8ydBHD8e5UObhx92FTDhXIgcJrVpJqMzX3Ry7J_r-crPW17fUg6vAv0e-NajC258hfAHA7YAR2wYXdP7FHiIOrnDeYo1cJvs20kPlF7tBM31ScyXelyAIHbfPiQn48kPi0fvHp4t7PI9cHqqOeAziYiU5U_uyYr9HXNMT7E2VTNBwEqPtqEJsEj5WyX4gnjEh39U7XlCxzak2QMsoIE_qCoLMZjCMQtw2JQYTvwHlLecV-7A4la4uMbMdZo9tYDCOas3JxZIZpxxP1DpepJoeM3Jt7sB7z9tSohGJysPWXm4PB7q45Dz4zPp2sKXKkHw-56_gVmkfJ0sLgoVJwXVmFwCUQ1MasgnmB2DoGd9HoXW5mhBw=m18
-
-#EXTINF:0 tvg-logo="https://img.travessa.com.br/livro/BA/11/11c132ac-b9b7-47c4-b75f-f4e8182efb74.jpg" group-title="Filmes | Ficção" pltv-subgroup="Maze Runner - Prova de Fogo",Maze Runner - Prova de Fogo
+#EXTINF:7902,Maze Runner - Prova de Fogo
 https://lh3.googleusercontent.com/0MmG8RfIarS2CWn1G2tqdfItGzmmnBJbDsUjjCu-S1yF-A5numuB4IPk7lOYFOxsV5iSzLMLcrlMi0cW4im1hQvqsSPFVlMmLvJ_YuVqKSJ7WK-fYkBQIJ4MMHok1gf5UkScwcejBeI8hDyC4FmnFZ6C2XrVXex5vt0sQOm4X5pswCdKBIFlPvVwa3-KCl4re1KxpaZZKzOiQMg5iKG07111YzSLFlr3wnOOgs9mcEVk56wuVNLipzUlIQetoLDlv1P_KLyqq_IgR0Zkysi-6TjjC34GqerDUkPnxLcBEmS8JDxqnI3bRS0pprnM5CBT3FT5sx0g4VONrexVz4dLvA3ewS4i1EMXeJSawmn2S50-3vWut1A0j3bH4Dd7PRwoBLEH-LCxyO6ct3rsV1y-ti3ADPXypssgnutLp9sznhWSdoWiMBJTnTTUugMwQKbT0wobG1BtrIqS_tK7Y8vpcT9v2859CsYQPrrQSRvKb82nwoeItJaQrsmfxkFMGzlesiPAjuyoHjUbnB1ZHFkpIE4ef8Sra545cDvtSF3Jo9pwage7a76P3PzZWBGsU7JuqXV2TL5rgpgqTi5bFqZO15wDqiQqjNYlSCVkxWA_GAD7SPfjiDjpfGr_l_M3afCA-FWvDIfxxR7zT1fC1nSg_t7xJCw5OdaCVRum-ShfsUPNGQ=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="Sully - O Herói do Rio Hudson",Sully - O Herói do Rio Hudson
+#EXTINF:5750,Sully - O Herói do Rio Hudson
 https://lh3.googleusercontent.com/k2LYRNpjAMUn19IxJSOfgc_T41yNt7iEdxD8hL1VrcRZXJTH0xT35Rwse39HB9HmXv0qDNJ9YbQhTlBGPIue139UuWsmeozEu1kYyxHKxVaefI3QJ1q54AT3uNQB_8eaBvKPlyqfhqWdgOskFfy1JCQGF-sd6yW15EsP6D4GdLv9iyFRsIlxXKXTGHLHVUKRqVYQjRi4T5Ehv9QmxCFImvdo9X_DkLrFF2_i-M0EJlsv5BRT9AAMpTho_pUevIpbpETSS9qGGwg7n4detkN__qdrT6sLe5wpP4DcRG07mltZ16ADQteCrC9114ZdNJ6HCDb1JxVylsj3GpyNyyiGuzT8AKvN5JuFNmH-cmqlhUEIvx9Nd6JiqEFWkIs8n7tKujiZGgFClIKWzbeMnDf6MHYqmAHXtSwbAeIp4G4ro_4V6Vss7_c1F5oprGlxc8Tgku1-DeifhpcDB2IhPnh877tR_0rdZDNBe3QMxvRPgBFttzPnHpzoB7v7k9g7kIzs66Kr1AR_rLAAAhKTacBRvrhwa1GCSBccjIPSFNA0R6vUaj1XBv20o4_PdYr0eZ8-tz4yS0sZ9L4v08dpEIKbZL1YRqvOBkkx1Qw978oPcDInXXJMYqLsSXcXuHCWLskBGrln_GoZGbx_8jYY36f6MPvP7kPHCDfohOWJGVOaPEwp4w=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Drama" pltv-subgroup="O Menino do Pijama Listrado",O Menino do Pijama Listrado
+#EXTINF:5668,O Menino do Pijama Listrado
 https://lh3.googleusercontent.com/rAdVaALDa1qFm9Br93x62q7G9PEGMn-SowAoWRGQwAdIOhUTR560O1uPMIdO8xh9KdJBZpcKVzqvnkoPAf1szLlnKDS6B9epT-lzPpCskIAx-TAxgrPRoHn1Ehd3kZG7Wb-kEH2h9TCyDaWV8kA2ShfGYWLUCh2EHTx1t5mKSXDfKMoU2AFRnMycfXzjnjsDqXfk_rYjgkDoGUm7LYCEj7LxwnFo0QKTdyjm7s1j0ImtvsW7BT705qEuUHQrReD1lr9E--UU3lUhlSi1HWRf2mYQr89XW27Cj93AycArzdvGGlI-CUje55lDxU808S-itfr2wf7Be8UhC4YjXGSUBGHIbp1j8VWZSK_Jz39rHBibjdd5ZTDe7BXVb1-ZJn5eREDaf8axQDNPAvRq9RUJZIw-lTFEBrStbqn9jGX-sr3ADOUmNE5n7rMFgAOnbPITTCaWy0QcJC9mSahIbyLTEIfskg-faZUvdD7ya-TO4zUVD6l8S9IWKf1bd68i-Ryeed2X5wBXABd9myl9KbLEAyHurUf6MB3EbXWwz9aTYyvyJZ_5fRfb4MrzaEJwc2wxEs1Rwr9AeOFhZVDbX_SZce-K-pKjXFpj-td1O160g_-isLRfTwTQpAPb2DAubHpmOVWVN2rgA9tTQ54EPlxKSGqlxwp1qbEaYY78RZhDa-vCxg=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Ação" pltv-subgroup="Jackass - Cara de Pau",Jackass - Cara de Pau
+#EXTINF:5101,Jackass - Cara de Pau
 https://lh3.googleusercontent.com/T_qWXveojvyEFbcfL3UswH8LjzL8dd0-2IEqnSyk_JZVQhJmlmmicXVK5jK-QA_pCOpzEtQ80bJx_-5JLYS-nBWUiGJk7-RWkyYnXcbCyNCQ09XE45RkDeiRMOMGpRrKPdS38l9SUCSFo9YmLzJ2xC1c6qiZaXtvKSa7EcYTaJQ5YzpnP7iky9Vn53YW8pvGBZLAeBLXOxQAMYi5qbGVIDKEBFuQ1t5NGyVNMKN_vBPCNeFoqgh68TX2Hbp5DIa5ZbfFphtdb19_2B3i0wroZLYiCry_IhPrKuW4QeBOkHU4Sk9wYztuhzjT4HbopHpr6Oab34hFt7RH0JC6V0UE7k0zCL0n0NgQTLxawgZ6DJekMGn3uihN94BBQ47kZNMRGoOvuIr3niGczvMC1Vq5gwOBJr8GZ-8SOGDwLQSIFVekTOebHOc-9jlCX_d3Gnm64d6iyTB6noMw2Bmvw_9HmgQa6BOwq2Z8hhefq_39WwDlXOTYEgNbxbx5WBKbSOi-VCpuTzlkgdw189D4RkwBjx8E19QcoTz5Qb5BruvQ9meYHJ6wqIctg5X4HQbUgzTz6E-nhOQJk4L8wfiUNQcRYGihsYMoZEuZZ3L4w27YON7kHUGiic-fzBR00_awIveQFn2cFRZgzbeqorBFSh9F01CW3Ny4cgI806iV-ygyZpjdeg=m18
-
-#EXTINF:0 tvg-logo="http://files.softicons.com/download/system-icons/nano-icon-set-by-freeman/png/256/Popcorn%20-%20All.png" group-title="Filmes | Stand-up" pltv-subgroup="Felipe Neto - Minha Vida Não Faz Sentido",Felipe Neto - Minha Vida Não Faz Sentido
-https://lh3.googleusercontent.com/9D3PmZvO0fcBduKVpcxINaVgUIjCIW1AAnXiHd6cp0EaCuXZlh_s2q9RiIICLqT44d20RdyKpoxp61UVvzRCvmUurWf0ZaJGImwi97iifWmA9pgac0ueSFyZccZw9C8huZT8JM_D4n0G5WoFgwcxnydXQplooCtSgMs48CU5ZN-hokEy-dik5LieAiN4A3k4eLTp8tk50MGpL8RVFQTAmoZNGx2Mv8TmIpK-cwpqkyjK-KL151qeXSeiSSaCMrUv-gCFWtbieFxC-yP7wjgiH7U__6nxeNFGcBzoPHUuDA4u3P2lhncnJZXoB2EyRhvSwRBH55Jq6Qau9hdDLk9yLvFZOAmUS08AKN-kP_f-GtC2XuDbxvzYIJt94Ma3anZX8pUWehWyvfYn1PSFd9wixr0KtUm-z6eDE7LQk0yVyE07FoFNLVby5whHSfVAz5nIdsm9961c1YAqSbZnVLNuLkrJzFPpHWUckA0eKF9-S6h9b5m3XrkpoyBM1zUfTs6mJaLyUobU0brdbx8ChsdQQq0qUteqC8HrCl_74fKrH2fWlzrU_ndR82Ii_Gnh2MJ_fkJ8mFZG8oTTh5c4LNu-sp4W65k8JgpaUaPWqwZunQkXTESVrvKdCyhlgjNcdwTCR18fswN42FsDAHl9CTgoj3uDcNaVz2TdWKvseTXz9w=m18
-
-#EXTINF:0 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/code-of-honor_cartaz_220x283.jpg" group-title="Filmes | Policial" pltv-subgroup="Codigo de Honra 2016",Codigo de Honra 2016 
-https://lh3.googleusercontent.com/o0RTsRfIbAndiF143pKfSdL158rITL8gJnV2_MHNGJs3WQbv4iHuk41U2JMIQZoyQ00zgl2ZIymsZA=m22
-
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/IBoy_poster.jpg/220px-IBoy_poster.jpg" group-title="Filmes | Policial" pltv-subgroup="Iboy",Iboy
-https://lh3.googleusercontent.com/JioHdMHb5NaH51OPrM8iwlW_gq7GexZpxv01c7cOGdqKhi63gfX85ce5fCd4n6vs9hQd_cZhRejc3A=m22
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/kZTmeI8.jpg" group-title="Filmes | Drama" pltv-subgroup="Espelho Espelho Meu",Espelho Espelho Meu
+#EXTINF:6352,Espelho Espelho Meu
 https://lh3.googleusercontent.com/cso_d15enpBKLvXBVta4XSqT02gofmBmfngnXCPXOXwUDkD5hGJHg_YmT3dZ3Xb4ZC0JAjk_IDY=m18
-
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/16/21/00/380835.jpg" group-title="Filmes | Comédia" pltv-subgroup="Tô Ryca",Tô Ryca
+#EXTINF:6461,Tô Ryca
 https://lh3.googleusercontent.com/5CnTx3UA8WJVq4cdB-8p5V1fEb1a7mRbd29NExY44zZUn2UmmyxIqEzaLd9cqgxQA3ZHNnQoKU4BZwv1SneBzvAR2NWQpu7xk7SM=m18
-
-#EXTINF:0 tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2016/09/um-estado-de-liberdadde.jpg" group-title="Filmes | Drama" pltv-subgroup="Um Estado de Liberdade (2016)",Um Estado de Liberdade (2016)
+#EXTINF:8395,Um Estado de Liberdade (2016)
 https://lh3.googleusercontent.com/xngqUuaTBMfmfnRooCMNjXFoNEp3pK20r5lIp6O-n5CUxiyBBJQUbT19BNE030PR9bnwa7hhZftbZw=m22
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/ZRQ05ss.jpg" group-title="Filmes | Animação / Infantis" pltv-subgroup="Zoom : Academia de Super Herois",Zoom : Academia de Super Herois
+#EXTINF:4479,Zoom : Academia de Super Herois
 https://lh3.googleusercontent.com/CE0_RleyP2UHBSQQactIgOJWP5qrTBiIJ2nL9nCn2ddeIK0oi-2sVuFAVeJERtw8aNen-f96mGw=m22
-
-#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/truque_cartaz_220x283.jpg" group-title="Filmes | Ação" pltv-subgroup="Truque de Mestre 2 - Segundo Ato",Truque de Mestre 2 - Segundo Ato
-https://lh3.googleusercontent.com/sGq9acRqbarHFZh3cUYOgZ2jpDyjVFVXylYfWD7m27Kt4iDBixxbzsr2Qr0PBw5o1gsRCbAk_BN5lNf1c5r4pwwVdOG2kCPVLnN256UTwnXVl51ugXHYRPBRawTuaYMAn7KYJNoGJrU=m22
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/74/47/20111225.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra O Foguete da Morte (1979)" ,007 Contra O Foguete da Morte (1979)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071979CNTROFGUT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/11/32/19872142.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Moscou Contra 007 (1963)" ,007 Moscou Contra 007 (1963)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071963MSCCNT007.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/25/50/19873596.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Cassino Royale (2006)" ,007 Cassino Royale (2006)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0072006CSNRYL.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/21/19874299.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra A Chantagem Atomica (1965)" ,007 Contra A Chantagem Atomica (1965)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/88/88/19962580.jpg" group-title="Filmes | Ação" pltv-subgroup="007 A Serviço Secreto de Sua Majestade (1969)" ,007 A Serviço Secreto de Sua Majestade (1969)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071969ASVCSCRT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/25/46/19873592.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra Goldeneye (1995)" ,007 Contra Goldeneye (1995)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/29/00/19873966.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra Goldfinger (1964)" ,007 Contra Goldfinger (1964)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/71/92/20109900.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra o Homem com a Pistola de Ouro (1974)" ,007 Contra o Homem com a Pistola de Ouro (1974)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071974CNTROHMN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/98/30/19870784.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra o Satânico Dr. No (1962)" ,007 Contra o Satânico Dr. No (1962)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/28/74/19873940.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra Octopussy (1983)" ,007 Contra Octopussy (1983)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/10/15/15/10/126391.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Contra Spectre (2015)" ,007 Contra Spectre (2015)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/25/33/20314060.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Marcado para Morte (1987)" ,007 Marcado para Morte (1987)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071987MRCDOMRT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/48/62/20099033.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Na mira dos assassinos (1985)" ,007 Na mira dos assassinos (1985)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071985NMRDSASNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/34/74/19874556.jpg" group-title="Filmes | Ação" pltv-subgroup="007 O Amanha nunca morre (1997)" ,007 O Amanha nunca morre (1997)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071997OAMNHNCM.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/94/25/23/20313919.jpg" group-title="Filmes | Ação" pltv-subgroup="007 O espiao que me amava (1977)" ,007 O espiao que me amava (1977)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071977OESPNHQMA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/30/81/19874153.jpg" group-title="Filmes | Ação" pltv-subgroup="007 O Mundo nao e o bastante (1999)" ,007 O Mundo nao e o bastante (1999)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/06/31/20197342.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Operacao SkyFall (2012)" ,007 Operacao SkyFall (2012)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0072012SKYFL.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/20/19874298.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Os Diamantes São Eternos (1971)" ,007 Os Diamantes São Eternos (1971)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071971OSDAMTS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/94/25/17/20313814.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Permissao para matar (1989)" ,007 Permissao para matar (1989)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071989PRMSPMTR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/94/32/19870362.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Quantum of Solace (2008)" ,007 Quantum of Solace (2008)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0072008QNTOFSLC.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/48/61/20099016.JPG" group-title="Filmes | Ação" pltv-subgroup="007 So se vive 2 vezes (1967)" ,007 So se vive 2 vezes (1967)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071967CM007SSVDV.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/25/78/19873625.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Somente para seus olhos (1981)" ,007 Somente para seus olhos (1981)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/89/50/59/20304522.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Um novo dia para morrer (2002)" ,007 Um novo dia para morrer (2002)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0072002UNDPM.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/48/60/20098986.jpg" group-title="Filmes | Ação" pltv-subgroup="007 Viva e deixe morrer (1973)" ,007 Viva e deixe morrer (1973)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/0071973VIVADXMR.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/59/60/20417256.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e a Pedra Filosofal (2001)",Harry Potter e a Pedra Filosofal (2001)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/93/01/50/20230712.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e a Câmara Secreta (2002)",Harry Potter e a Câmara Secreta (2002)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR02.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/88/04/20282944.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e o Prisioneiro de Azkaban (2004)",Harry Potter e o Prisioneiro de Azkaban (2004)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR03.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/93/87/95/20282862.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e o Cálice de Fogo (2005)",Harry Potter e o Cálice de Fogo (2005)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR04.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/67/58/20107766.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e a Ordem da Fênix (2007)",Harry Potter e a Ordem da Fênix (2007)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR05.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/91/18/20224756.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e o Enigma do Príncipe(2009)",Harry Potter e o Enigma do Príncipe(2009)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR06.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/18/19962717.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e as Relíquias da Morte - Parte 1 (2010)",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR07.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/91/95/19962896.jpg" group-title="Filmes | Aventura" pltv-subgroup="Harry Potter e as Relíquias da Morte - Parte 2 (2011)",Harry Potter e as Relíquias da Morte - Parte 2 (2011)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/HRYPTR08.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/82/07/19961885.jpg" group-title="Filmes | Comédia" pltv-subgroup="Um Morto Muito Louco (1989)" ,Um Morto Muito Louco (1989)
-http://filmes01.lhmtv.ml/27/items/LHMTv-MediaFiles1/1.M.M.L1.LHMTv.mp4
-#EXTINF:-1 tvg-logo="https://www.assistirfilmeshd.me/thumb.php?src=http://3.bp.blogspot.com/-8Cv0N9_8pik/UfFpn8L78OI/AAAAAAAAfw8/QPwLpzpGrhE/s1600/capa.jpg&h=284&w=200" group-title="Filmes | Comédia" pltv-subgroup="Um Morto Muito Louco 2 (1993)" ,Um Morto Muito Louco 2 (1993)
-http://filmes01.lhmtv.ml/27/items/LHMTv-MediaFiles1//1.M.M.L2.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/04/17/09/529344.jpg" group-title="Filmes | Drama" pltv-subgroup="Sob Pressão (2017)" ,Sob Pressão (2017)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20157&authkey=!ADfleAQzyd6JP0E
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/77/74/20217238.jpg" group-title="Filmes | Ação" pltv-subgroup="Braddock - O Super Comando (1984)" ,Braddock - O Super Comando (1984)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Br4dd0q.OSper.C0mando.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/77/93/20224157.jpg" group-title="Filmes | Ação" pltv-subgroup="Braddock 2 - O Inicio da Missão (1985)" ,Braddock 2 - O Inicio da Missão (1985)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Br4dd0q.2.O.Inic.d4.M1ss40.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/78/09/20217358.jpg" group-title="Filmes | Ação" pltv-subgroup="Braddock 3 - O Resgate (1988)" ,Braddock 3 - O Resgate (1988)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Br4dd0q.3.O.Resg4t3.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/95/60/87/20418132.jpg" group-title="Filmes | Faroeste" pltv-subgroup="Dança com Lobos (1990)" ,Dança com Lobos (1990)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Danc4.c0m.L030s.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/25/88/20188922.jpg" group-title="Filmes | Ação" pltv-subgroup="Duro de Matar (1988)" ,Duro de Matar (1988)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Dur0.d3.M4tar.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/96/61/81/20479017.jpg" group-title="Filmes | Ação" pltv-subgroup="Duro de Matar 2 (1990)" ,Duro de Matar 2 (1990)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Dur0.d3.M4tar.2.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/96/60/98/20478737.jpg" group-title="Filmes | Ação" pltv-subgroup= ,Duro de Matar 3 - A Vingança (1995)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Dur0.d3.M4tar.3.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/77/52/19961418.0thumb.jpg" group-title="Filmes | Ação" pltv-subgroup= ,Duro de Matar 4.0 (2007)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Dur0.d3.M4tar.4.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/94/08/96/20475590.jpg" group-title="Filmes | Ação" pltv-subgroup= ,Duro de Matar 5 - Um Bom Dia Para Morrer (2013)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Dur0.d3.M4tar.5.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/08/22/48/228460.jpg" group-title="Filmes | Ação" pltv-subgroup="Highlander - O Guerreiro Imortal (1986)" ,Highlander - O Guerreiro Imortal (1986)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/H1ghl4nd3r.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/90/19962789.jpg" group-title="Filmes | Ação" pltv-subgroup="Highlander II - A Ressurreição (1990)" ,Highlander II - A Ressurreição (1990)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/H1ghl4nd3r.2.LHMTv.mp4
-#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/highlander-the-final-dimension_a-G-392461-0.jpg" group-title="Filmes | Ação" pltv-subgroup="Highlander - A Dimensao Final (1994)" ,Highlander - A Dimensao Final (1994)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/H1ghl4nd3r.3.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/26/56/19873706.jpg" group-title="Filmes | Ação" pltv-subgroup="Highlander - A Batalha Final (2000)" ,Highlander - A Batalha Final (2000)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/H1ghl4nd3r.4.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://farm3.static.flickr.com/2179/2158050364_e8dedbd598_o.jpg" group-title="Filmes | Ação" pltv-subgroup="Highlander - A Origem (2007)" ,Highlander - A Origem (2007)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/H1ghl4nd3r.5.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/11/03/19872113.jpg" group-title="Filmes | Comédia" pltv-subgroup="Mulher Nota 1000 (1985)" ,Mulher Nota 1000 (1985)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/Mulh3r.not4.1k.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/90/99/20224665.jpg" group-title="Filmes | Ação" pltv-subgroup="O Exterminador do Futuro (1984)" ,O Exterminador do Futuro (1984)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/O.Ext.do.Ftro.LHMTv.mp4
-http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/91/08/20224693.jpg" group-title="Filmes | Ação" pltv-subgroup="O Exterminador do Futuro 2 - O Julgamento Final (1991)" ,O Exterminador do Futuro 2 - O Julgamento Final (1991)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/O.Ext.do.Ftro.2-O.Julg.F1nal.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/91/70/69/20159091.jpg" group-title="Filmes | Ação" pltv-subgroup="Top Gun - Ases Indomáveis (1986)" ,Top Gun - Ases Indomáveis (1986)
-http://filmes02.lhmtv.ml/18/items/LHMTv-MediaFiles2/T0p.G4n.Ases.1nd0mav31s.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/97/40/18/20527154.jpg" group-title="Filmes | Ação" pltv-subgroup="Rambo - Programado para Matar (1983)" ,Rambo - Programado para Matar (1983)
-http://filmes01.lhmtv.ml/27/items/LHMTv-MediaFiles1/Rmb1.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/85/20/19962202.jpg" group-title="Filmes | Ação" pltv-subgroup="Rambo II - A Missão (1985)" ,Rambo II - A Missão (1985)
-http://filmes01.lhmtv.ml/27/items/LHMTv-MediaFiles1/Rmb2.LHMTv.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/16/93/19872717.jpg" group-title="Filmes | Ação" pltv-subgroup="Rambo III (1988)" ,Rambo III (1988)
-http://filmes01.lhmtv.ml/27/items/LHMTv-MediaFiles1/Rmb3.LHMTv.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/04/7f/01047f92f0e02c7c8b4934b8561acdf0.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio I - A Ameaça Fantasma (1999)",Star Wars: Episódio I - A Ameaça Fantasma (1999)
-https://lh3.googleusercontent.com/Q9ZmZSI1oMf6hsIbRI353C9vod65chxIq819ymqajFsVQjZ2jXx8JJGQdEzBcw9oKSc32R-XMc8XbmvOiNeMv6U8-vX2kU551C-SAoA3nIxdhgKBR6exwh_Wa45NRbBAML8J26ZrLf0o0w12nIbeTdnzUowNKgQrG7FFvfwlmb5n_tjj1dH6kGxMHtg6SeMH8q4Ey5I5hizb2sgoS81oTSSZaVDi_Uxk0Mo8pKEwXk5lnXtXJDDdLf9nVKhSN6lRBIMEL21oPQLpHk-a0_i9q8vGvKIzc6yPHvi-2Daqmk5ZoYd37N_1sr2xoAqV92IFDQx9w-BgyEojMXOjYuXRD9oxiNROlf67Avery_Nj_F0QFTY5MukySfTttQ3KyIIzkHOMnrfXawMYkgYhn4BniCmQROCXEJ1tfusmtt96KmtDcbhbP-BxDcdVLDgmExF5NaKEqL-eucjfC0_WYiJP-aw6lOCtGu3YKCkvMlUrOktz9ULJnL9udArfxem_UNNwINi5dzegzVa3P9CjgzfVanqOciIkG0slfGcfHAK0zyvsGE5HKnemPUI8D5MMPyaJxKAmKtv355rEIM8eliXhQ4czud0aOip15XlTLeNxykS0H0Co0N4te5c-1xMu5teELeewfPFW4ifHw6n7o0a6H23MnNk7qhLItzVAyME0egasqA=m18
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/58/12/20207108.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio II - Ataque dos Clones (2002)",Star Wars: Episódio II - Ataque dos Clones (2002)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/STRWRSII.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/58/33/20207204.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio III - A Vingança dos Sith (2005)",Star Wars: Episódio III - A Vingança dos Sith (2005)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/STRWRSIII.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/98/26/20172772.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio IV - Uma Nova Esperança (1978)",Star Wars: Episódio IV - Uma Nova Esperança (1978)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/STRWRSIV.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/72/73/89/20535463.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio V - O Império Contra-ataca (1980)",Star Wars: Episódio V - O Império Contra-ataca (1980)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/STRWRSV.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/19/22/57/276761.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio VI - O Retorno de Jedi (1983)",Star Wars: Episódio VI - O Retorno de Jedi (1983)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/STRWRSVI.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/10/18/18/39/408904.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Episódio VII - O Despertar da Força (2015)",Star Wars: Episódio VII - O Despertar da Força (2015)
-http://server1.cometa.top/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/14/14/52/155667.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Wars: Rogue One – Uma História Star Wars (2016)",Star Wars: Rogue One – Uma História Star Wars (2016)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/108/21010843_2013060622065644.jpg" group-title="Filmes | Ficção" pltv-subgroup="RoboCop - O Policial do Futuro (1987)",Robocop - O Policial do Futuro (1987)
+#EXTINF:6194,Robocop - O Policial do Futuro (1987)
 http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/32/32/20091547.jpg" group-title="Filmes | Ficção" pltv-subgroup="RoboCop 2 (1990)",RoboCop 2 (1990)
+#EXTINF:7000,RoboCop 2 (1990)
 http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/88/36/19962520.jpg" group-title="Filmes | Ficção" pltv-subgroup="RoboCop 3 (1993)",RoboCop 3 (1993)
+#EXTINF:6291,RoboCop 3 (1993)
 http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/59/19962758.jpg" group-title="Filmes | Ficção" pltv-subgroup="Resident Evil 4: Recomeço (2010)",Resident Evil 4: Recomeço (2010)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/REVIL04.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/91/23/49/20135851.jpg" group-title="Filmes | Ficção" pltv-subgroup="Resident Evil 5: Retribuição (2012)" ,Resident Evil 5: Retribuição (2012)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/REVIL05.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/11/21/13/55/091105.jpg" group-title="Filmes | Ficção" pltv-subgroup="Resident Evil 6: O Capítulo Final (2016)" ,Resident Evil 6: O Capítulo Final (2016)
-http://sv1.redecanais.download/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/02/06/15/11/493568.jpg" group-title="Filmes | Aventura" pltv-subgroup="Piratas do Caribe 1: A Maldição do Pérola Negra (2003)" ,Piratas do Caribe 1: A Maldição do Pérola Negra (2003)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/PRTSDCRB01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/12/24/20304627.jpg" group-title="Filmes | Aventura" pltv-subgroup="Piratas do Caribe 2: O Baú da Morte (2006)" ,Piratas do Caribe 2: O Baú da Morte (2006)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/PRTSDCRB02.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/176/21017697_20130704202238456.jpg" group-title="Filmes | Aventura" pltv-subgroup="Piratas do Caribe 3: No Fim do Mundo (2007)" ,Piratas do Caribe 3: No Fim do Mundo (2007)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/PRTSDCRB03.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/33/06/20028706.jpg" group-title="Filmes | Aventura" pltv-subgroup="Piratas do Caribe 4: Navegando em Águas Misteriosas (2011)" ,Piratas do Caribe 4: Navegando em Águas Misteriosas (2011)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/PRTSDCRB04.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/03/02/16/02/262397.jpg" group-title="Filmes | Aventura" pltv-subgroup="Piratas do Caribe 5: A Vingança de Salazar (2017)" ,Piratas do Caribe 5: A Vingança de Salazar (2017)
-http://box5112.temp.domains/~habbinfo/videos/RCFServer3/ondemand/PRTSDCRB05.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/80/48/19961723.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas I - O Filme (1980)" ,Star Trek: Jornada nas Estrelas I - O Filme (1980)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20164&authkey=!AEYSmsfXo2A73Os
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/81/03/19961778.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas II: A Ira de Khan (1982)" ,Star Trek: Jornada nas Estrelas II - A Ira de Khan (1982)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20161&authkey=!AA5IijUGvJw4_jc
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/80/55/19961730.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas III - À Procura de Spock (1984)" ,Star Trek: Jornada nas Estrelas III - À Procura de Spock (1984)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20160&authkey=!AAkO2je35WrbL1s
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/80/27/19961701.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas IV - A Volta para Casa (1986)" ,Star Trek: Jornada nas Estrelas IV - A Volta para Casa (1986)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20163&authkey=!AJlN8B4ctJ0fh7Q
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/81/00/19961775.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas V - A Última Fronteira (1989))" ,Star Trek: Jornada nas Estrelas V - A Última Fronteira (1989)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20162&authkey=!AK8TDzsT_kDja0g
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/80/00/19961673.jpg" group-title="Filmes | Ficção" pltv-subgroup="Star Trek: Jornada nas Estrelas VI - A Terra Desconhecida (1991)" ,Star Trek: Jornada nas Estrelas VI - A Terra Desconhecida (1991)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20159&authkey=!AHpUCtkMGyNjqPU
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/02/13/16/55/232713.jpg" group-title="Filmes | Animação / Infantis" pltv-subgroup="Liga da Justiça Sombria (2017)" ,Liga da Justiça Sombria (2017)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/LGDJSTCSMBRA.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lf8JPff.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 1 (1984)",LOUCADEMIA DE POLÍCIA 1 (1984)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/x9Lpcwk.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 2: A PRIMEIRA MISSÃO (1985)",LOUCADEMIA DE POLÍCIA 2: A PRIMEIRA MISSÃO (1985)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BGZxe3V.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍLIA 3: DE VOLTA AO TREINAMENTO (1986)",LOUCADEMIA DE POLÍLIA 3: DE VOLTA AO TREINAMENTO (1986)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tSOBCBe.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE (1987)",LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE (1987)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YlKFJoX.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH (1988)",LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH (1988)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RN5kMCJ.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 6: CIDADE EM ESTADO DE SÍTIO (1989)",LOUCADEMIA DE POLÍCIA 6: CIDADE EM ESTADO DE SÍTIO (1989)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OmLB4Rf.jpg" group-title="Filmes | Comédia" pltv-subgroup="LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU (1994)",LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU (1994)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/LCDMDPLC07.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/07/01/20/08/132159.jpg" group-title="Filmes | Comédia" pltv-subgroup="D1: Nós Somos os Campeões (1993)",D1 - Nós Somos os Campeões (1993)
-http://sv2.redecanais.download/RedeCanais/RCFServer4/ondemand/NSMSCMP.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/74/88/20426236.jpg" group-title="Filmes | Comédia" pltv-subgroup="D2: Nós Somos os Campeões (1994)",D2: Nós Somos os Campeões (1994)
-http://sv2.redecanais.download/RedeCanais/RCFServer4/ondemand/D2NSMSCMP.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/09/11/19/21/599311.jpg" group-title="Filmes | Comédia" pltv-subgroup="D3: Nós Somos os Campeões (1996)",D3: Nós Somos os Campeões (1996)
-http://sv2.redecanais.download/RedeCanais/RCFServer4/ondemand/D3NSMSCMP.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/91/32/20224832.jpg" group-title="Filmes | Aventura" pltv-subgroup="O Senhor dos Anéis 1: A Sociedade do Anel (2001)",O Senhor dos Anéis 1: A Sociedade do Anel (2001)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OSNHRDSANSASCEDDANL.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/34/89/20194741.jpg" group-title="Filmes | Aventura" pltv-subgroup="O Senhor dos Anéis 2: As Duas Torres (2002)",O Senhor dos Anéis 2: As Duas Torres (2002)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OSNHRDSANSASDSTRS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/91/47/20224867.jpg" group-title="Filmes | Aventura" pltv-subgroup="O Senhor dos Anéis 3: O Retorno do Rei (2003)",O Senhor dos Anéis 3: O Retorno do Rei (2003)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OSNHRDSANSORTNDREI.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/23/16/28/282704.jpg" group-title="Filmes | Faroeste" pltv-subgroup="Sete Homens e Um Destino (2016)",Sete Homens e Um Destino (2016)
-http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/29/95/19874065.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 1: A PRIMEIRA VEZ É INESQUECÍVEL (1999)",AMERICAN PIE 1: A PRIMEIRA VEZ É INESQUECÍVEL (1999)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE1.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/97/35/19870686.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 2: A SEGUNDA VEZ É AINDA MELHOR (2001)",AMERICAN PIE 2: A SEGUNDA VEZ É AINDA MELHOR (2001)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE2.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/75/15/19961175.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 3: O CASAMENTO (2003)",AMERICAN PIE 3: O CASAMENTO (2003)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE3.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/94/38/19870368.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 4: TOCANDO A MAIOR ZONA (2005)",AMERICAN PIE 4: TOCANDO A MAIOR ZONA (2005)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE4.mp4
-#EXTINF:-1 tvg-logo="hhttp://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/76/33/19961294.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 5: O ÚLTIMO STIFLER VIRGEM (2006)",AMERICAN PIE 5: O ÚLTIMO STIFLER VIRGEM (2006)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE5.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/21/82/20086183.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 6: CAINDO EM TENTAÇÃO (2007)",AMERICAN PIE 6: CAINDO EM TENTAÇÃO (2007)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE6.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/21/87/20205725.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 7: O LIVRO DO AMOR (2009)",AMERICAN PIE 7: O LIVRO DO AMOR (2009)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE7.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/89/67/13/20074056.jpg" group-title="Filmes | Comédia" pltv-subgroup="AMERICAN PIE 8: O REENCONTRO (2012)",AMERICAN PIE 8: O REENCONTRO (2012)
-http://server1.cometa.top/RedeCanais/RCFServer1/ondemand/AMRCNPIE8.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/45/41/20200765.jpg" group-title="Filmes | Drama" pltv-subgroup="Homens De Honra (2001)",Homens De Honra (2001)
-http://server1.cometa.top/RedeCanais/RCFServer4/ondemand/HMNDHNRA.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/99/06/19870864.jpg" group-title="Filmes | Drama" pltv-subgroup="Annapolis (2006)",Annapolis (2006)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20399&authkey=!AG6uOVlkmu41oew
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/12/55/20181936.jpg" group-title="Filmes | Drama" pltv-subgroup="Anjos da Vida - Mais Bravos que o Mar (2006)",Anjos da Vida - Mais Bravos que o Mar (2006)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20400&authkey=!ABiXE_tibP_GZ5c
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/05/27/16/00/104793.jpg" group-title="Filmes | Adulto +18" pltv-subgroup="Love (2015) (+18 Anos)",Love (2015)
-https://onedrive.live.com/download?resid=DCD69D948A75CC3E!20402&authkey=!ALkkM0hfD3Cska8
