@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="SERIES", Séries
+https://pastebin.com/raw/JuCwGQSN
+
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/15/08/28/18/41/432740.jpg" group-title="A", A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?KeltecMPIPTV
 
