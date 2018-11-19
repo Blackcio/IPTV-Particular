@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="ADULTOS", ADULTOS_Glau
+https://pastebin.com/raw/E6Z7Mpdg
+
 #EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="SERIES", Séries
 https://pastebin.com/raw/JuCwGQSN
 
@@ -9,8 +12,11 @@ https://pastebin.com/raw/FtYkdFY0
 #EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", j.PM
 http://pastebin.com/raw/yJjrEXXh
 
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", Cidinho-Filmes
+https://gitlab.com/cidinhotv/cidofilmes/raw/master/cidofilmes
 
-
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="ADULTOS", TUDO_ADULTOS
+http://www.listaiptvbrasil.com.br/paste.php?raw&id=12
 
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/15/08/28/18/41/432740.jpg" group-title="A", A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?KeltecMPIPTV
