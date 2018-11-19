@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="SERIES", Séries
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="SERIES", Séries
 https://pastebin.com/raw/JuCwGQSN
 
-#EXTINF:0 tvg-logo="" group-title="FILMES", Will-Filmes1
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", Will-Filmes1
 https://pastebin.com/raw/FtYkdFY0
 
-#EXTINF:0 tvg-logo="" group-title="FILMES", Will-Filmes0
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", Will-Filmes0
 http://bit.ly/Will-Filmes
 
 
