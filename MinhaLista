@@ -18,6 +18,9 @@ https://bitbucket.org/kbrplay/kbrplay_iptv/raw/master/superlista
 #EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", j.PM
 http://pastebin.com/raw/yJjrEXXh
 
+#EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="DESENHOS", SeriesDesenhos
+http://www.listaiptvbrasil.com.br/paste.php?raw&id=58
+
 #EXTINF:0 tvg-logo="http://correio.rac.com.br/_midias/jpg/2015/08/06/filmes2-5475715.jpg" group-title="FILMES", Cidinho-Filmes
 https://gitlab.com/cidinhotv/cidofilmes/raw/master/cidofilmes
 
