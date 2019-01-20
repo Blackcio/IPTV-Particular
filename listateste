@@ -1,1745 +1,2144 @@
 #EXTM3U
-#EXTINF:35,60 - https://archive.org/details/crazysgames_hotmail_60
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) 60 - https://archive.org/details/crazysgames_hotmail_60
 http://archive.org/download/crazysgames_hotmail_60/60.mp4
-#EXTINF:0, atualizado 25/11/2018 as 11:20h
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) atualizado 25/11/2018 as 11:20h
 http://archive.org/download/crazysgames_hotmail_60/60.mp4
-#EXTINF:0,All Sports
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
-#EXTINF:0,MLB
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0,Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:0,Sevilla FC
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,AUTO MOTO TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) AUTO MOTO TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:0,***************************INFANTIL ********************************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ***************************INFANTIL ********************************************
 http://pastebin.com/raw/***************************INFANTIL%20********************************************
-#EXTINF:0,hotel transilvania 3 ferias monstruosas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) hotel transilvania 3 ferias monstruosas
 http://archive.org/download/hotel_201808/hotel.mp4
-#EXTINF:0,101 Dalmatas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) 101 Dalmatas
 http://archive.org/download/101Dalmatas720p/101%20Dalmatas%20-%20720p.mp4
-#EXTINF:0,Hercules 1997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Hercules 1997
 http://archive.org/download/Hercules1997/Hercules%201997.mp4
-#EXTINF:0,Dumbo 1941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Dumbo 1941
 http://archive.org/download/DumboDublado1941/Dumbo%20%28Dublado%29%201941.mp4
-#EXTINF:0,As Aventuras De Ichabod E Sr. Sapo 1949 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As Aventuras De Ichabod E Sr. Sapo 1949
 http://archive.org/download/AsAventurasDeIchabodESr.Sapo1949/As%20Aventuras%20de%20Ichabod%20e%20Sr.%20Sapo%20%5B1949%5D.mp4
-#EXTINF:0,As peripécias do ratinho detetiva
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As peripécias do ratinho detetiva
 http://archive.org/download/As.Peripecias.Do.Ratinho.Detetive..O.Rato.Basilio.PTBR/As.Peripecias.Do.Ratinho.Detetive.-.O.Rato.Basilio.PT-BR.mp4
-#EXTINF:0,A Espada Era A Lei
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Espada Era A Lei
 http://archive.org/download/AEspadaEraALei/A%20Espada%20Era%20a%20Lei.mp4
-#EXTINF:0,ALICE NO PAIS DAS MARAVILHAS 1951
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ALICE NO PAIS DAS MARAVILHAS 1951
 http://archive.org/download/ALICENOPAISDASMARAVILHASHDDUB1951/ALICE%20NO%20PAIS%20DAS%20MARAVILHAS%20HD%20DUB%201951.mp4
-#EXTINF:0,BRANCA DE NEVE E OS SETE ANÕES
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) BRANCA DE NEVE E OS SETE ANÕES
 http://archive.org/download/BRANCADENEVEEOSSETEANESHDDUB1937/BRANCA%20DE%20NEVE%20E%20OS%20SETE%20AN%C3%95ES%20HD%20DUB%201937.mp4
-#EXTINF:0,Barbie E As Sapatilhas Mágicas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Barbie E As Sapatilhas Mágicas
 http://archive.org/download/BarbieEAsSapatilhasMgicas/Barbie%20E%20As%20Sapatilhas%20M%C3%A1gicas.mp4
-#EXTINF:0,Barbie Lago Dos Cisnes 2003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Barbie Lago Dos Cisnes 2003
 http://archive.org/download/BarbieLagoDosCisnes20031_201711/Barbie%20Lago%20Dos%20Cisnes%202003-1.mp4
-#EXTINF:0,GOSPEL CARTOON
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
-#EXTINF:0,Tesouros Da Disney Trapalhadas no Hockey
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Tesouros Da Disney Trapalhadas no Hockey
 http://archive.org/download/TesourosDaDisney19351951720P/Tesouros%20da%20Disney%20%5B1935-1951%5D-720P.mp4
-#EXTINF:0,Pernalonga E Patolino Os Caça Fantasmas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Pernalonga E Patolino Os Caça Fantasmas
 http://archive.org/download/PernalongaEPatolinoOsCacaFantasmas/Pernalonga%20e%20Patolino%20-%20Os%20Ca%C3%A7a%20Fantasmas.mp4
-#EXTINF:0,DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
 http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4?AndreOid
-#EXTINF:0,COLETANEA DESENHOS biblicos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) COLETANEA DESENHOS biblicos
 http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4?AndreOid
-#EXTINF:0,fabulas da disney volume 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) fabulas da disney volume 1
 http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20%E2%80%93%20Volume%201%20-%20Dublado.mp4?AndreOid
-#EXTINF:0,fabulas da disney volume 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) fabulas da disney volume 2
 http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%202%20em%20portugu%C3%AAs.mp4?AndreOid
-#EXTINF:0,fabulas da disney volume 4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) fabulas da disney volume 4
 http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%204%20completo%20dublado%20em%20portugu%C3%AAs%28br%29.mp4?AndreOid
-#EXTINF:0,fabulas da disney volume 5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) fabulas da disney volume 5
 http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20infantis%20Volume%205%20completo%20dublado%20em%20portugu%C3%AAs.mp4?AndreOid
-#EXTINF:0,fabulas da disney volume 6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) fabulas da disney volume 6
 http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/F%C3%A1bulas%20da%20Disney%20%E2%80%93%20Vol%20%206-%20desenhos%20animados%20em%20portugues%20completos.mp4?AndreOid
-#EXTINF:0,CALILLOU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) CALILLOU
 http://archive.org/download/videoplayback_20161120_1932/videoplayback.mp4
-#EXTINF:0,------------------CANAIS SMART TV-----------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ------------------CANAIS SMART TV-----------------------------------------
 http://pastebin.com/raw/------------------CANAIS%20SMART%20TV-----------------------------------------
-#EXTINF:0,Globo Manipuladora
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Globo Manipuladora
 http://archive.org/download/IPTVPROPAGANDA720FINAL/IPTV%20PROPAGANDA%20720%20FINAL.mp4
-#EXTINF:0,Band
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
-#EXTINF:0,Band
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Band
 http://bitly.com:80/Banddd
-#EXTINF:0, SBT - CENTRO OESTE MT
-http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
-#EXTINF:0,SBT PI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8
-#EXTINF:0,SBT HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:0,SBT PE SD 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT PE SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
-#EXTINF:0,SBT SP HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT SP HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
-#EXTINF:0,SBT GO HD 720p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT GO HD 720p
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-#EXTINF:0,SBT CARUARU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SBT CARUARU
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0,RECORD GO (TV Sucesso)
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-#EXTINF:0, RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-#EXTINF:0, TV ACRITICA - RECORD AM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV ACRITICA - RECORD AM
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-#EXTINF:0,RECORD
-http://54.39.46.113:80/live/mae/mae/38421.m3u8
-#EXTINF:0,RECORD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) RECORD
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:0,RECORD SP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) RECORD SP
 http://archive.org/download/crazysgames_hotmail_60/60.avi
-#EXTINF:0,CULTURA PR
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CULTURA PR
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:0,CULTURA GO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CULTURA GO
 http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
-#EXTINF:0,CULTURA MG
-rtmp://173.236.10.10/redeatividade//redeatividade
-#EXTINF:0,CULTURA PA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CULTURA PA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:0,CULTURA ES
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) CULTURA ES
 http://archive.org/download/crazysgames_hotmail_60/60.avi
-#EXTINF:0,CULTURA
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist_w313534657.m3u8?
-#EXTINF:0,TV FUTURA PR
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV FUTURA PR
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
-#EXTINF:0,TV Rio Preto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:0, REDE TV SP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:0, REDE TV SP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:0, REDE TV RJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:0, REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
-#EXTINF:0, REDE TV! - RONDÔNIA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV! - RONDÔNIA
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:0,REDE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-#EXTINF:0,REDE TV RJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE TV RJ
 http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u
-#EXTINF:0,REDE BRASIL 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE BRASIL
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:0,Rede Metropole de comunicação
-http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
-#EXTINF:0,AGROBRASIL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) AGROBRASIL
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
-#EXTINF:0, TVU PERNAMBUCO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVU PERNAMBUCO
 http://150.161.93.173/hls/720/index.m3u8
-#EXTINF:0,TVE RS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0,TVE BA HD 720p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVE BA HD 720p
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0,TV É PARANÁ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV É PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:0,TV MEIO NORTE PI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) TV MEIO NORTE PI
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:0,TVE RS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVE RS
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:0,TV GAZETA SP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) TV GAZETA SP
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:0,TV GAZETA MA
-http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?
-#EXTINF:0,REDE FAMILIA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REDE FAMILIA
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?AndreOid
-#EXTINF:0,TV CAMARA
-http://stream2.camara.leg.br:80/tv1/manifest.m3u8?AndreOid
-#EXTINF:0,TV CIDADE VERDE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV CIDADE VERDE
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?AndreOid
-#EXTINF:0,TV DIARIO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV DIARIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?AndreOid
-#EXTINF:0,TVCADM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVCADM
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?AndreOid
-#EXTINF:0, TV DIARIO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV DIARIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-#EXTINF:0,A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-#EXTINF:0,AMAZON SAT
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-#EXTINF:0,TV MACEIO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV MACEIO
 http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?
-#EXTINF:0,TVU Recife
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVU Recife
 http://150.161.93.173/hls/720/index.m3u8?
-#EXTINF:0,CANAL 24 HORAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CANAL 24 HORAS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
-#EXTINF:0, TVE Bahia - TV Brasil
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TVE Bahia - TV Brasil
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0,---------------Noticias---------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ---------------Noticias---------------------------------------------------------------------------
 http://pastebin.com/raw/---------------Noticias---------------------------------------------------------------------------
-#EXTINF:0,GLOBO NEWS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) GLOBO NEWS
 http://archive.org/download/IPTVPROPAGANDA720FINAL/IPTV%20PROPAGANDA%20720%20FINAL.mp4
-#EXTINF:0,CBN RJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CBN RJ
 http://stream.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:0,RECORD NEWS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) RECORD NEWS
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
-#EXTINF:0,RECORD NEWS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) RECORD NEWS
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
-#EXTINF:0,Catve HD 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Catve HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
-#EXTINF:0,Al Jazeera
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:0,DW NEWS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
-#EXTINF:0,CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0,CBS News (Opt-1)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0,CBN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CBN
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
-#EXTINF:0,CBN NEWS
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:0,Transamerica Curitiba FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Transamerica Curitiba FM
 http://radiocuritiba.crossdigital.com.br:1935/radiocuritiba/estudio/chunklist_w259164305.m3u8
-#EXTINF:0,Transamerica SP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Transamerica SP
 http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
-#EXTINF:0,Difusora
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Difusora
 https://srv02.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8?token=470910016
-#EXTINF:0,FM O DIA 100.5 Rio de Janeiro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) FM O DIA 100.5 Rio de Janeiro
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b865536.m3u8
-#EXTINF:0,D2 FM 95.3
-http://stm02.virtualcast.com.br:1935/8008/8008/chunklist_w321459847.m3u8
-#EXTINF:0,Clube 100.5
-https://rtmp.cdn.upx.net.br/5e5c_5/myStream.sdp/chunklist.m3u8
-#EXTINF:0,Radio 90.7 Sistema Riopardense de Comunicação
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Radio 90.7 Sistema Riopardense de Comunicação
 https://cdn.jmvstream.com/live/hls/lv_3978/LV3978_3NksZAVTcH.m3u8
-#EXTINF:0,Tupi RJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tupi RJ
 http://cdn.rj.assocrj.com.br/live/_definst_/tupi-estudio-video06/chunklist_w668448200.m3u8
-#EXTINF:0,--------------RELIGIOSO----------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) --------------RELIGIOSO----------------------------------------------
 http://pastebin.com/raw/--------------RELIGIOSO----------------------------------------------
-#EXTINF:0, Rede Família HD 720p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rede Família HD 720p
 http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
-#EXTINF:0,Tv Aparecida
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tv Aparecida
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
-#EXTINF:0,Rede Gospel  
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rede Gospel
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
-#EXTINF:0, TV Novo Tempo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:0, TV Igreja Mundial
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV Igreja Mundial
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:0, Rede Brasil De Comunicacão PE HD
-http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
-#EXTINF:0, Rede Brasil De Comunicacão PE SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rede Brasil De Comunicacão PE SD
 http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
-#EXTINF:0, Boas Novas TV 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Boas Novas TV
 http://archive.org/download/crazysgames_hotmail_60/60.avi
-#EXTINF:0, Canção Nova HD 720p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Canção Nova HD 720p
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:0, Rede Século 21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rede Século 21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_500_av-b.m3u8
-#EXTINF:0,---------------- DOCUMENTÁRIOS -------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ---------------- DOCUMENTÁRIOS -------------------------------------------------
 http://pastebin.com/raw/----------------%20DOCUMENT%C3%81%C2%81RIOS%20-------------------------------------------------
-#EXTINF:0,The Jinx: parte 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 1
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264-BATV~1.mp4
-#EXTINF:0,The Jinx: parte 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 2
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.2/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.2.mp4
-#EXTINF:0,The Jinx: parte 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 3
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264-BATV~1.mp4
-#EXTINF:0,The Jinx: parte 4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 4
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264-BATV~1.mp4
-#EXTINF:0,The Jinx: parte 5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 5
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.5.HDTV.x264-BATV~1.mp4
-#EXTINF:0,The Jinx: parte 6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) The Jinx: parte 6
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.6.HDTV.x264-BATV~1.mp4
-#EXTINF:0,A Ponte
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Ponte
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The%20Bridge%202006.mp4
-#EXTINF:0,Black Fish Furia Animal
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Black Fish Furia Animal
 http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/Blackfish%20-%20F%c3%baria%20Animal%20-%20Dual%20%c3%81udio.mp4
-#EXTINF:0,Grandes golpes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Grandes golpes
 http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
-#EXTINF:0,A Vida Fora Da Terra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Vida Fora Da Terra
 http://archive.org/download/AVidaForaDaTerra/A%20Vida%20fora%20da%20terra.mp4
-#EXTINF:0,Energia Ilimitada Para A Sociedade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Energia Ilimitada Para A Sociedade
 http://archive.org/download/EnergiaIlimitadaParaASociedade/Energia%20ilimitada%20para%20a%20sociedade.mp4
-#EXTINF:0,RAIVA O VIRUS MORTAL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) RAIVA O VIRUS MORTAL
 http://archive.org/download/RAIVAOVIRUSMORTAL/RAIVA%20O%20VIRUS%20MORTAL%20%20-%20Animal%20Planet%20%28720p_30fps_H264-192kbit_AAC%29.mp4
-#EXTINF:0,Os Segredos do Petróleo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Os Segredos do Petróleo
 http://archive.org/download/iptvfoz2020_gmail_Mmsp/mmsp.mp4
-#EXTINF:0,Filhos De Galileu 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Filhos De Galileu
 http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4
-#EXTINF:0,Extremis
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Extremis
 http://ia601503.us.archive.org/12/items/AssistirExtremisDubladoOnlineVerFilmeOnline/Assistir%20-%20Extremis%20Dublado%20Online%20-%20Ver%20Filme%20Online.mp4
-#EXTINF:0,Prova infalível o caso Roswell
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Prova infalível o caso Roswell
 http://archive.org/download/ProvaInfalivelOCasoRoswellDubladoDocumentarioDiscoveryCivilization/Prova%20Infal%c3%advel-%20O%20Caso%20Roswell%20%28Dublado%29%20-%20Document%c3%a1rio%20Discovery%20Civilization.mp4
-#EXTINF:0,Stephen Hawking e as Células-Tronco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Stephen Hawking e as Células-Tronco
 http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
-#EXTINF:0,O Sentido Da Vida Stephen Hawking
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O Sentido Da Vida Stephen Hawking
 http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
-#EXTINF:0,A HISTÓRIA DA TERRA 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A HISTÓRIA DA TERRA
 http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
-#EXTINF:0,alem dos limites humanos - hipoxia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) alem dos limites humanos - hipoxia
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
-#EXTINF:0,alem dos limites humanos -frio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) alem dos limites humanos -frio
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
-#EXTINF:0,alem dos limites humanos -tempo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) alem dos limites humanos -tempo
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
-#EXTINF:0,Star Trek  Segredos do Universo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Star Trek  Segredos do Universo
 http://archive.org/download/Star.Trek.Segredos.Universo/Star.Trek.Segredos.do.Universo.BRAZiLiAN.x264-FHxHD.mp4
-#EXTINF:0,Telescópio O universo revelado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Telescópio O universo revelado
 http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:0,Dentro Do Sol
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Dentro Do Sol
 http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
-#EXTINF:0,Guerra Do Paraguai A Nossa Grande Guerra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Guerra Do Paraguai A Nossa Grande Guerra
 http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4
-#EXTINF:0,A Guerra do Vietnã- Parte 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Guerra do Vietnã- Parte 1
 http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4
-#EXTINF:0,A Guerra do Vietnã- Parte 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Guerra do Vietnã- Parte 2
 http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4
-#EXTINF:0,Prisioneiros Do Holocausto 2011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Prisioneiros Do Holocausto 2011
 http://ia601506.us.archive.org/8/items/NationalGeographicPrisioneirosDoHolocausto2011DubladoHolocausto/National%20Geographic%20Prisioneiros%20do%20Holocausto%202011%20Dublado%20holocausto.mp4
-#EXTINF:0,Terceiro Reich: Ascensão
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Terceiro Reich: Ascensão
 http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
-#EXTINF:0,Terceiro Reich: Queda
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Terceiro Reich: Queda
 http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
-#EXTINF:0,Pesos Pesados Os Reis Do Ringue
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Pesos Pesados Os Reis Do Ringue
 http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4
-#EXTINF:0,Magia Do Churrasco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Magia Do Churrasco
 http://ia601504.us.archive.org/30/items/AssistirMagiaDoChurrascoNacionalOnlineVerFilmeOnline/Assistir%20-%20Magia%20do%20Churrasco%20Nacional%20Online%20-%20Ver%20Filme%20Online.mp4
-#EXTINF:0,A internet A Guerra dos Navegadores
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A internet A Guerra dos Navegadores
 http://archive.org/download/guerra_de_navegadores/A_Internet_-_Guerra_de_Navegadores_512kb.mp4
-#EXTINF:0,****musicas****************************************************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ****musicas****************************************************************
 http://pastebin.com/raw/****musicas****************************************************************
-#EXTINF:0,MTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MTV
 http://archive.org/download/54848441_201808/54848441.mp4
-#EXTINF:0,Music Top (ARG)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:0,HOT MUSIC 
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:0,VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?AndreOid
-#EXTINF:0,TV CLIMA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV CLIMA
 http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
-#EXTINF:0,HEARTV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-#EXTINF:0,RETRO MUSIC HD 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:0,MUSICA:Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0,MUSICA:Hit TV (Espana)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:Hit TV (Espana)
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-#EXTINF:0,MUSICA:La Mega Mundial (EU)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:La Mega Mundial (EU)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0,MUSICA:Melody Channel (EU)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:Melody Channel (EU)
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0,MUSICA:Music Top (Argentina)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:Music Top (Argentina)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:0,MUSICA:Portal Foxmix (Chile)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:Portal Foxmix (Chile)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:0,MUSICA:Power HD (Argentina)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MUSICA:Power HD (Argentina)
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:0,MUSICA:Soy Rock (Argentina)
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
-#EXTINF:0,MUSICA:Planeta HD | HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MUSICA:Planeta HD | HD
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:0,MUSICA:DJIng Ibiza | HD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MUSICA:DJIng Ibiza | HD
 http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:0,Wesley Safadão Ao Vivo Em Brasilia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Wesley Safadão Ao Vivo Em Brasilia
 http://archive.org/download/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4
-#EXTINF:0,----------------------FILMES--------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ----------------------FILMES--------------------------------------------------------------------------------------------
 http://pastebin.com/raw/----------------------FILMES--------------------------------------------------------------------------------------------
-#EXTINF:0, TV CARIOCA.NET
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) TV CARIOCA.NET
 http://archive.org/download/crazysgames_hotmail_60/60.mp4
-#EXTINF:0,Central TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Central TV
 http://tv02.logicahost.com.br:1935/rbt01/rbt01/live.m3u8
-#EXTINF:0, TV ARACATI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV ARACATI
 https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
-#EXTINF:0, TV ARACATI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TV ARACATI
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
-#EXTINF:0, SÓ FILMES
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) SÓ FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:0,CLASSIQUE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CLASSIQUE TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
-#EXTINF:0,--------Filmes-----------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) --------Filmes-----------------------------------------------------
 http://pastebin.com/raw/--------Filmes-----------------------------------------------------
-#EXTINF:13347,Ben Hur
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Ben Hur
 http://archive.org/download/CineClubeGoogleDriveBenHur/Cine%20Clube%20%20Google%20Drive%20-%20Ben%20Hur.mp4
-#EXTINF:2165,Os Tres Patetas -  Esses Três São um Número
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Os Tres Patetas -  Esses Três São um Número
 http://archive.org/download/tres_patetas/OsTr%C3%AAsPatetas002.mp4
-#EXTINF:6779,Simbad E O Olho Do Tigre ( 1977) 720p Dual Áudio - https://archive.org/details/SimbadEOOlhoDoTigre1977BluRay720pDualudio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Simbad E O Olho Do Tigre ( 1977) 720p Dual Áudio - https://archive.org/details/SimbadEOOlhoDoTigre1977BluRay720pDualudio
 http://archive.org/download/SimbadEOOlhoDoTigre1977BluRay720pDualudio/Simbad%20e%20o%20Olho%20do%20Tigre%20(1977)%20BluRay%20720p%20Dual%20%C3%81udio.mp4
-#EXTINF:0,Simbad E O Olho Do Tigre MKV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Simbad E O Olho Do Tigre MKV
 http://archive.org/download/SimbadEOOlhoDoTigre1977BluRay720pDualudio/Simbad%20e%20o%20Olho%20do%20Tigre%20(1977)%20BluRay%20720p%20Dual%20%C3%81udio.mkv
-#EXTINF:0,As Novas Viagens de Simbad 1974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As Novas Viagens de Simbad 1974
 http://archive.org/download/As.Novas.Viagens.de.Simbad.1974.DVDRip.DualAudio/As.Novas.Viagens.de.Simbad.1974.DVDRip.DualAudio.mp4
-#EXTINF:0,Simbad E A Princesa 1958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Simbad E A Princesa 1958
 http://archive.org/download/SimbadEAPrincesa1958DualAudio/Simbad%20e%20A%20Princesa%20-%201958%20-%20Dual%20Audio.mp4
-#EXTINF:0,20.000 Léguas Submarinas 1954 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) 20.000 Léguas Submarinas 1954
 http://archive.org/download/20.000LguasSubmarinas1954Dubl/20.000%20L%C3%A9guas%20Submarinas%201954%20Dubl.mp4
-#EXTINF:0,Batman (1989) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Batman (1989)
 http://archive.org/download/Batman1989_201804/Batman%20%281989%29%20BluRay%201080p%20Dublado%20-%20TDF.mp4
-#EXTINF:0,Batman O Retorno (1992)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Batman O Retorno (1992)
 http://archive.org/download/1992BatmanORetornoDublado/%5B1992%5D%20Batman%20O%20Retorno%20-%20Bluray%20720p%20Dublado.mp4
-#EXTINF:0,A Maquina do Tempo (1960)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Maquina do Tempo (1960)
 http://archive.org/download/amaquinadotempo1960/42XPIh9ZLjX7.mp4
-#EXTINF:0,As Tartarugas Ninja 1 (1990)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As Tartarugas Ninja 1 (1990)
 http://archive.org/download/AsTartarugasNinjas1990/As%20Tartarugas%20Ninja%201%20%281990%29%20BDrip%20720p%20Dublado%20dat2014.mp4
-#EXTINF:0,As Tartarugas Ninja 2 O Segredo Do Ooze ( 1991)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As Tartarugas Ninja 2 O Segredo Do Ooze ( 1991)
 http://archive.org/download/AsTartarugasNinja2OSegredoDoOoze1991/As%20Tartarugas%20Ninja%202%20-%20O%20Segredo%20do%20Ooze%20%281991%29%20BDrip%20720p%20Dublado%20dat2014.mp4
-#EXTINF:0,1966 One. Million. Years. B. C. TERNAL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) 1966 One. Million. Years. B. C. TERNAL
 http://archive.org/download/1966One.Million.Years.B.C.TERNAL.DVDRiP.x264TehPARADOX/1966%20-%20One.Million.Years.B.C.TERNAL.DVDRiP.x264-tehPARADOX.mp4
-#EXTINF:0,Quando Os Dinossauros Dominavam A Terra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Quando Os Dinossauros Dominavam A Terra
 http://archive.org/download/Quando.Os.Dinossauros.Dominavam.A.Terra.DVDRip.XviD.Legendado.By.lendiniz.therebels/Quando.Os.Dinossauros.Dominavam.A.Terra.DVDRip.XviD.Legendado.By.lendiniz.therebels.mp4
-#EXTINF:4117,A Historia sem fim 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Historia sem fim 1
 http://archive.org/download/historiasemfim1984/historiasemfim1984.mp4
-#EXTINF:0,A Historia sem fim 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Historia sem fim 2
 http://archive.org/download/FFSetup3.7.0.0_201807/a18297ceab1f91afa26e7ab3423e8e12.mp4
-#EXTINF:0,A Historia sem fim 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) A Historia sem fim 3
 http://archive.org/download/AHistriaSemFim31996/A%20Hist%C3%B3ria%20Sem%20Fim%203%20(1996).mkv
-#EXTINF:0,E O VENTO LEVOU 1939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) E O VENTO LEVOU 1939
 http://archive.org/download/EOVentoLevouCompactado/E%20o%20Vento%20Levou%20(Compactado).mp4
-#EXTINF:0,As Filhas Do Fogo (1978)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) As Filhas Do Fogo (1978)
 http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
-#EXTINF:0,Mil Novecentos e Oitenta e Quatro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Mil Novecentos e Oitenta e Quatro
 http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
-#EXTINF:0,UM SONHO DE LIBERDADE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) UM SONHO DE LIBERDADE
 http://archive.org/download/UMSONHODELIBERDADEDUBLADO/UM%20SONHO%20DE%20LIBERDADE%20-%20DUBLADO.mp4
-#EXTINF:0,*************************************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) *************************************************
 http://pastebin.com/raw/*************************************************
-#EXTINF:0,Jogador numero 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Jogador numero 1
 http://archive.org/download/JogadorN12018GoogleFotos/Jogador%20N%C2%BA%201%20%282018%29%20-%20Google%20Fotos.mp4
-#EXTINF:0,O Hobbit A Batalha Dos Cinco Exércitos Versão Estendida
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O Hobbit A Batalha Dos Cinco Exércitos Versão Estendida
 http://archive.org/download/OHobbitABatalhaDosCincoExrcitosVersoEstendida2015Dublado720p/O%20Hobbit%20-%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos%20%5BVers%C3%A3o%20Estendida%5D%20%282015%29%205.1CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4
-#EXTINF:8178,Matrix - https://archive.org/details/Matrix_201702
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Matrix - https://archive.org/details/Matrix_201702
 http://archive.org/download/Matrix_201702/Matrix.mp4
-#EXTINF:8295,Matrix. Reloaded - https://archive.org/details/Matrix.Reloaded.2003
-http://archive.org/download/Matrix.Reloaded.2003/Matrix.Reloaded.mp4
-#EXTINF:0,Matrix Revolutions
-https://archive.org/download/Matrix.Revolutions/Matrix.Revolutions.mp4
-#EXTINF:0,A Bruxa ( 2016)
-http://archive.org/download/ABruxa20165.1CHDublado1080pByLuanHarper/A%20Bruxa%20.mp4
-#EXTINF:0,O Livro De Eli 
-http://archive.org/download/AssistirOLivroDeEliDubladoOnline-FilmesESriesOnl/Assistir%20O%20Livro%20de%20Eli%20Dublado%20Online%20%E2%80%93%20Filmes%20e%20S%C3%A9ries%20Onl.mp4
-#EXTINF:0,Não Me Abandone Jamais ( 2011) 
-http://archive.org/download/NaoMeAbandoneJamais2011720pDubladoAlan680/N%C3%A3o%20Me%20Abandone%20Jamais%20%282011%29%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:0,Texas Rangers: Acima da Lei (2001) 
-http://archive.org/download/Texas.Rangers.Acima.da.Lei.2001.720p.Dublado/Texas.Rangers.Acima.da.Lei.2001.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mp4
-#EXTINF:0,Lágrimas do Sol (2003) 
-http://archive.org/download/Lagrimas.do.Sol.2003.1080p.Dublado.mp4/Lagrimas.do.Sol.2003.1080p.Dublado.mp4
-#EXTINF:0,Pecados Mortais (2014) 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) atualizado 25/11/2018 as 11:20h
+http://archive.org/download/crazysgames_hotmail_60/60.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) AUTO MOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ***************************INFANTIL ********************************************
+http://pastebin.com/raw/***************************INFANTIL%20********************************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Pecados Mortais (2014)
 http://archive.org/download/Pecados.Mortais.2014.720p.Dublado.mp4/Pecados.Mortais.2014.720p.Dublado.mp4
-#EXTINF:0,Entrega Mortal (2013)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Entrega Mortal (2013)
 http://archive.org/download/Entrega.Mortal.2013.720p.Dublado/Entrega%20Mortal%20%282013%29%20-%20wolverdonfilmes.com.mp4
-#EXTINF:0,Centuriao (2010)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Centuriao (2010)
 https://archive.org/download/Centuriao.2010.1080p.Dublado.mp4/Centuriao.2010.1080p.Dublado.mp4
-#EXTINF:0,Centuriao (2010)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Centuriao (2010)
 http://archive.org/download/Centuriao.2010.1080p.Dublado.mp4/Centuriao.2010.1080p.Dublado.mp4
-#EXTINF:0,Círculo de Fogo (2001)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Círculo de Fogo (2001)
 http://archive.org/download/Circulo.de.Fogo.2001.720p.Dublado.mp4/Circulo.de.Fogo.2001.720p.Dublado.mp4
-#EXTINF:0,12 Rounds (2009)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) 12 Rounds (2009)
 http://archive.org/download/12.Rounds.2009.720p.Dublado.mp4/12.Rounds.2009.720p.Dublado.mp4
-#EXTINF:0,Jogos Mortais
-http://archive.org/download/FilmeJogosMortaisJigsaw/filme%20%20%20Jogos%20Mortais%20jigsaw.mp4
-#EXTINF:0,Liga Da Justiça
-http://archive.org/download/FilmeLigaDaJustia/Filme%20-%20Liga%20da%20Justi%C3%A7a.mp4
-#EXTINF:0,O Chamado3 
-http://archive.org/download/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADOBLUDV/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADO-BLUDV.mp4
-#EXTINF:0,Chappie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Chappie
 http://archive.org/download/Chappie_201601/Chappie.mp4
-#EXTINF:0,Sete Vidas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Sete Vidas
 http://archive.org/download/SETEVIDAS/SETE%20VIDAS.mp4
-#EXTINF:0,O Culto 2018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O Culto 2018
 http://archive.org/download/CineClubeGoogleDriveOCulto2018/Cine%20Clube%20Googl%3Be%20Drive%20-%20O%20Culto%202018.mp4
-#EXTINF:0,211: O Grande Assalto 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/682.mp4
-#EXTINF:6026,A Mansâo 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/817.mp4
-#EXTINF:0,A Morte do Superman 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/826.mp4
-#EXTINF:0,A Noite Devorou o Mundo 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/878.mp4
-#EXTINF:0,Agora Estamos Sozinho 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/914L.mp4
-#EXTINF:0,AutoDestruição 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/825.mp4
-#EXTINF:0,Barbie e os Golfinhos Magicos 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/926.mp4
-#EXTINF:0,Bleach 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/885.mp4
-#EXTINF:0,Cyborg X 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/811.mp4
-#EXTINF:0,Desejo de Matar 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/515.mp4
-#EXTINF:0,Do Jeito Que Elas Querem 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/896.mp4
-#EXTINF:0,Felicidade por um Fio 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/889.mp4
-#EXTINF:0,Gente de Bem 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/881.mp4
-#EXTINF:0,Gringo 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/539.mp4
-#EXTINF:0,Guerreiro do Futuro 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/916.mp4
-#EXTINF:0,Hereditário 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/887.mp4
-#EXTINF:0,Holy Camp 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/894.mp4
-#EXTINF:0,Jurrassic World:Reino Ameaçado 2018 
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/900.mp4
-#EXTINF:0,Khali: O Assassino 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/933.mp4
-#EXTINF:0,Lego DC:Aquaman A Fúria de Atlântida 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/818.mp4
-#EXTINF:0,Meu Nome é Jeeg Robot 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/892.mp4
-#EXTINF:0,My Little Poney: O Filme 2017
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/832.mp4
-#EXTINF:0,Nac Uma Quase Dupla 2018 
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/891.mp4
-#EXTINF:0,No Olho do Tornado 2014
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/690.mp4
-#EXTINF:0,Noite de Lobos 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/919.mp4
-#EXTINF:0,O Carma de Um assassino 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/806.mp4
-#EXTINF:0,O Enviado do Mal 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/557.mp4
-#EXTINF:0,O Grito da Morte 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/770.mp4
-#EXTINF:0,O Hospede 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/706.mp4
-#EXTINF:0,O Motorista de Taxi 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/528.mp4
-#EXTINF:0,O Pacote 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/834.mp4
-#EXTINF:0,O Serial Killer Mascarado 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/913.mp4
-#EXTINF:0,O Ultimo Assalto 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/934.mp4
-#EXTINF:0,Os Amantes 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/883.mp4
-#EXTINF:0,Os Escravos de Satanas 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/771.mp4
-#EXTINF:0,Pato Pato Ganso 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/785.mp4
-#EXTINF:0,Pedido de Amizade 2017
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/875.mp4
-#EXTINF:0,Sexy por Acidente 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/888.mp4
-#EXTINF:0,Sol da Meia Noite 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/670.mp4
-#EXTINF:0,Sombra Ardente 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/886.mp4
-#EXTINF:0,SPF-18 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/873.mp4
-#EXTINF:0,Tal Pai - Tal Filha 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/821.mp4
-#EXTINF:0,Thai Mai Rumo ao Vietnã 2018 Leg
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/890L.mp4
-#EXTINF:0,Tio Drew 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/880.mp4
-#EXTINF:0,Um Dia Para Viver 2017
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/820.mp4
-#EXTINF:0,Han Solo - Uma História Star Wars 2018
-http://backup-01.pandora.x2n.com.br:85/filmes/s1/03/884.mp4
-#EXTINF:0,Vingança 2018
-http://backup-02.pandora.x2n.com.br:85/filmes/s1/03/493.mp4
-#EXTINF:0,Circulo de Fogo A revolta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Circulo de Fogo A revolta
 http://www.megafilmes.ga/alemao/vidembed/C%C3%ADrculo.de.F0go.A.R3volta.720p.mp4?crazysgames
-#EXTINF:0, BATMAN VS SUPERMAN -  A ORIGEM DA JUSTIÇA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) BATMAN VS SUPERMAN -  A ORIGEM DA JUSTIÇA
 https://lh3.googleusercontent.com/9k7gDAc2IQpJTZI6bFFpREu61eUUhN-8V8-fJzXkEcQL7Xe93dxlQ9KytWWdV3THIpnqZ5QE=m18
-#EXTINF:0,OS DEUSES DEVEM ESTAR LOUCOS 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) OS DEUSES DEVEM ESTAR LOUCOS 2
 https://lh3.googleusercontent.com/KOYq8j1Uol0c4jk8IlpZ6XFOGlmKlh-bXlN2qxnlaEW4RnYUqiM1Y9_0-snrI1HjONhOvYn2=m18
-#EXTINF:0,OS DEUSES DEVEM ESTAR LOUCOS 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) OS DEUSES DEVEM ESTAR LOUCOS 3
 https://lh3.googleusercontent.com/xGa-dju3-eVrrG0Z7ZVwW2F3Z4xuzE_f8V_XEkud5o8Eo7P9UlICJYSGRdlIU5ziGI-egUdk=m18
-#EXTINF:0,HARRY POTTER E A CAMARA SECRETA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) HARRY POTTER E A CAMARA SECRETA
 https://lh3.googleusercontent.com/SKPRe54uBM6LV5M4ICWHbjyoJW0lqqQ5kF79zi_CEcasEwDiNbAo-QlFUy8E4SA3D77-EsoMDA=m22
-#EXTINF:0,HARRY POTTER E O PRISIONEIRO DE AZKABAM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) HARRY POTTER E O PRISIONEIRO DE AZKABAM
 https://lh3.googleusercontent.com/9ChtKKWR4OYZ4ZB5jg8srJyHf6K1jaI-0kc8AL6geT5P6YmWriiW2y3qw-M8CunvrmLBBFy87w=m22
-#EXTINF:0,HARRY POTTER E A ORDEM DA FENIX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) HARRY POTTER E A ORDEM DA FENIX
 https://lh3.googleusercontent.com/B1Ej1DPPEGxtiuKS5WY0SZ6DSnlR4G-SI4FdO2zFYr3lWQxdZr3r-T3rvVEvsPK5GMTRy9IqgA=m22
-#EXTINF:0,HARRY POTTER E O ENIGMA DO PRINCIPE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) HARRY POTTER E O ENIGMA DO PRINCIPE
 https://lh3.googleusercontent.com/0Qm8dLYdbs8IeGPJ-eD02ppzV7yBxumYv17WX-sHMqy6Q1tUY-G56hF0A2V3NEESKTPsHcS6gg=m22
-#EXTINF:0,HARRY POTTER E AS RELIQUIAS DA MORTE 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) HARRY POTTER E AS RELIQUIAS DA MORTE 1
 https://lh3.googleusercontent.com/P5l1a734bFEJg7Fq8JllWC4V8ucKJD-Scrq3LCCE8aYSsjnNWuaiejF3x9sSimuqo8957bnWxw=m22
-#EXTINF:0,RESIDENT EVIL 3 - A EXTINÇAO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) RESIDENT EVIL 3 - A EXTINÇAO
 https://lh3.googleusercontent.com/oUZTRDDnLrPptPV1YJP8ihI26nRygg9gUzSOtzTgdW2tWi84MEcQB17cirWNHEzjhKkrepMl=m37
-#EXTINF:0,O ATAQUE DOS VERMES 03
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O ATAQUE DOS VERMES 03
 https://lh3.googleusercontent.com/I6MJzZIg0nxcRwNhXve-ALdpJU-0zjoDPonVBSy3N02FCSuoH3MNFAb0AlJV13tpvLl-UtPkTpLpM_chvg=m22
-#EXTINF:0,O ATAQUE DOS VERMES 04
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O ATAQUE DOS VERMES 04
 https://lh3.googleusercontent.com/U5vPnIJbz2tGAcvYxZh6tPhet-GlgQsZVKGsT-NfTJdb06gGwPZ5WoZ7xWkH1U8j33b-vIQG-7sPqGArsQ=m22
-#EXTINF:0,O ATAQUE DOS VERMES 02
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O ATAQUE DOS VERMES 02
 https://lh3.googleusercontent.com/hP1MDKPILK2LEnTWnvCujbYlnmsUT5BkrTsczf9JKZcgM5wQ842xPBuUzW86XXg5uXL2C97GOm1Tz6LWvQ=m22
-#EXTINF:0,O ATAQUE DOS VERMES - 05
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O ATAQUE DOS VERMES - 05
 https://lh3.googleusercontent.com/aud03hEbS23be2ZqaHf6OpH92mNwKnzz0B1-64eMv3ViIfHV2WOH0iQU-c3N4v_arkzBe8kidfE9Mrnuqg=m22
-#EXTINF:0,ALLIGATOR 1 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ALLIGATOR 1
 https://lh3.googleusercontent.com/AortKH9dAHG1ujI2YN63hcathLQV2Ya1zQTayspS1E8J_MZ9TSBR1vbJnBhtsRKtZA0dkv0dqw=m22
-#EXTINF:0,ALLIGATOR 2 - A MUTAÇAO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) ALLIGATOR 2 - A MUTAÇAO
 https://lh3.googleusercontent.com/QtsAAraJo3xT270zhspRMtkgxXiInO7C5CFtzd99pffoKpvSRdA3aDeI6fQKIcFf2gt9UYMEfg=m22
-#EXTINF:0,PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
-#EXTINF:0,PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu9VR6jHFy4StVl9EiXtqndGQrTPTg=m18
-#EXTINF:0,PATRULHA CANINA 03 - OS FILHOTES E O TESOURO PIRATA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) PATRULHA CANINA 03 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
-#EXTINF:0,PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
-#EXTINF:0,Sobrenatural: Capítulo 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Sobrenatural: Capítulo 2
 https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m22
-#EXTINF:0,Sobrenatural: A Origem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Sobrenatural: A Origem
 https://lh3.googleusercontent.com/8YC_w8TZtVudllY4Zw-PRGQrqrt6wIWBF4ANRye7pjo=m22
-#EXTINF:0,Os Mercenários 3 Leg
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Os Mercenários 3 Leg
 https://lh3.googleusercontent.com/O-7p7RWQJBDKF9LtRZCyGk7wVG0mFougJXPPP170L8Q=m22
-#EXTINF:0,Gato de Botas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Gato de Botas
 https://lh3.googleusercontent.com/Rh0-EYsMxVv9n9afGg7m4GLPM8404vve6UeALmGcZQAGyUaBRuDXcQSDPmFZT6Q8oA40w_0_DrKIyA=m22
-#EXTINF:0, REC 4 - Apocalipse
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) REC 4 - Apocalipse
 https://lh3.googleusercontent.com/lrwHAE-0tSuONIPZz4xmEzWPEQcDXj_396ThIGZx4bI=m22
-#EXTINF:0,Jogos Mortais 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Jogos Mortais 3
 https://lh3.googleusercontent.com/MWfgFZHJQKIsnHKfktoCZTTzIrarnbkV-wCmxJnulZ1lfsds5Iy45-Sfv-4AR52FWoJT7LXm4z2MS439JhHjukBPmG7GJLPLQuavOnBTg-kGshUy9xvI_7RP1A42LSrSPFqZc9KU7w=m22
-#EXTINF:0,Jogos Mortais 7: O Final
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Jogos Mortais 7: O Final
 https://lh3.googleusercontent.com/k2BZsc0mGPB-6cIinnCBPLxSshBqtuQGX265UWQNcnE9yG6rbVY8QJRvwbwo4dYqE_-EBMuP3JlFBLJOTi2QwA4zKG9X1N4NVzSlFu85cg2J4Afuy_Qw1VD3VsdcJQGBpfmFraGDeg=m22
-#EXTINF:5472,*****erers
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) *****erers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4?LHMTv
-#EXTINF:0,12 Horas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) 12 Horas
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-#EXTINF:0,1984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) 1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
-#EXTINF:0,O Guardiao - 2 Retorno As Minas do Rei Salomao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Guardiao - 2 Retorno As Minas do Rei Salomao
 http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
-#EXTINF:6142,A Beira do Abismo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Beira do Abismo
 http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
-#EXTINF:6761,A Grande Jogada
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Grande Jogada
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-#EXTINF:0,A Guarda Do Leao O Regresso Do Rugido
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Guarda Do Leao O Regresso Do Rugido
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv?LHMTv
-#EXTINF:0,A Guerra de Hart
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
-#EXTINF:5798,A Heranca de Mr. Deeds
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
-#EXTINF:6702,A Informante
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Informante
 http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
-#EXTINF:5555,Skyline - A Invasao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Skyline - A Invasao
 http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
-#EXTINF:5754,A Janela Secreta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-#EXTINF:6278,A Jovem Rainha Victoria
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Jovem Rainha Victoria
 http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
-#EXTINF:0,A Lula e a Baleia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Lula e a Baleia
 http://media-br-am.crackle.com/1/5/f6/17ylf_480p.mp4?LHMTv
-#EXTINF:5409,O Guardiao 3 - A Maldicao do Calice de Judas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Guardiao 3 - A Maldicao do Calice de Judas
 http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
-#EXTINF:0,Evil Dead - A Morte do Demonio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Evil Dead - A Morte do Demonio
 http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
-#EXTINF:4867,A Outra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Outra
 http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
-#EXTINF:0,A Pantera Cor de Rosa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-#EXTINF:0,A Primeira Vista
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Primeira Vista
 http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4?LHMTv
-#EXTINF:5561,Anjos da Noite 3 - A Rebeliao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/2/16/dp1lf_480p.mp4?LHMTv
-#EXTINF:0,A Rosa Purpura do Cairo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Rosa Purpura do Cairo
 http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
-#EXTINF:0,Laurel Canyon - A Rua das Tentacoes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Laurel Canyon - A Rua das Tentacoes
 http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
-#EXTINF:0,Ricky Bobby - A Toda Velocidade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ricky Bobby - A Toda Velocidade
 http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
-#EXTINF:6761,A ULTIMA APOSTA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A ULTIMA APOSTA
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-#EXTINF:6246,A Ultima Missao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
-#EXTINF:0,A Vila Dublado 2017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Vila Dublado 2017
 http://media-br-am.crackle.com/1/q/p6/5d4lf_480p.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:5589,Lenda Urbana 3 - A Vinganca de Mary
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lenda Urbana 3 - A Vinganca de Mary
 http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
-#EXTINF:0,A Volta dos Mortos Vivos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
-#EXTINF:0,Adeus Amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Adeus Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LHMTv
-#EXTINF:0,Adoraveis Mulheres
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Adoraveis Mulheres
 http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LHMTv
-#EXTINF:0,Africa dos Meus Sonhos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Africa dos Meus Sonhos
 http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
-#EXTINF:6079,Agente Indomavel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?LHMTv
-#EXTINF:0,All That Jazz: O Show Deve Continuar 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) All That Jazz: O Show Deve Continuar
 http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:5768,Amar  Trair e Roubar 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Amar  Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Ameaca Virtual
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ameaca Virtual
 http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4?LHMTv
-#EXTINF:0,Amigas com Dinheiro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
-#EXTINF:0,Amigo de Casa 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Amigo de Casa
 http://media-br-am.crackle.com/1/w/z6/ksvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Amigos de Caça
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Amigos de Caça
 http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
-#EXTINF:6713,Adeus Amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Adeus Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
-#EXTINF:0,Anjos da Noite: A Evolucao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
-#EXTINF:0,Annie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-#EXTINF:0,Antonio Raminhos Apresenta As Marias
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Antonio Raminhos Apresenta As Marias
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
-#EXTINF:0,Apenas Uma Vez
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
-#EXTINF:0,Resident Evil Apocalipse
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Resident Evil Apocalipse
 http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
-#EXTINF:0,Red - Aposentados e Perigosos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
-#EXTINF:0,Aprendendo A Viver
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Aprendendo A Viver
 http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
-#EXTINF:0,Aproximando-se do Desconhecido dublado 2016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Aproximando-se do Desconhecido dublado 2016
 http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Aproximando-SeDoDesconhecido-DUBLADO.mp4/playlist.m3u8
-#EXTINF:0,As Branquelas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
-#EXTINF:0,As coisas impossiveis do amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) As coisas impossiveis do amor
 http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
-#EXTINF:0,As Duas Faces Da Lei
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) As Duas Faces Da Lei
 http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
-#EXTINF:0,As Faces de Helen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) As Faces de Helen
 http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
-#EXTINF:0,Honra e Coragem - As Quatro Plumas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Honra e Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
-#EXTINF:0,Assalto A Londres
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Assalto A Londres
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4?LHMTv
-#EXTINF:0,Assalto Sobre Trilhos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
-#EXTINF:0,Assassinato no Expresso do Oriente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Assassinato no Expresso do Oriente
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
-#EXTINF:0,Avioes Equipa De Resgate
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Avioes Equipa De Resgate
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4?LHMTv
-#EXTINF:0,Barbershop The Next
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Barbershop The Next
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4?LHMTv
-#EXTINF:0,Barbie E As Agentes Secretas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Barbie E As Agentes Secretas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4?LHMTv
-#EXTINF:0,Bastidores de um Casamento
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Bastidores de um Casamento
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
-#EXTINF:0,Bolas em Panico
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Bolas em Panico
 http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
-#EXTINF:0,Bons Costumes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
-#EXTINF:4290,Monster High: Boo York -  Boo York Pt
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Monster High: Boo York -  Boo York Pt
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4?LHMTv
-#EXTINF:0,Boog E Elliot Aventura Na Floresta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Boog E Elliot Aventura Na Floresta
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4?LHMTv
-#EXTINF:0,Brahman Naman
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Brahman Naman
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4?LHMTv
-#EXTINF:0,Brinquedo Assassino
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Brinquedo Assassino
 http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
-#EXTINF:0,BROADWAY CROSS ROAD
-https://videos3.earthcam.com/fecnetwork/4717.flv/chunklist_w1982083837.m3u8
-#EXTINF:0,Brokeback Mountain
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Brokeback Mountain
 http://media-br-am.crackle.com/1/t/am/vddyb_480p_1mbps.mp4
-#EXTINF:0,Brothers
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Brothers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4?LHMTv
-#EXTINF:0,Bruno
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Bruno
 http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
-#EXTINF:0,Busca Sem Limites Dublado HD 720p 2016
-http://185.22.173.118/V2/Busca.Sem.Limites.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
-#EXTINF:0,Cabin Fever
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cabin Fever
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4?LHMTv
-#EXTINF:0,Harley Davidson E Marlboro Man - Cacada Sem Tregua 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Harley Davidson E Marlboro Man - Cacada Sem Tregua
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Cada um Vive Como Quer
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cada um Vive Como Quer
 http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
-#EXTINF:0,Caes de Guerra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
-#EXTINF:0,Caminho Sem Volta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Caminho Sem Volta
 http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
-#EXTINF:0,Caminhos Opostos 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Caminhos Opostos
 http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Caos na Prisao
-http://offload9238.filmesonlinex.co/filmes/s1/03/508.mp4?LHMTv
-#EXTINF:0,Capitao America: Guerra Civil
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Capitao America: Guerra Civil
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4?LHMTv
-#EXTINF:0,Caravana da Coragem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Caravana da Coragem
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/C4r.d.C0r4.LHMTv.mp4?LHMTv
-#EXTINF:0,Cartel Land
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cartel Land
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4?LHMTv
-#EXTINF:0,Casamento as Avessas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Casamento as Avessas
 http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
-#EXTINF:0,Cativeiro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cativeiro
 http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
-#EXTINF:0,Cell Chamada Para A Morte
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cell Chamada Para A Morte
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4?LHMTv
-#EXTINF:6366,Salve -  Cesar!
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Salve -  Cesar!
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4?LHMTv
-#EXTINF:0,CHICAGO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) CHICAGO
 https://videos3.earthcam.com/fecnetwork/13220.flv/chunklist_w547281597.m3u8
-#EXTINF:0,Cinturao Vermelho 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Cinturao Vermelho
 http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Code Of Honor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Code Of Honor
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4?LHMTv
-#EXTINF:0,Codigo de Honra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Codigo de Honra
 http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
-#EXTINF:0,Coisas Belas E Sujas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Coisas Belas E Sujas
 http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
-#EXTINF:0,S.W.A.T. - Comando Especial
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
-#EXTINF:0,Jogue a Mamae do Trem - Comedia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jogue a Mamae do Trem - Comedia
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LHMTv
-#EXTINF:0,Como conquistar uma mulher
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Como conquistar uma mulher
 http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
-#EXTINF:0,Como Se Fosse a Primeira Vez
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Como Se Fosse a Primeira Vez
 http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-#EXTINF:0,Como Ser Solteira
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Como Ser Solteira
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4?LHMTv
-#EXTINF:0,Comportamento Suspeito
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
-#EXTINF:0,Conquista Sangrenta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
-#EXTINF:0,Contatos Imediatos de Terceiro Grau
-http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?STANIPTV
-#EXTINF:0,Convensao das Bruxas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Convensao das Bruxas
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/C0nv.d.Brx.LHMTv.mp4?LHMTv
-#EXTINF:0,Corpo em Evidencia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Corpo em Evidencia
 http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
-#EXTINF:0,Crash: No Limite
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
-#EXTINF:0,Criminal Activities
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Criminal Activities
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4?LHMTv
-#EXTINF:0,Criminoso
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Criminoso
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4?LHMTv
-#EXTINF:0,Curse Of The Witching Tree
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Curse Of The Witching Tree
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4?LHMTv
-#EXTINF:0,Swingers - Curtindo a Noite
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
-#EXTINF:0,Curtindo a Vida Adoidado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Curtindo a Vida Adoidado
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/C.aV1d4.Ado.LHMTv.mp4?LHMTv
-#EXTINF:0,Da Serie Divergente Convergente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Da Serie Divergente Convergente
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4?LHMTv
-#EXTINF:0,Dads Army
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Dads Army
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4?LHMTv
-#EXTINF:0,Dark Crimes LEG
-http://offload9238.filmesonlinex.co/filmes/s1/03/504.mp4?LHMTv
-#EXTINF:0,De Repente 30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
-#EXTINF:0,Dead Rising Endgame
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Dead Rising Endgame
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4?LHMTv
-#EXTINF:0,Deadly Intent
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Deadly Intent
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4?LHMTv
-#EXTINF:6521,Deadpool
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Deadpool
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4?LHMTv
-#EXTINF:0,Decay
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Decay
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4?LHMTv
-#EXTINF:0,DECODIFICANDO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) DECODIFICANDO
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4
-#EXTINF:0,Demolicao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Demolicao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4?LHMTv
-#EXTINF:0,Desafio Radical
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
-#EXTINF:0,Desaparecidas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Desaparecidas
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-#EXTINF:0,Desejo a Tres
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Desejo a Tres
 http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
-#EXTINF:0,DEUS DA CARNIFICINA DUBLADO-ONDEMAND
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) DEUS DA CARNIFICINA DUBLADO-ONDEMAND
 http://media-br-am.crackle.com/1/x/t6/9l4lf_480p.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,Devdas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Devdas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4?LHMTv
-#EXTINF:0,Diablo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Diablo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4?LHMTv
-#EXTINF:0,Divisao de Homicidios
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
-#EXTINF:0,Diário de Uma Paixão
-http://proxy-20.nyc.dailymotion.com/sec(6bbf393b29ef5a0325f4f6fea2b3d1b4)/video/594/513/156315495_mp4_h264_aac_hd.m3u8?CANAISGLAU
-#EXTINF:0,Dr. Fantastico
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Dr. Fantastico
 http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
-#EXTINF:0,Duplex
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Duplex
 https://lh6.googleusercontent.com/ajyvb3icBTtiv2Hfyj-aEOzNImtSjF39lOvJ6m0FkDaBDtR4nJPEg28tYLgqg_YwQdbBvn1xL1h8oXckVTWIT2hwN26IHpBvcLfHgfNMMkE53QzyFH2xsQLZQ1vuCSp63PGMBQ=m18
-#EXTINF:0,Duplo Confronto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Duplo Confronto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4?LHMTv
-#EXTINF:0,Superbad - E Hoje
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
-#EXTINF:0,Eddie The Eagle
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Eddie The Eagle
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4?LHMTv
-#EXTINF:0,Superbad - Eh Hoje
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Superbad - Eh Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LHMTv
-#EXTINF:0,Ek Tha Tiger
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ek Tha Tiger
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4?LHMTv
-#EXTINF:0,Electra Woman And Dyna Girl
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Electra Woman And Dyna Girl
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4?LHMTv
-#EXTINF:0,Emelie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Emelie
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4?LHMTv
-#EXTINF:0,Emmas Chance
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Emmas Chance
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4?LHMTv
-#EXTINF:0,Encontros ao Acaso
-http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
-#EXTINF:0,Enquanto Ela Estiver Fora
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Enquanto Ela Estiver Fora
 http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?STANIPTV
-#EXTINF:0,Equilibrio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Equilibrio
 http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
-#EXTINF:0,Espiao Por Acidente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
-#EXTINF:0,xXx 2 - Estado de Emergencia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) xXx 2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?LHMTv
-#EXTINF:0,Estrada Maldita
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Estrada Maldita
 http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
-#EXTINF:0,Estranha Obsessao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Estranha Obsessao
 http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?STANIPTV
-#EXTINF:0,Eu Sei Quem Me Matou
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Eu Sei Quem Me Matou
 http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
-#EXTINF:0,Eu sou a Lenda
-http://4playhd.com/EuSouaLenda.mp4?LHMTv
-#EXTINF:0,Eu. Christiane F. 13 Anos. Drogada e Prostituida
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Eu. Christiane F. 13 Anos. Drogada e Prostituida
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/E.CR15.Fi3.A.D.ePr0.LHMTv.mp4?LHMTv
-#EXTINF:0,Excesso de Bagagem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4?STANIPTV
-#EXTINF:0,eXistenZ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) eXistenZ
 http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
-#EXTINF:0,Factor De Risco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Factor De Risco
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4?LHMTv
-#EXTINF:0,Fantasmas de Marte
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Fantasmas de Marte
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?LHMTv
-#EXTINF:0,Feitico da Lua
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Feitico da Lua
 http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-#EXTINF:0,Feitico do Tempo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Feitico do Tempo
 http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
-#EXTINF:0,Femme Fatale 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Femme Fatale
 http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Almondegas 4 - Ferias de Verao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
-#EXTINF:0,Beast Wars - Fim Da Linha 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Beast Wars - Fim Da Linha
 http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4?LHMTv
-#EXTINF:0,Flores Partidas 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Flores Partidas
 http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Forsaken
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Forsaken
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4?LHMTv
-#EXTINF:0,Fourth Man Out
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Fourth Man Out
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4?LHMTv
-#EXTINF:0,Frozen Reino Gelo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Frozen Reino Gelo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4?LHMTv
-#EXTINF:0,Fuga de Absolom
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Fuga de Absolom
 http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
-#EXTINF:0,Funcionario do Mes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
-#EXTINF:0,Funny Lady
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
-#EXTINF:0,Garotas Selvagens 4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
-#EXTINF:0,Gasparzinho e Wendy
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gasparzinho e Wendy
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/GPZ.e.WND.LHMTv.mp4?LHMTv
-#EXTINF:0,Gattaca  a Experiencia Genetica
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gattaca  a Experiencia Genetica
 http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Get A Job
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Get A Job
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4?LHMTv
-#EXTINF:0,Girl In Woods
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Girl In Woods
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4?LHMTv
-#EXTINF:0,Gleria
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gleria
 http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4?LHMTv
-#EXTINF:8326,Godzilla 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Godzilla
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Godzilla (1998)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Godzilla (1998)
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4?STANIPTV
-#EXTINF:0,Grande Hotel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
-#EXTINF:0,Gremlins
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gremlins
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/GRls1.LHMTv.mp4?LHMTv
-#EXTINF:0,Gremlins 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gremlins 2
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/GRls2.LHMTv.mp4?LHMTv
-#EXTINF:0,Greta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Greta
 http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
-#EXTINF:0,Guardioes da Galaxia
-http://4playhd.com/GuardioesdaGalaxia.mp4?LHMTv
-#EXTINF:8146,Guardioes da Galaxia 2
-http://4playhd.com/GuardioesDaGalaxia2.mp4?LHMTv
-#EXTINF:0,Guerra ao Terror
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
-#EXTINF:0,Ong-Bak - Guerreiro Sagrado
-http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4?STANIPTV
-#EXTINF:0,H2O
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) H2O
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4
-#EXTINF:0,Hacker: Todo Crime Tem Um Início DUBLADO 2016
-http://nazabox.ddns.net/lan/htctu7.mp4?LHMTv
-#EXTINF:0,Hancock- dublado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hancock- dublado
 http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4?STANIPTV
-#EXTINF:0,Hardcore Henry
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hardcore Henry
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4?LHMTv
-#EXTINF:0,Haven
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Haven
 http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
-#EXTINF:0,Herois
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
-#EXTINF:0,Herois Imaginarios 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Herois Imaginarios
 http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Heropanti
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Heropanti
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4?LHMTv
-#EXTINF:0,Holidays
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Holidays
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4?LHMTv
-#EXTINF:0,Home
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Home
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4?LHMTv
-#EXTINF:0,Homens de Preto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Homens de Preto
 http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4
-#EXTINF:0,Homens Perigosos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Homens Perigosos
 http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
-#EXTINF:0,Hooligans: Furia nos campos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hooligans: Furia nos campos
 http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
-#EXTINF:0,Horas de Desespero
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Horas de Desespero
 http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
-#EXTINF:0,Horas Decisivas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Horas Decisivas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4?LHMTv
-#EXTINF:0,Hospede Do Medo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hospede Do Medo
 http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HospedeDoMedo-DUBLADO.mp4/playlist.m3u8
-#EXTINF:0,Hotel Ruanda
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hotel Ruanda
 http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
-#EXTINF:0,Hotel Transylvania 2 Pt
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hotel Transylvania 2 Pt
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4?LHMTv
-#EXTINF:4892,Hush
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hush
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4?LHMTv
-#EXTINF:0,I Am Wrath
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) I Am Wrath
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4?LHMTv
-#EXTINF:0,Identidade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Identidade
 http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
-#EXTINF:5780,Impacto Mortal
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-#EXTINF:0,Inocente Ou Culpado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Inocente Ou Culpado
 http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
-#EXTINF:6281,Ip Man 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ip Man 3
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4?LHMTv
-#EXTINF:5724,Ironias do Amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ironias do Amor
 http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
-#EXTINF:0,James White
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) James White
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4?LHMTv
-#EXTINF:0,Jarhead 3: The Siege
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jarhead 3: The Siege
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4?LHMTv
-#EXTINF:0,Jazbaa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jazbaa
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4?LHMTv
-#EXTINF:0,JCVD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
-#EXTINF:5653,Jeruzalem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jeruzalem
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4?LHMTv
-#EXTINF:0,Jogando com Prazer
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jogando com Prazer
 http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
-#EXTINF:0,Jogos Mortais
-http://media-br-am.crackle.com/1/q/z6/vj3lf_480p_1mbps.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,Jogos Trapacas E dois Canos Fumegantes 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jogos Trapacas E dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Jogue a Mamae do Trem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
-#EXTINF:0,Jovens Bruxas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
-#EXTINF:0,Julie & Julia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Julie & Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
-#EXTINF:5762,Juno
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Juno
 http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
-#EXTINF:0,Junto Ao Mar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Junto Ao Mar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4?LHMTv
-#EXTINF:0,Kiddo O Super Camiao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kiddo O Super Camiao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4?LHMTv
-#EXTINF:0,Kids
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kids
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Kr1K1D5.LHMtv.mp4?LHMTv
-#EXTINF:0,Killing Jesus
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Killing Jesus
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4?LHMTv
-#EXTINF:0,Kindergarten Cop 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kindergarten Cop 2
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4?LHMTv
-#EXTINF:0,Krull
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Krull
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/KRL.LHTMv.mp4?LHMTv
-#EXTINF:4770,Kung Fu Panda 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kung Fu Panda 3
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4?LHMTv
-#EXTINF:0,Kung-Fu Futebol Clube
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
-#EXTINF:0,Kung-Fusao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kung-Fusao
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
-#EXTINF:0,Lagrimas do Sol
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lagrimas do Sol
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
-#EXTINF:0,Lake Eerie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lake Eerie
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4?LHMTv
-#EXTINF:0,Lancelot O Primeiro Cavaleiro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lancelot O Primeiro Cavaleiro
 http://media-br-am.crackle.com/1/x/56/5v1lf_480p.mp4
-#EXTINF:0,Lawrence da Arabia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?LHMTv
-#EXTINF:0,Leao Da Estrela
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Leao Da Estrela
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4?LHMTv
-#EXTINF:0,Lego Scooby-doo!: Haunted Hollywood
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lego Scooby-doo!: Haunted Hollywood
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
-#EXTINF:0,Lembrancas de Hollywood
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lembrancas de Hollywood
 http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
-#EXTINF:0,Lenda Urbana 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lenda Urbana 2
 http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
-#EXTINF:0,Lendas da Paixao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lendas da Paixao
 http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
-#EXTINF:0,Lua de Mel em Las Vegas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
-#EXTINF:0,Luta Pela Liberdade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Luta Pela Liberdade
 http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
-#EXTINF:0,Madagascar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Madagascar
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/MdgscrI.LHMtv.mp4?LHMTv
-#EXTINF:0,MADAGASCAR 1 DUBLADO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MADAGASCAR 1 DUBLADO
 https://goo.gl/Tp28jb
-#EXTINF:0,Madagascar 2 A Grande Escapada
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Madagascar 2 A Grande Escapada
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/MdgscrII.A.G.E.LHMtv.mp4?LHMTv
-#EXTINF:0,Madagascar 3 Os procurados
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Madagascar 3 Os procurados
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/MdgscrIII.Os.Proc.LHMtv.mp4?LHMTv
-#EXTINF:0,Mal Posso Esperar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mal Posso Esperar
 http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
-#EXTINF:0,Malicia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Malicia
 http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
-#EXTINF:0,Manhattan Night
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Manhattan Night
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4?LHMTv
-#EXTINF:0,MAQUINA DO TEMPO PORTATIL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MAQUINA DO TEMPO PORTATIL
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4
-#EXTINF:0,Marauders
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Marauders
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4?LHMTv
-#EXTINF:6103,Marcas do Passado
-http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Matador de Aluguel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Matador de Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?LHMTv
-#EXTINF:0,Matilda
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Matilda
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/M4t.LHMTv.mp4?LHMTv
-#EXTINF:0,Mazzaropi em Jeca e seu filho preto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mazzaropi em Jeca e seu filho preto
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mzrp-J.e.s.f.Pre.LHMTv.mp4?LHMTv
-#EXTINF:0,Mazzaropi em Jeca um fofoqueiro no ceu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mazzaropi em Jeca um fofoqueiro no ceu
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mzrp-J.u.f.n.Ceu.LHMTv.mp4?LHMTv
-#EXTINF:0,Mazzaropi em O Jeca contra o capeta
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mazzaropi em O Jeca contra o capeta
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mzrp-J.C.o.Cap.LHMTv.mp4?LHMTv
-#EXTINF:0,Mazzaropi O Lamparino do Deserto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mazzaropi O Lamparino do Deserto
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mzrp-O.Lamp.LHMTv.mp4?LHMTv
-#EXTINF:0,MEGAESTRUTURAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) MEGAESTRUTURAS
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
-#EXTINF:0,Menina Ma.com
-http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
-#EXTINF:5999,Sexo -  Mentiras e Videotape
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sexo -  Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-#EXTINF:0,Mentiras e Videotape
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-#EXTINF:0,Mergulho Radical 2: Os Recifes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Mergulho Radical 2: Os Recifes
 http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
-#EXTINF:0,Meu Primeiro Amor 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Meu Primeiro Amor
 http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LHMTv
-#EXTINF:0,Meus Quinze Anos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Meus Quinze Anos
 http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
-#EXTINF:0,Midnight Special
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Midnight Special
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4?LHMTv
-#EXTINF:7035,Eu -  Minha Mulher e Minhas Copias
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Eu -  Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-#EXTINF:0,Minha Mulher e Minhas Copias
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-#EXTINF:0,Minimos
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4?LHMTv
-#EXTINF:0,Misconduct
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4?LHMTv
-#EXTINF:0,Mixed Nuts
-http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
-#EXTINF:0,Modigliani
-http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,MONTANHAS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4
-#EXTINF:0,Moonwalkers
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4?LHMTv
-#EXTINF:0,Mothers And Daughters
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4?LHMTv
-#EXTINF:0,Mudanca de Habito
-http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mud.H1.LHMTv.mp4?LHMTv
-#EXTINF:0,Mudanca de Habito 2: Mais Loucuras no Convento
-http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Mud.H2.LHMTv.mp4?LHMTv
-#EXTINF:0,Muito A Frente
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4?LHMTv
-#EXTINF:0,Mulher Nota 1000
-http://media1.lhmtv.ml/27/items/LHMTVfilmes2/M.Nta1K.LHMTv.mp4?LHMTv
-#EXTINF:0,Mulher Solteira Procura
-http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
-#EXTINF:0,A Era da Escuridao - Mutant Chronicles
-http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
-#EXTINF:0,Na Companhia Do Medo
-http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
-#EXTINF:0,Willow - Na Terra da Magia
-http://media1.lhmtv.ml/27/items/LHMTVfilmes2/W.n.T.d.M4g.LHMTv.mp4?LHMTv
-#EXTINF:0,Namorada de aluguel
-http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Nm.d.4lug.LHMTv.mp4?LHMTv
-#EXTINF:0,Nao Adianta Fugir
-http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
-#EXTINF:0,Nao e Mais um Besteirol Americano
-http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
-#EXTINF:0,Nao Sem a Minha Filha
-http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
-#EXTINF:0,Nas Profundezas Do Mar Sem Fim
-http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
-#EXTINF:0,Nem Por Cima do Meu Cadaver
-http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-#EXTINF:0,Nem Tudo eh o Que Parece
-http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Never Back Down No Surrender
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4?LHMTv
-#EXTINF:0,NEW ORLEANS
-https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w1264728811.m3u8
-#EXTINF:0,NEW ORLEANS KARAOKE CAM
-https://videos3.earthcam.com/fecnetwork/4281.flv/chunklist_w1662357726.m3u8
-#EXTINF:0,NIAGARA FALLS
-https://videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w1430369651.m3u8
-#EXTINF:0,Nicholas Nickleby
-http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
-#EXTINF:0,Nowhere Boys: The Book Of Shadows
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4?LHMTv
-#EXTINF:0,O ABC do Amor
-http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
-#EXTINF:0,O Albergue 2
-http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
-#EXTINF:0,O Aprendiz
-http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
-#EXTINF:0,O Balconista
-http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
-#EXTINF:0,O Bicho Vai Pegar 4 Dublado HD
-http://nazabox.ddns.net/inf/obvp4k.mp4?LHMTv
-#EXTINF:0,O Cacador E A Rainha Do Gelo
-http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4?LHMTv
-#EXTINF:0,O Cantor
-http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
-#EXTINF:0,Christine - O Carro Assassino
-http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?LHMTv
-#EXTINF:0,O Casamento de Rachel
-http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
-#EXTINF:0,O Chamado de Xangai
-http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
-#EXTINF:0,O clube de Leitura de Jane Austen
-http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
-#EXTINF:0,O Codigo Da Vinci
-http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-#EXTINF:0,O Colecionador de Ossos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Colecionador de Ossos
 http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Contrato
-http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
-#EXTINF:0,Karate Kid 3 - O Desafio Final Filme
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Karate Kid 3 - O Desafio Final Filme
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
-#EXTINF:0,O Despertar de uma Paixao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Despertar de uma Paixao
 http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
-#EXTINF:0,O Dia do Atentado (2017) 720p
-http://185.22.173.118/V2/O.Dia.do.Atentado.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
-#EXTINF:0,O Diario de Anne Frank DUBLADO 2016
-http://nazabox.ddns.net/oddaw7.mp4?LHMTv
-#EXTINF:0,O Escaravelho Do Diabo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Escaravelho Do Diabo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4?LHMTv
-#EXTINF:0,Gasparzinho - o Fantasminha Camarada
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Gasparzinho - o Fantasminha Camarada
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/GPZ-O.f.c.LHMTv.mp4?LHMTv
-#EXTINF:0,O Filho Intruso
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O Filho Intruso
 https://lh5.googleusercontent.com/yocdq0tt1PC69aYjfYd71f0u0IFuCpBGrJvradUA60dOW18V_uZupISza-4JwXSdxR362ykV7yzO3sznl6G-5DXQpjmFFbg4gbLnnKpQTiudC8ipZDGp2ZS1zOorm2w1vzYLHw=m18
-#EXTINF:0,O Forasteiro 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
-#EXTINF:0,O Grande Anjo Negro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Grande Anjo Negro
 http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Grito 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Grito 2
 http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?LHMTv
-#EXTINF:0,O Guardiao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Guardiao
 http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
-#EXTINF:0,O Guardiao 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Guardiao 2
 http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Guardiao 3 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Guardiao 3
 http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Norm - O Heroi Do Artico
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Norm - O Heroi Do Artico
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4?LHMTv
-#EXTINF:0,Starman - O Homem das Estrelas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Starman - O Homem das Estrelas
 http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
-#EXTINF:0,O Homen Sombra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
-#EXTINF:0,Resident Evil - O Hospede Maldito
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Resident Evil - O Hospede Maldito
 http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
-#EXTINF:0,O Ilusionista
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Ilusionista
 http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
-#EXTINF:0,O Inquilino
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Inquilino
 http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
-#EXTINF:0,O Julgamento de Paris
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Julgamento de Paris
 http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
-#EXTINF:0,O Justiceiro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Justiceiro
 http://media-br-am.crackle.com/1/q/96/o01lf_480p.mp4
-#EXTINF:0,O Legionario
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Fido - O Mascote
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Fido - O Mascote
 http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
-#EXTINF:0,O Melhor Amigo Da Noiva
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Melhor Amigo Da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
-#EXTINF:0,O MUNDO DAS ARMAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O MUNDO DAS ARMAS
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4
-#EXTINF:0,O Nome do Jogo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Nome do Jogo
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
-#EXTINF:0,O Nosso Milagre
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Nosso Milagre
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4?LHMTv
-#EXTINF:0,O Oposto do Sexo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Oposto do Sexo
 http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LHMTv
-#EXTINF:0,O Otario
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Otario
 http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
-#EXTINF:0,O Paizao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
-#EXTINF:0,O Paraiso e Logo Aqui
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Paraiso e Logo Aqui
 http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
-#EXTINF:0,O Pestinha
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Pestinha
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.P35t.LHMTv.mp4?LHMTv
-#EXTINF:0,Robocop - O Policial do Futuro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Robocop - O Policial do Futuro
 http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
-#EXTINF:0,O Povo contra Larry Flint
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Povo contra Larry Flint
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?LHMTv
-#EXTINF:0,O Principal Suspeito
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Principal Suspeito
 http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Principezinho
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Principezinho
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/52.mp4?LHMTv
-#EXTINF:0,O Rancho do Amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Rancho do Amor
 http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
-#EXTINF:0,O Regaste de um Campeao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Regaste de um Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-#EXTINF:0,O Resgate de um Campeao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Resgate de um Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-#EXTINF:0,O Resgate Do Soldado Ryan
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O Resgate Do Soldado Ryan
 http://archive.org/download/OResgateDoSoldadoRyan/O%20Resgate%20do%20Soldado%20Ryan.mp4
-#EXTINF:0,O Retorno do Campeao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Retorno do Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Ritual (2012)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
-#EXTINF:0,O Sangue de Romeo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Sangue de Romeo
 http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
-#EXTINF:0,O Segredo de Brokeback Mountain
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Segredo de Brokeback Mountain
 http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
-#EXTINF:0,O Segredo Dos Seus Olhos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Segredo Dos Seus Olhos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4?LHMTv
-#EXTINF:0,O Senhor das Armas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
-#EXTINF:0,O Sequestro do Metro
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Sequestro do Metro
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Sequestro do Metro 123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
-#EXTINF:0,All That Jazz - O Show Deve Continuar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) All That Jazz - O Show Deve Continuar
 http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
-#EXTINF:0,O SOL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) O SOL
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4
-#EXTINF:0,O Tango e o Assassino
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Tango e o Assassino
 http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O Ultimo Grande Heroi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
-#EXTINF:0,Outcast - O Ultimo Templario
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Outcast - O Ultimo Templario
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/108.mp4?LHMTv
-#EXTINF:0,O Vigarista do Ano
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O Vigarista do Ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,O VINGADOR DO FUTURO DUB
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) O VINGADOR DO FUTURO DUB
 http://media-br-am.crackle.com/1/q/p6/4d4lf_480p_1mbps.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,8mm - Oito Milimetros
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) 8mm - Oito Milimetros
 http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-#EXTINF:0,8mm - Oito Milimetros 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) 8mm - Oito Milimetros 2
 http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
-#EXTINF:0,Oito mulheres e um segredo
-http://cdn-srv1.unitplay.net/stream/ts/402900-ocean-s-eight.mp4?LHMTv
-#EXTINF:0,Oliver!
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Oliver!
 http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
-#EXTINF:0,Orgulho E Preconceito E Guerra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Orgulho E Preconceito E Guerra
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4?LHMTv
-#EXTINF:0,Os 33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os 33
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4?LHMTv
-#EXTINF:0,Os Aventureiros do Bairro Proibido
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Aventureiros do Bairro Proibido
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.A.d.B.P.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Coopers Sao O Maximo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Coopers Sao O Maximo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4?LHMTv
-#EXTINF:0,Os Deuses Do Egipto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Deuses Do Egipto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4?LHMTv
-#EXTINF:0,Os Trapalhoes - Os Fantasmas Trapalhoes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Trapalhoes - Os Fantasmas Trapalhoes
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Fant.Tr4P.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Garotos Perdidos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Garotos Perdidos
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.G4r.P3rd.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Goonies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Goonies
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Gn13s.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Guardioes
-http://4playhd.com/Osguardioes.mp4?LHMTv
-#EXTINF:0,Os Mensageiros
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Mensageiros
 http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
-#EXTINF:5286,Os Seus -  os Meus e os Nossos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Seus -  os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-#EXTINF:0,os Meus e os Nossos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-#EXTINF:0,Os Miseraveis
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-#EXTINF:0,Os Produtores
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LHMTv
-#EXTINF:0,Os Reis de Dogtown
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?STANIPTV
-#EXTINF:0,Os Safados
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
-#EXTINF:0,Os Seus os Meus e os Nossos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Seus os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LHMTv
-#EXTINF:0,Os Trapalhoes e a arvore da juventude
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Trapalhoes e a arvore da juventude
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Tr4P.e.a.A.d.Juv.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Trapalhoes e o magico de Oroz
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Trapalhoes e o magico de Oroz
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Tr4P.E.o.m4ag.d.Oz.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Trapalhoes na terra dos monstros
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Trapalhoes na terra dos monstros
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Tr4P.n.T.D.M05tr05.LHMTv.mp4?LHMTv
-#EXTINF:0,Os Trapalhoes - Os Vagabundos Trapalhoes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Os Trapalhoes - Os Vagabundos Trapalhoes
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/O.Tr4P.O.V4g.Tr4P.LHMTv.mp4?LHMTv
-#EXTINF:0,Ouro Branco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ouro Branco
 http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
-#EXTINF:0,P.2-LEG Terra Selvagem
-http://www.blogger.com/video-play.mp4?contentId=f832fbab3515b8f&CompartilhandoIPTV
-#EXTINF:0,Pai em Dose Dupla 2
-http://www.blogger.com/video-play.mp4?contentId=2625acc887d0d723&SerieSD
-#EXTINF:0,Pai So Ha Um
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Pai So Ha Um
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4?LHMTv
-#EXTINF:0,Pan: Viagem A Terra Do Nunca
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Pan: Viagem A Terra Do Nunca
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/10.mp4?LHMTv
-#EXTINF:0,Pandemic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Pandemic
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
-#EXTINF:0,Paraiso
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Paraiso
 http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
-#EXTINF:0,Meu Primeiro Amor - Parte 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Meu Primeiro Amor - Parte 2
 http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
-#EXTINF:0,Pee-wee's Big Holiday
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Pee-wee's Big Holiday
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4?LHMTv
-#EXTINF:0,Pegar e Largar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Pegar e Largar
 http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
-#EXTINF:0,Peixonauta: O Filme
-http://offload9238.filmesonlinex.co/filmes/s1/03/521.mp4?LHMTv
-#EXTINF:0,Penelope
-http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
-#EXTINF:0,Persuasao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Persuasao
 http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
-#EXTINF:0,Hackers - Piratas de Computador
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Hackers - Piratas de Computador
 http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?LHMTv
-#EXTINF:0,Poder e Corrupcao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Poder e Corrupcao
 http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Poder e Corrupcao (Dirty)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Poder e Corrupcao (Dirty)
 http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
-#EXTINF:0,Point Break Cacadores De Emocoes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Point Break Cacadores De Emocoes
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4?LHMTv
-#EXTINF:0,Policias Em Grandes Apuros
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Policias Em Grandes Apuros
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4?LHMTv
-#EXTINF:0,Por Amor dublado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Por Amor dublado
 http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
-#EXTINF:0,Premonicoes
-http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
-#EXTINF:0,Primeira Descida
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Primeira Descida
 http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Procura-se um Bum Bum Desesperadamente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Procura-se um Bum Bum Desesperadamente
 http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Procurando Encrenca
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
-#EXTINF:0,Provas e Trapacas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Provas e Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Psiconaltas: As criancas esquecidas
-http://offload9238.filmesonlinex.co/filmes/s1/03/502.mp4?LHMTv
-#EXTINF:0,Quando um Estranho Chama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Quando um Estranho Chama
 http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LHMTv
-#EXTINF:0,Quarentena
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Quarentena
 http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LHMTv
-#EXTINF:0,Quase Ilegal
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
-#EXTINF:0,Rain Man
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
-#EXTINF:0,Rainha Do Deserto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rainha Do Deserto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4?LHMTv
-#EXTINF:0,Ramaiya Vastavaiya
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ramaiya Vastavaiya
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4?LHMTv
-#EXTINF:0,Rambo III
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rambo III
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Rmb3.LHMTv.mp4?LHMTv
-#EXTINF:0,Rambo: Programado para Matar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rambo: Programado para Matar
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/Rmb1.LHMTv.mp4?LHMTv
-#EXTINF:0,REC
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) REC
 http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
-#EXTINF:0,Red Corner
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Red Corner
 http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
-#EXTINF:0,Red: Aposentados e Perigosos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Red: Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Rede de Intrigas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rede de Intrigas
 http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Redline: Velocidade sem Limites
-http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
-#EXTINF:0,Soldado Universal 3 - Regeneracao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
-#EXTINF:0,Remember
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Remember
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4?LHMTv
-#EXTINF:0,Replicante
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
-#EXTINF:0,Resident Evil 3: A Extincao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Resident Evil 3: A Extincao
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-#EXTINF:0,Ressurreicao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ressurreicao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4?LHMTv
-#EXTINF:0,Reza Lenda
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Reza Lenda
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4?LHMTv
-#EXTINF:0,Rios Vermelhos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rios Vermelhos
 http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
-#EXTINF:0,Risco Absoluto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Risco Absoluto
 http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Robocop 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Robocop 3
 http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?STANIPTV
-#EXTINF:0,Rocky Balboa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
-#EXTINF:0,S.W.A.T.
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) S.W.A.T.
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Sacrifice
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sacrifice
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4?LHMTv
-#EXTINF:0,Sacrificio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sacrificio
 http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
-#EXTINF:0,SAHARA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) SAHARA
 http://archive.org/download/luaSaara/luaSaara.MP4
-#EXTINF:0,SAL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) SAL
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
-#EXTINF:0,Samurai Cop 2: Deadly Vengeance
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Samurai Cop 2: Deadly Vengeance
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4?LHMTv
-#EXTINF:0,Secretaria
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-#EXTINF:0,Seducao Fatal
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Seducao Fatal
 http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
-#EXTINF:0,Sedutora e Diabolica
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sedutora e Diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?LHMTv
-#EXTINF:0,The Boy - Segue As Regras
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Boy - Segue As Regras
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4?LHMTv
-#EXTINF:0,Segundas Intencoes 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-#EXTINF:0,Segurando As Pontas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
-#EXTINF:0,Seis Graus de Separacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Seis Graus de Separacao
 http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
-#EXTINF:0,Sem Compromissos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sem Compromissos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4?LHMTv
-#EXTINF:0,SEM LEI DUBLADO-ONDEMAND
-http://media-br-am.crackle.com/1/q/h6/iz3lf_480p_1mbps.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,Sem Saida
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sem Saida
 http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
-#EXTINF:0,Sem Vestigios
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-#EXTINF:0,Sereia Predadora Dublado Full HD 1080p
-http://nazabox.ddns.net/spran7.mp4?LHMTv
-#EXTINF:0,Sete Minutos Depois da Meia Noite
-http://nazabox.ddns.net/smddm7.mp4?LHMTv
-#EXTINF:0,Sete Vidas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sete Vidas
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-#EXTINF:0,Silent Hill: Revelacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Silent Hill: Revelacao
 http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
-#EXTINF:0,Simplesmente Alice
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Simplesmente Alice
 http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
-#EXTINF:0,Sitie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sitie
 http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4?LHMTv
-#EXTINF:0,Sniper: Special Ops
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sniper: Special Ops
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4?LHMTv
-#EXTINF:0,Snoopy E Charlie Brown: Peanuts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Snoopy E Charlie Brown: Peanuts
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4?LHMTv
-#EXTINF:0,So Podiam Ser Irmas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) So Podiam Ser Irmas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4?LHMTv
-#EXTINF:0,Sob Suspeita (2006)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sob Suspeita (2006)
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
-#EXTINF:0,Sociedade Feroz
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sociedade Feroz
 http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
-#EXTINF:0,Soldado Universal 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Soldado Universal 3
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Solteira Procura 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Solteira Procura 2
 http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
-#EXTINF:0,Sou Espiao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Southbound
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Southbound
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4?LHMTv
-#EXTINF:0,Special Correspondents
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Special Correspondents
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4?LHMTv
-#EXTINF:0,Sponge Bob Esponja Fora De Agua
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Sponge Bob Esponja Fora De Agua
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4?LHMTv
-#EXTINF:0,Bon Jovi - Stadium Concert
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Bon Jovi - Stadium Concert
 http://media-br-am.crackle.com/1/j/f6/j2ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Standoff
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Standoff
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4?LHMTv
-#EXTINF:0,Star Wars: O Despertar Da Forca
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Star Wars: O Despertar Da Forca
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4?LHMTv
-#EXTINF:0,Stealing Cars
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Stealing Cars
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4?LHMTv
-#EXTINF:0,Stigmata
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-#EXTINF:0,Studio 54
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Studio 54
 http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
-#EXTINF:0,Submerssao
-http://offload9238.filmesonlinex.co/filmes/s1/01/427.mp4?LHMTv
-#EXTINF:0,Supernova
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Supernova
 http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
-#EXTINF:0,SUPERNOVA DE PRATA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) SUPERNOVA DE PRATA
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4
-#EXTINF:0,Te pego la fora
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Te pego la fora
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/T.p.L.F.LHMTv.mp4?LHMTv
-#EXTINF:0,Tempo Limite
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tempo Limite
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4?LHMTv
-#EXTINF:0,Tempos de Violencia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
-#EXTINF:0,Tentaculos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tentaculos
 http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Terminus
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Terminus
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4?LHMTv
-#EXTINF:6045,Terra de Minas
-http://offload9238.filmesonlinex.co/filmes/s1/02/474.mp4?LHMTv
-#EXTINF:0,Silent Hill. Revelacao - Terror - Dublado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Silent Hill. Revelacao - Terror - Dublado
 http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
-#EXTINF:0,Tevar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tevar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4?LHMTv
-#EXTINF:0,The Boy
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Boy
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4?LHMTv
-#EXTINF:0,The Brothers Grimsby
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Brothers Grimsby
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4?LHMTv
-#EXTINF:0,The Confirmation
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Confirmation
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4?LHMTv
-#EXTINF:0,The Dead Room
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Dead Room
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4?LHMTv
-#EXTINF:0,The Do-over
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Do-over
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4?LHMTv
-#EXTINF:0,The Duel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Duel
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4?LHMTv
-#EXTINF:0,The Final Cut
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Final Cut
 http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4?LHMTv
-#EXTINF:0,The Forest
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Forest
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4?LHMTv
-#EXTINF:0,The Girl In The Photographs
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Girl In The Photographs
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4?LHMTv
-#EXTINF:0,The Hoarder
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Hoarder
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4?LHMTv
-#EXTINF:0,The Lobster
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Lobster
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4?LHMTv
-#EXTINF:0,The Offering
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Offering
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4?LHMTv
-#EXTINF:0,The Overnight
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Overnight
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4?LHMTv
-#EXTINF:0,The Trust
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Trust
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
-#EXTINF:0,The Veil
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Veil
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4?LHMTv
-#EXTINF:0,The Witch
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Witch
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4?LHMTv
-#EXTINF:0,The Woman In The Fifth
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Woman In The Fifth
 http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4?LHMTv
-#EXTINF:0,The Young Messiah
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) The Young Messiah
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv?LHMTv
-#EXTINF:0,Thor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Thor
 http://media-br-am.crackle.com/1/3/p6/kf4lf_480p.mp4
-#EXTINF:0,TIME SQUARE
-https://videos3.earthcam.com/fecnetwork/4717.flv/chunklist_w1346218821.m3u8
-#EXTINF:0,TIME SQUARE CROSS ROADS
-https://videos3.earthcam.com/fecnetwork/4717.flv/chunklist_w1929088408.m3u8
-#EXTINF:0,Titanic
-http://4playhd.com/Titanic.mp4?LHMTv
-#EXTINF:0,Torturado
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Torturado
 http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
-#EXTINF:0,Trabalho Sujo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
-#EXTINF:0,Trair e Roubar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
-#EXTINF:5768,Amar -  Trair e Roubar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Amar -  Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
-#EXTINF:6433,Jogos -  Trapacas E Dois Canos Fumegantes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jogos -  Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
-#EXTINF:0,Tres Amigos!
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tres Amigos!
 http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
-#EXTINF:0,Tres Amores
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-#EXTINF:6263,Tres Mulheres -  Tres Amores
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tres Mulheres -  Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-#EXTINF:0,Tres Formas de Amar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tres Formas de Amar
 http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Tres Mulheres Tres Amores
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tres Mulheres Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LHMTv
-#EXTINF:0,Triple 9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Triple 9
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4?LHMTv
-#EXTINF:0,Triplo X
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-#EXTINF:0,TRIPLO X 2: ESTADO DE EMERGÊNCIA DUB
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) TRIPLO X 2: ESTADO DE EMERGÊNCIA DUB
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,Triplo X MISSÃO RADICAL DUB
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Triplo X MISSÃO RADICAL DUB
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4?STANIPTV%3Cbr%3E
-#EXTINF:0,Três Formas de Amar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Três Formas de Amar
 http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4?%7CUser-agent=Mozilla%252F5.0%2520(iPhone%253B%2520U%253B%2520CPU%2520iPhone%2520OS%25204_3_2%2520like%2520Mac%2520OS%2520X%253B%2520en-us)%2520AppleWebKit%25
-#EXTINF:0,Tudo que voce precisa saber sobre Sexo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Tudo que voce precisa saber sobre Sexo
 http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LHMTv
-#EXTINF:0,Turistas
-http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
-#EXTINF:0,Ultima Musica
-https://lh4.googleusercontent.com/teSFGBtV5H8DUG8Mj8zoLMBS549aJeB2qV_DiKKadNWfvL0luzeZSVH0lY8zKfL8z7SZ-Pa-9G5lJN9MSdvMbZvNPD9-mXaahWeyOlAk_WlNzYBrFSoZtk2k_hDCm-qZfHfjHw=m18
-#EXTINF:0,Um Amor de Verao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Amor de Verao
 http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LHMTv
-#EXTINF:0,Um Ato de Liberdade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-#EXTINF:0,Um Avo Muito A Frente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Avo Muito A Frente
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4?LHMTv
-#EXTINF:0,Um Beijo Roubado
-http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,A Casa Caiu - Um Cassino na Vizinhança (2017)
-http://185.22.173.118/V2/A.Casa.Caiu.Um.Cassino.na.Vizinhan%c3%a7a.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4
-#EXTINF:0,Um Crime entre Amigas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Crime entre Amigas
 http://media-br-am.crackle.com/1/e/n6/h7ulf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Criminoso Decente
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Criminoso Decente
 http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
-#EXTINF:0,Um Dia Muito Louco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Dia Muito Louco
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Homem Bom
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Homem Bom
 http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
-#EXTINF:0,Um Homem Fora de Serie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Homem Fora de Serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Lobo em Pele de Cordeiro Dublado 2016
-http://185.22.173.118/V2/Um.Lobo.em.Pele.de.Cordeiro.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
-#EXTINF:0,Um morto muito louco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um morto muito louco
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/1.M.M.L1.LHMTv.mp4?LHMTv
-#EXTINF:0,Um morto muito louco 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um morto muito louco 2
 http://media1.lhmtv.ml/27/items/LHMTVfilmes2/1.M.M.L2.LHMTv.mp4?LHMTv
-#EXTINF:0,Um Ninja em Beverly Hills
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Ninja em Beverly Hills
 http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Peixe Chamado Wanda
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Salao do Barulho
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Salao do Barulho
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
-#EXTINF:0,Um Segredo Entre Nos
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Segredo Entre Nos
 http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
-#EXTINF:0,Um Tira Muito Suspeito
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Tira Muito Suspeito
 http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Um Voo Muito Louco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Um Voo Muito Louco
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Uma Beleza de Salao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Beleza de Salao
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LHMTv
-#EXTINF:0,Uma Escolha Por Amor
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Escolha Por Amor
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4?LHMTv
-#EXTINF:0,Uma Festa no Ar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
-#EXTINF:0,Uma Garota Encantada
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Garota Encantada
 http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-#EXTINF:0,Erin Brockovich - Uma Mulher de Talento
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Erin Brockovich - Uma Mulher de Talento
 http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?LHMTv
-#EXTINF:0,Uma Noiva e Tanto
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
-#EXTINF:0,Uma Turma do Barulho
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Uma Turma do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Kalifornia - Uma Viagem ao Inferno
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Kalifornia - Uma Viagem ao Inferno
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
-#EXTINF:0,Umrao Jaan
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Umrao Jaan
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4?LHMTv
-#EXTINF:0,Vamos Nessa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
-#EXTINF:0,Vestida Para Matar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?STANIPTV
-#EXTINF:0,Vestigios do Dia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vestigios do Dia
 http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
-#EXTINF:0,Viciado em Sexo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Viciado em Sexo
 http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
-#EXTINF:0,Vidas Que Se Cruzam
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vidas Que Se Cruzam
 http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
-#EXTINF:5432,Vinganca
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
-#EXTINF:5890,Ruslan - Vinganca Explosiva
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4?LHMTv
-#EXTINF:0,Violacao de Privacidade
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Violacao de Privacidade
 http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
-#EXTINF:0,Viram Se Novamente Gregos Para Casar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Viram Se Novamente Gregos Para Casar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4?LHMTv
-#EXTINF:0,Virei Um Gato DUBLADO 2016 COMEDIA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Virei Um Gato DUBLADO 2016 COMEDIA
 http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/vireiumgato.mp4/playlist.m3u8
-#EXTINF:5329,Vou Te Pegar Otario
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
-#EXTINF:0,WALL STREET
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) WALL STREET
 https://videos3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w1384346436.m3u8
-#EXTINF:0,Wasabi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
-#EXTINF:0,Whiskey Tango Foxtrot
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Whiskey Tango Foxtrot
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4?LHMTv
-#EXTINF:7444,xXx
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) xXx
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-#EXTINF:0,xXx: Reativado
-http://4playhd.com/xXxReativado.mp4?LHMTv
-#EXTINF:0,Zoolander 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Zoolander 2
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4?LHMTv
-#EXTINF:0,Zootopia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Zootopia
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4?LHMTv
-#EXTINF:0,Zootropolis
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Zootropolis
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4?LHMTv
-#EXTINF:0,************************************************************************************************************************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) ************************************************************************************************************************************
 http://pastebin.com/raw/************************************************************************************************************************************
-#EXTINF:0,Playboy TV
-http://cdn.iptvbr.tv:8080/live/muitoroubo/NHiFJgmOUr/214.ts?%7CUser-Agent=ExoMedia%204.2.1
-#EXTINF:0,Sexy Hot
-http://cdn.iptvbr.tv:8080/live/muitoroubo/NHiFJgmOUr/237.ts?%7CUser-Agent=ExoMedia%204.2.1
-#EXTINF:0,Sextreme
-http://cdn.iptvbr.tv:8080/live/muitoroubo/NHiFJgmOUr/238.ts?%7CUser-Agent=ExoMedia%204.2.1
-#EXTINF:0,Jasmin TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0,Porneq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (DUVIDOSO) Porneq
 http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
-#EXTINF:0,Miami TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Miami TV
 http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8?
-#EXTINF:0, English: miami
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1922323004_b742000.m3u8
-#EXTINF:0,Miami TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Miami TV
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:0, Visit-X TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (ONLINE) Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
