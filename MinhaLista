@@ -1,6 +1,10 @@
 
 #EXTINF:-1 group-title="General" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8b/f9/40/8bf940255131343d56325865acb75acb.png",O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+
+#EXTINF:-1 group-title="BBB" tvg-logo="http://crawler.mdcgate.com/iptv/logo/19624.png",BBB 19
+http://apk26.futeboltvgratis.com/live/7/chunks.m3u8
+
 #EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/19624.png",A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
 #EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/39277.png",Segundas Intencoes 3
